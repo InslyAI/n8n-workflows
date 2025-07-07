@@ -1,0 +1,19 @@
+{
+  "id": "jPi4QxazXB4DprWV",
+  "name": "My workflow 2",
+  "nodes": [],
+  "connections": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "triggerCount": 0,
+  "versionId": "3cfadde1-a0b8-4b15-93dc-4889edb56001",
+  "owner": {
+    "type": "personal",
+    "projectId": "zUUxYsdCetYnmkLp",
+    "projectName": "ANDO KIVILAID <ando@insly.com>",
+    "personalEmail": "ando@insly.com"
+  },
+  "parentFolderId": null,
+  "isArchived": false
+}
