@@ -284,21 +284,21 @@
       "department": "",
       "nodes_count": 12,
       "integrations": [
-        "executeWorkflowTrigger",
         "if",
         "stickyNote",
-        "set",
-        "merge",
         "crypto",
+        "stopAndError",
+        "merge",
         "code",
-        "stopAndError"
+        "set",
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.266518",
-    "updated_at": "2025-07-07T19:41:49.266519",
+    "created_at": "2025-07-07T19:46:34.965274",
+    "updated_at": "2025-07-07T19:46:34.965275",
     "version": "1.0.0"
   }
 }

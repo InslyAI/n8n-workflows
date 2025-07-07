@@ -93,15 +93,15 @@
       "department": "",
       "nodes_count": 3,
       "integrations": [
-        "manualTrigger",
-        "storyblok"
+        "storyblok",
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.479959",
-    "updated_at": "2025-07-07T19:41:49.479960",
+    "created_at": "2025-07-07T19:46:35.257493",
+    "updated_at": "2025-07-07T19:46:35.257494",
     "version": "1.0.0"
   }
 }

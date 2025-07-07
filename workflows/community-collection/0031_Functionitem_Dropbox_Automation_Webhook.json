@@ -284,20 +284,20 @@
       "department": "",
       "nodes_count": 10,
       "integrations": [
+        "uproc",
         "manualTrigger",
+        "awsSes",
         "dropbox",
         "merge",
         "httpRequest",
-        "functionItem",
-        "uproc",
-        "awsSes"
+        "functionItem"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.834453",
-    "updated_at": "2025-07-07T19:41:48.834454",
+    "created_at": "2025-07-07T19:46:34.451491",
+    "updated_at": "2025-07-07T19:46:34.451491",
     "version": "1.0.0"
   }
 }

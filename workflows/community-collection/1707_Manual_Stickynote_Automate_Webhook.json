@@ -564,12 +564,12 @@
       "department": "",
       "nodes_count": 19,
       "integrations": [
-        "manualTrigger",
-        "stickyNote",
         "function",
-        "readWriteFile",
+        "stickyNote",
+        "manualTrigger",
         "httpRequest",
-        "set"
+        "set",
+        "readWriteFile"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -588,8 +588,8 @@
         "updatedAt": "2025-04-13T05:38:08.053Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.434763",
-    "updated_at": "2025-07-07T19:41:49.434764",
+    "created_at": "2025-07-07T19:46:35.208722",
+    "updated_at": "2025-07-07T19:46:35.208723",
     "version": "1.0.0"
   }
 }

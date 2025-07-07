@@ -191,17 +191,17 @@
       "integrations": [
         "if",
         "noOp",
-        "trello",
         "airtable",
         "typeformTrigger",
+        "trello",
         "set"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.603294",
-    "updated_at": "2025-07-07T19:41:49.603294",
+    "created_at": "2025-07-07T19:46:35.388681",
+    "updated_at": "2025-07-07T19:46:35.388682",
     "version": "1.0.0"
   }
 }

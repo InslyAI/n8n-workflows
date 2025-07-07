@@ -60,15 +60,15 @@
       "department": "",
       "nodes_count": 2,
       "integrations": [
-        "twake",
-        "manualTrigger"
+        "manualTrigger",
+        "twake"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.366279",
-    "updated_at": "2025-07-07T19:41:49.366280",
+    "created_at": "2025-07-07T19:46:35.133527",
+    "updated_at": "2025-07-07T19:46:35.133529",
     "version": "1.0.0"
   }
 }

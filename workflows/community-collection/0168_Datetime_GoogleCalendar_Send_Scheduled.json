@@ -405,13 +405,13 @@
       "department": "",
       "nodes_count": 13,
       "integrations": [
-        "switch",
-        "merge",
         "noOp",
-        "googleCalendar",
         "cron",
+        "switch",
+        "googleCalendar",
         "dateTime",
         "code",
+        "merge",
         "emailSend",
         "set"
       ],
@@ -419,8 +419,8 @@
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.041934",
-    "updated_at": "2025-07-07T19:41:49.041935",
+    "created_at": "2025-07-07T19:46:34.661843",
+    "updated_at": "2025-07-07T19:46:34.661844",
     "version": "1.0.0"
   }
 }

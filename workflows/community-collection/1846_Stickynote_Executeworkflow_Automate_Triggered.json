@@ -301,9 +301,9 @@
       "department": "",
       "nodes_count": 12,
       "integrations": [
-        "code",
+        "stickyNote",
         "executeWorkflowTrigger",
-        "stickyNote"
+        "code"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -328,8 +328,8 @@
         "updatedAt": "2025-03-20T12:20:03.063Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.486132",
-    "updated_at": "2025-07-07T19:41:49.486133",
+    "created_at": "2025-07-07T19:46:35.263985",
+    "updated_at": "2025-07-07T19:46:35.263986",
     "version": "1.0.0"
   }
 }

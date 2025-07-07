@@ -414,11 +414,11 @@
       "nodes_count": 13,
       "integrations": [
         "if",
-        "merge",
         "stickyNote",
-        "html",
         "errorTrigger",
         "gmail",
+        "html",
+        "merge",
         "code",
         "set"
       ],
@@ -433,8 +433,8 @@
         "updatedAt": "2025-03-03T17:54:29.858Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.243970",
-    "updated_at": "2025-07-07T19:41:49.243971",
+    "created_at": "2025-07-07T19:46:34.941371",
+    "updated_at": "2025-07-07T19:46:34.941372",
     "version": "1.0.0"
   }
 }

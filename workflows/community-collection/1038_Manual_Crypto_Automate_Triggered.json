@@ -51,15 +51,15 @@
       "department": "",
       "nodes_count": 2,
       "integrations": [
-        "manualTrigger",
-        "crypto"
+        "crypto",
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.159901",
-    "updated_at": "2025-07-07T19:41:49.159902",
+    "created_at": "2025-07-07T19:46:34.852403",
+    "updated_at": "2025-07-07T19:46:34.852404",
     "version": "1.0.0"
   }
 }

@@ -164,17 +164,17 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
+        "nextCloud",
         "scheduleTrigger",
-        "httpRequest",
         "stickyNote",
-        "nextCloud"
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.718683",
-    "updated_at": "2025-07-07T19:41:48.718683",
+    "created_at": "2025-07-07T19:46:34.340545",
+    "updated_at": "2025-07-07T19:46:34.340546",
     "version": "1.0.0"
   }
 }

@@ -206,18 +206,18 @@
       "department": "",
       "nodes_count": 9,
       "integrations": [
-        "stickyNote",
         "function",
-        "httpRequest",
+        "stickyNote",
         "telegram",
+        "httpRequest",
         "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.263500",
-    "updated_at": "2025-07-07T19:41:49.263501",
+    "created_at": "2025-07-07T19:46:34.961835",
+    "updated_at": "2025-07-07T19:46:34.961838",
     "version": "1.0.0"
   }
 }

@@ -830,23 +830,23 @@
       "department": "",
       "nodes_count": 33,
       "integrations": [
-        "googleDrive",
         "stickyNote",
-        "merge",
         "form",
-        "httpRequest",
         "formTrigger",
+        "httpRequest",
         "gmail",
+        "merge",
+        "googleDrive",
         "code",
-        "markdown",
-        "set"
+        "set",
+        "markdown"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.173477",
-    "updated_at": "2025-07-07T19:41:49.173478",
+    "created_at": "2025-07-07T19:46:34.867594",
+    "updated_at": "2025-07-07T19:46:34.867596",
     "version": "1.0.0"
   }
 }

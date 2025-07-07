@@ -1635,25 +1635,25 @@
       "department": "",
       "nodes_count": 51,
       "integrations": [
-        "extractFromFile",
-        "manualTrigger",
+        "noOp",
         "switch",
         "stickyNote",
-        "splitInBatches",
-        "noOp",
-        "httpRequest",
-        "airtable",
-        "webhook",
-        "filter",
+        "manualTrigger",
         "code",
-        "set"
+        "airtable",
+        "splitInBatches",
+        "extractFromFile",
+        "httpRequest",
+        "set",
+        "webhook",
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.334949",
-    "updated_at": "2025-07-07T19:41:49.334950",
+    "created_at": "2025-07-07T19:46:35.093740",
+    "updated_at": "2025-07-07T19:46:35.093741",
     "version": "1.0.0"
   }
 }

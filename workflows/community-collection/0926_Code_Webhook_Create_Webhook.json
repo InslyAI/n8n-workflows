@@ -2505,23 +2505,23 @@
       "department": "",
       "nodes_count": 51,
       "integrations": [
-        "supabase",
-        "googleSheets",
-        "stickyNote",
-        "merge",
         "itemLists",
         "if",
-        "webhook",
+        "stickyNote",
         "gmail",
+        "googleSheets",
+        "merge",
         "code",
-        "set"
+        "set",
+        "supabase",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.282868",
-    "updated_at": "2025-07-07T19:41:49.282869",
+    "created_at": "2025-07-07T19:46:34.998638",
+    "updated_at": "2025-07-07T19:46:34.998644",
     "version": "1.0.0"
   }
 }

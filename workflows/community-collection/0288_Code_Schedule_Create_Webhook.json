@@ -678,23 +678,23 @@
       "nodes_count": 24,
       "integrations": [
         "itemLists",
-        "if",
         "stripe",
-        "hubspot",
-        "merge",
+        "if",
         "stickyNote",
-        "httpRequest",
         "noOp",
-        "scheduleTrigger",
+        "httpRequest",
+        "merge",
         "code",
-        "set"
+        "set",
+        "scheduleTrigger",
+        "hubspot"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.381323",
-    "updated_at": "2025-07-07T19:41:49.381324",
+    "created_at": "2025-07-07T19:46:35.150803",
+    "updated_at": "2025-07-07T19:46:35.150804",
     "version": "1.0.0"
   }
 }

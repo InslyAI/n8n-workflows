@@ -355,24 +355,24 @@
       "department": "",
       "nodes_count": 12,
       "integrations": [
-        "manualTrigger",
-        "if",
-        "splitInBatches",
         "splitOut",
-        "wait",
+        "if",
         "stickyNote",
-        "xml",
+        "manualTrigger",
         "httpRequest",
-        "scheduleTrigger",
+        "splitInBatches",
         "stopAndError",
-        "set"
+        "wait",
+        "xml",
+        "set",
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.155452",
-    "updated_at": "2025-07-07T19:41:49.155453",
+    "created_at": "2025-07-07T19:46:34.847524",
+    "updated_at": "2025-07-07T19:46:34.847524",
     "version": "1.0.0"
   }
 }

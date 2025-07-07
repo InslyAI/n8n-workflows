@@ -196,17 +196,17 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
-        "twitter",
-        "httpRequest",
+        "set",
         "scheduleTrigger",
-        "set"
+        "twitter",
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.133372",
-    "updated_at": "2025-07-07T19:41:49.133373",
+    "created_at": "2025-07-07T19:46:34.821831",
+    "updated_at": "2025-07-07T19:46:34.821832",
     "version": "1.0.0"
   }
 }

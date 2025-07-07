@@ -290,19 +290,19 @@
       "department": "",
       "nodes_count": 10,
       "integrations": [
+        "if",
         "stickyNote",
         "merge",
-        "if",
+        "emailSend",
         "scheduleTrigger",
-        "ssh",
-        "emailSend"
+        "ssh"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.219186",
-    "updated_at": "2025-07-07T19:41:49.219187",
+    "created_at": "2025-07-07T19:46:34.917488",
+    "updated_at": "2025-07-07T19:46:34.917489",
     "version": "1.0.0"
   }
 }

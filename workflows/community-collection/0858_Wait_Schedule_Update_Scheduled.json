@@ -927,22 +927,22 @@
       "department": "",
       "nodes_count": 21,
       "integrations": [
-        "manualTrigger",
-        "googleSheets",
-        "stickyNote",
         "if",
+        "stickyNote",
+        "manualTrigger",
         "splitInBatches",
+        "googleSheets",
         "wait",
         "httpRequest",
-        "scheduleTrigger",
-        "set"
+        "set",
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.033325",
-    "updated_at": "2025-07-07T19:41:49.033325",
+    "created_at": "2025-07-07T19:46:34.649242",
+    "updated_at": "2025-07-07T19:46:34.649243",
     "version": "1.0.0"
   }
 }

@@ -67,15 +67,15 @@
       "department": "",
       "nodes_count": 2,
       "integrations": [
-        "manualTrigger",
-        "bannerbear"
+        "bannerbear",
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.503469",
-    "updated_at": "2025-07-07T19:41:49.503469",
+    "created_at": "2025-07-07T19:46:35.282646",
+    "updated_at": "2025-07-07T19:46:35.282647",
     "version": "1.0.0"
   }
 }

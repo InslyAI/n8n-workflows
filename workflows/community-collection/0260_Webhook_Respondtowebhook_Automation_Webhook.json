@@ -320,21 +320,21 @@
       "department": "",
       "nodes_count": 11,
       "integrations": [
-        "manualTrigger",
-        "itemLists",
         "function",
+        "manualTrigger",
         "httpRequest",
         "respondToWebhook",
+        "itemLists",
+        "set",
         "webhook",
-        "htmlExtract",
-        "set"
+        "htmlExtract"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.457798",
-    "updated_at": "2025-07-07T19:41:49.457799",
+    "created_at": "2025-07-07T19:46:35.233464",
+    "updated_at": "2025-07-07T19:46:35.233465",
     "version": "1.0.0"
   }
 }

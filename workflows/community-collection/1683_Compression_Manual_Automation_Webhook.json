@@ -309,19 +309,19 @@
       "department": "",
       "nodes_count": 13,
       "integrations": [
-        "manualTrigger",
         "stickyNote",
-        "readWriteFile",
+        "manualTrigger",
         "httpRequest",
-        "compression",
-        "set"
+        "set",
+        "readWriteFile",
+        "compression"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.904592",
-    "updated_at": "2025-07-07T19:41:48.904593",
+    "created_at": "2025-07-07T19:46:34.518397",
+    "updated_at": "2025-07-07T19:46:34.518397",
     "version": "1.0.0"
   }
 }

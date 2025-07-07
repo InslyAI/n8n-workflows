@@ -946,23 +946,23 @@
       "department": "",
       "nodes_count": 20,
       "integrations": [
-        "manualTrigger",
-        "googleSheets",
         "itemLists",
-        "stickyNote",
         "if",
-        "httpRequest",
-        "scheduleTrigger",
-        "filter",
+        "stickyNote",
+        "manualTrigger",
         "code",
-        "set"
+        "googleSheets",
+        "httpRequest",
+        "set",
+        "scheduleTrigger",
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.026314",
-    "updated_at": "2025-07-07T19:41:49.026315",
+    "created_at": "2025-07-07T19:46:34.642395",
+    "updated_at": "2025-07-07T19:46:34.642396",
     "version": "1.0.0"
   }
 }

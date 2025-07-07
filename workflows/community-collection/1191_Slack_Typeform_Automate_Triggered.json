@@ -128,17 +128,17 @@
       "department": "",
       "nodes_count": 4,
       "integrations": [
-        "airtable",
+        "set",
         "slack",
-        "typeformTrigger",
-        "set"
+        "airtable",
+        "typeformTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.758961",
-    "updated_at": "2025-07-07T19:41:48.758962",
+    "created_at": "2025-07-07T19:46:34.378779",
+    "updated_at": "2025-07-07T19:46:34.378779",
     "version": "1.0.0"
   }
 }

@@ -408,8 +408,8 @@
       "department": "",
       "nodes_count": 14,
       "integrations": [
-        "stickyNote",
         "if",
+        "stickyNote",
         "httpRequest",
         "respondToWebhook",
         "code",
@@ -419,8 +419,8 @@
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.145063",
-    "updated_at": "2025-07-07T19:41:49.145064",
+    "created_at": "2025-07-07T19:46:34.835139",
+    "updated_at": "2025-07-07T19:46:34.835140",
     "version": "1.0.0"
   }
 }

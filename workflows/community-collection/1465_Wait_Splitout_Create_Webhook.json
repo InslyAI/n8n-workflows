@@ -750,12 +750,12 @@
       "department": "",
       "nodes_count": 18,
       "integrations": [
-        "manualTrigger",
-        "googleSheets",
-        "if",
         "splitOut",
-        "splitInBatches",
+        "if",
         "stickyNote",
+        "manualTrigger",
+        "splitInBatches",
+        "googleSheets",
         "wait",
         "httpRequest",
         "set"
@@ -764,8 +764,8 @@
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.106186",
-    "updated_at": "2025-07-07T19:41:49.106187",
+    "created_at": "2025-07-07T19:46:34.785940",
+    "updated_at": "2025-07-07T19:46:34.785941",
     "version": "1.0.0"
   }
 }

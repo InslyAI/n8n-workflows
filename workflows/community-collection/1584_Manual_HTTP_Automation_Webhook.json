@@ -148,17 +148,17 @@
       "nodes_count": 5,
       "integrations": [
         "manualTrigger",
-        "httpRequest",
-        "functionItem",
         "airtable",
-        "set"
+        "httpRequest",
+        "set",
+        "functionItem"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.999283",
-    "updated_at": "2025-07-07T19:41:48.999284",
+    "created_at": "2025-07-07T19:46:34.613159",
+    "updated_at": "2025-07-07T19:46:34.613160",
     "version": "1.0.0"
   }
 }

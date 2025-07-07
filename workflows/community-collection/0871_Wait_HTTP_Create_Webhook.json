@@ -802,21 +802,21 @@
       "department": "",
       "nodes_count": 17,
       "integrations": [
-        "googleSheets",
-        "stickyNote",
         "if",
-        "wait",
-        "httpRequest",
+        "stickyNote",
         "formTrigger",
         "gmail",
-        "aggregate"
+        "googleSheets",
+        "aggregate",
+        "wait",
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.276662",
-    "updated_at": "2025-07-07T19:41:49.276663",
+    "created_at": "2025-07-07T19:46:34.983624",
+    "updated_at": "2025-07-07T19:46:34.983626",
     "version": "1.0.0"
   }
 }

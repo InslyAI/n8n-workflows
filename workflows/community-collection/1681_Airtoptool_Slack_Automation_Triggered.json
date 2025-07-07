@@ -693,13 +693,13 @@
       "department": "",
       "nodes_count": 19,
       "integrations": [
-        "slack",
-        "executeWorkflowTrigger",
         "stickyNote",
-        "airtop",
         "formTrigger",
+        "slack",
         "airtopTool",
-        "set"
+        "airtop",
+        "set",
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -718,8 +718,8 @@
         "updatedAt": "2025-04-15T18:59:57.364Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:48.743040",
-    "updated_at": "2025-07-07T19:41:48.743041",
+    "created_at": "2025-07-07T19:46:34.363908",
+    "updated_at": "2025-07-07T19:46:34.363909",
     "version": "1.0.0"
   }
 }

@@ -124,15 +124,15 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
-        "merge",
-        "function"
+        "function",
+        "merge"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.531158",
-    "updated_at": "2025-07-07T19:41:49.531159",
+    "created_at": "2025-07-07T19:46:35.309163",
+    "updated_at": "2025-07-07T19:46:35.309164",
     "version": "1.0.0"
   }
 }

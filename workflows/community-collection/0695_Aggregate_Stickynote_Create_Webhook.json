@@ -520,20 +520,20 @@
       "department": "",
       "nodes_count": 14,
       "integrations": [
-        "set",
+        "splitOut",
+        "if",
         "stickyNote",
         "merge",
-        "if",
-        "splitOut",
-        "webhook",
-        "aggregate"
+        "aggregate",
+        "set",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.628857",
-    "updated_at": "2025-07-07T19:41:48.628863",
+    "created_at": "2025-07-07T19:46:34.242637",
+    "updated_at": "2025-07-07T19:46:34.242641",
     "version": "1.0.0"
   }
 }

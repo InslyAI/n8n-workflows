@@ -985,22 +985,22 @@
       "department": "",
       "nodes_count": 33,
       "integrations": [
-        "manualTrigger",
-        "executeWorkflowTrigger",
         "stickyNote",
+        "manualTrigger",
+        "httpRequest",
+        "html",
         "merge",
         "wait",
-        "html",
-        "httpRequest",
         "code",
-        "set"
+        "set",
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.478158",
-    "updated_at": "2025-07-07T19:41:49.478159",
+    "created_at": "2025-07-07T19:46:35.255830",
+    "updated_at": "2025-07-07T19:46:35.255830",
     "version": "1.0.0"
   }
 }

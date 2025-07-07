@@ -772,21 +772,21 @@
       "department": "",
       "nodes_count": 27,
       "integrations": [
-        "manualTrigger",
-        "extractFromFile",
-        "switch",
         "stickyNote",
-        "httpRequest",
-        "telegram",
+        "manualTrigger",
         "telegramTrigger",
+        "switch",
+        "telegram",
+        "extractFromFile",
+        "httpRequest",
         "set"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.050954",
-    "updated_at": "2025-07-07T19:41:49.050955",
+    "created_at": "2025-07-07T19:46:34.671904",
+    "updated_at": "2025-07-07T19:46:34.671905",
     "version": "1.0.0"
   }
 }

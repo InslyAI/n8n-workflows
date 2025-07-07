@@ -1228,14 +1228,14 @@
       "department": "",
       "nodes_count": 37,
       "integrations": [
-        "switch",
-        "googleDrive",
-        "stickyNote",
         "if",
-        "googleSheets",
-        "telegram",
+        "stickyNote",
+        "switch",
         "telegramTrigger",
+        "telegram",
         "gmail",
+        "googleSheets",
+        "googleDrive",
         "code",
         "set"
       ],
@@ -1243,8 +1243,8 @@
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.165725",
-    "updated_at": "2025-07-07T19:41:49.165725",
+    "created_at": "2025-07-07T19:46:34.858965",
+    "updated_at": "2025-07-07T19:46:34.858966",
     "version": "1.0.0"
   }
 }

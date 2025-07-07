@@ -66,15 +66,15 @@
       "department": "",
       "nodes_count": 2,
       "integrations": [
-        "mattermost",
-        "lemlistTrigger"
+        "lemlistTrigger",
+        "mattermost"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.796870",
-    "updated_at": "2025-07-07T19:41:48.796871",
+    "created_at": "2025-07-07T19:46:34.414348",
+    "updated_at": "2025-07-07T19:46:34.414349",
     "version": "1.0.0"
   }
 }

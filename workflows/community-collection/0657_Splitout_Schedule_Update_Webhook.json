@@ -811,19 +811,19 @@
       "department": "",
       "nodes_count": 18,
       "integrations": [
-        "googleSheets",
-        "stickyNote",
         "splitOut",
+        "stickyNote",
+        "googleSheets",
         "httpRequest",
-        "scheduleTrigger",
-        "set"
+        "set",
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.389212",
-    "updated_at": "2025-07-07T19:41:49.389213",
+    "created_at": "2025-07-07T19:46:35.159462",
+    "updated_at": "2025-07-07T19:46:35.159463",
     "version": "1.0.0"
   }
 }

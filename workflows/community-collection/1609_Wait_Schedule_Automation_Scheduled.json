@@ -442,9 +442,9 @@
       "nodes_count": 14,
       "integrations": [
         "stickyNote",
+        "discord",
         "splitInBatches",
         "wait",
-        "discord",
         "scheduleTrigger",
         "filter"
       ],
@@ -459,8 +459,8 @@
         "updatedAt": "2025-01-08T19:56:24.079Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:48.956432",
-    "updated_at": "2025-07-07T19:41:48.956433",
+    "created_at": "2025-07-07T19:46:34.570192",
+    "updated_at": "2025-07-07T19:46:34.570194",
     "version": "1.0.0"
   }
 }

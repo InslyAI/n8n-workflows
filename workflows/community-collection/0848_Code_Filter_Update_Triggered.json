@@ -731,22 +731,22 @@
       "department": "",
       "nodes_count": 20,
       "integrations": [
-        "googleDrive",
-        "switch",
-        "stickyNote",
-        "if",
         "noOp",
-        "googleDriveTrigger",
-        "filter",
+        "if",
+        "stickyNote",
+        "switch",
+        "googleDrive",
         "code",
-        "set"
+        "set",
+        "filter",
+        "googleDriveTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.977459",
-    "updated_at": "2025-07-07T19:41:48.977459",
+    "created_at": "2025-07-07T19:46:34.591412",
+    "updated_at": "2025-07-07T19:46:34.591412",
     "version": "1.0.0"
   }
 }

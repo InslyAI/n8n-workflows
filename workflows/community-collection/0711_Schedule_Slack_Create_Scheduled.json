@@ -328,21 +328,21 @@
       "department": "",
       "nodes_count": 9,
       "integrations": [
-        "slack",
         "if",
-        "merge",
         "stickyNote",
-        "httpRequest",
-        "scheduleTrigger",
+        "merge",
+        "slack",
         "mongoDb",
-        "set"
+        "httpRequest",
+        "set",
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.875434",
-    "updated_at": "2025-07-07T19:41:48.875436",
+    "created_at": "2025-07-07T19:46:34.491176",
+    "updated_at": "2025-07-07T19:46:34.491178",
     "version": "1.0.0"
   }
 }

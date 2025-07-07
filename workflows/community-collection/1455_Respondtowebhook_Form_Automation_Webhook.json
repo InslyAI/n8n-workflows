@@ -728,20 +728,20 @@
       "department": "",
       "nodes_count": 19,
       "integrations": [
-        "switch",
         "stickyNote",
         "s3",
-        "httpRequest",
-        "respondToWebhook",
         "formTrigger",
+        "switch",
+        "respondToWebhook",
+        "httpRequest",
         "set"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.917397",
-    "updated_at": "2025-07-07T19:41:48.917398",
+    "created_at": "2025-07-07T19:46:34.531345",
+    "updated_at": "2025-07-07T19:46:34.531346",
     "version": "1.0.0"
   }
 }

@@ -248,21 +248,21 @@
       "department": "",
       "nodes_count": 9,
       "integrations": [
+        "function",
+        "cron",
         "manualTrigger",
-        "googleDrive",
         "moveBinaryData",
         "merge",
-        "function",
         "httpRequest",
-        "functionItem",
-        "cron"
+        "googleDrive",
+        "functionItem"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.144522",
-    "updated_at": "2025-07-07T19:41:49.144523",
+    "created_at": "2025-07-07T19:46:34.834476",
+    "updated_at": "2025-07-07T19:46:34.834480",
     "version": "1.0.0"
   }
 }

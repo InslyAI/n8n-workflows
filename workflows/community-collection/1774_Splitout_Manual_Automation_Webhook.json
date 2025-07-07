@@ -1260,10 +1260,10 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
+        "splitOut",
+        "stickyNote",
         "manualTrigger",
         "googleSheets",
-        "stickyNote",
-        "splitOut",
         "httpRequest"
       ],
       "estimated_cost": "medium",
@@ -1277,8 +1277,8 @@
         "updatedAt": "2025-04-15T17:02:00.249Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:48.954927",
-    "updated_at": "2025-07-07T19:41:48.954928",
+    "created_at": "2025-07-07T19:46:34.568900",
+    "updated_at": "2025-07-07T19:46:34.568901",
     "version": "1.0.0"
   }
 }

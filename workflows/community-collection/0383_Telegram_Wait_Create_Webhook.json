@@ -1106,26 +1106,26 @@
       "department": "",
       "nodes_count": 36,
       "integrations": [
-        "switch",
-        "stickyNote",
         "if",
         "noOp",
+        "stickyNote",
+        "switch",
+        "telegramTrigger",
+        "redis",
+        "telegram",
+        "code",
         "splitInBatches",
         "wait",
         "httpRequest",
-        "telegram",
-        "telegramTrigger",
-        "redis",
-        "filter",
-        "code",
-        "set"
+        "set",
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.238839",
-    "updated_at": "2025-07-07T19:41:49.238840",
+    "created_at": "2025-07-07T19:46:34.935839",
+    "updated_at": "2025-07-07T19:46:34.935840",
     "version": "1.0.0"
   }
 }

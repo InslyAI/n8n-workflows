@@ -256,9 +256,9 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
+        "scheduleTrigger",
         "airtable",
         "stickyNote",
-        "scheduleTrigger",
         "httpRequest"
       ],
       "estimated_cost": "medium",
@@ -272,8 +272,8 @@
         "updatedAt": "2025-03-21T07:22:28.491Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.149531",
-    "updated_at": "2025-07-07T19:41:49.149531",
+    "created_at": "2025-07-07T19:46:34.840886",
+    "updated_at": "2025-07-07T19:46:34.840887",
     "version": "1.0.0"
   }
 }

@@ -633,21 +633,21 @@
       "department": "",
       "nodes_count": 16,
       "integrations": [
-        "googleSheets",
         "if",
         "stickyNote",
-        "httpRequest",
-        "respondToWebhook",
-        "webhook",
         "formTrigger",
-        "set"
+        "respondToWebhook",
+        "googleSheets",
+        "httpRequest",
+        "set",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.177879",
-    "updated_at": "2025-07-07T19:41:49.177880",
+    "created_at": "2025-07-07T19:46:34.873819",
+    "updated_at": "2025-07-07T19:46:34.873820",
     "version": "1.0.0"
   }
 }

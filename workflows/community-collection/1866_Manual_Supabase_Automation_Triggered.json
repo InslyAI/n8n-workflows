@@ -241,9 +241,9 @@
       "department": "",
       "nodes_count": 6,
       "integrations": [
-        "manualTrigger",
+        "set",
         "supabase",
-        "set"
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -256,8 +256,8 @@
         "updatedAt": "2025-02-23T15:20:47.262Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.541702",
-    "updated_at": "2025-07-07T19:41:49.541702",
+    "created_at": "2025-07-07T19:46:35.319412",
+    "updated_at": "2025-07-07T19:46:35.319412",
     "version": "1.0.0"
   }
 }

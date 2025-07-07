@@ -136,17 +136,17 @@
       "department": "",
       "nodes_count": 4,
       "integrations": [
-        "xml",
-        "respondToWebhook",
+        "set",
         "webhook",
-        "set"
+        "respondToWebhook",
+        "xml"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.894496",
-    "updated_at": "2025-07-07T19:41:48.894497",
+    "created_at": "2025-07-07T19:46:34.510321",
+    "updated_at": "2025-07-07T19:46:34.510322",
     "version": "1.0.0"
   }
 }

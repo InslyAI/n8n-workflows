@@ -655,17 +655,17 @@
       "nodes_count": 15,
       "integrations": [
         "switch",
-        "executeWorkflowTrigger",
         "stickyNote",
-        "postgres",
-        "postgresTool"
+        "postgresTool",
+        "executeWorkflowTrigger",
+        "postgres"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.313897",
-    "updated_at": "2025-07-07T19:41:49.313898",
+    "created_at": "2025-07-07T19:46:35.066647",
+    "updated_at": "2025-07-07T19:46:35.066648",
     "version": "1.0.0"
   }
 }

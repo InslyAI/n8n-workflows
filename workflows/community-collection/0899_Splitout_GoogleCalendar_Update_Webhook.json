@@ -593,24 +593,24 @@
       "department": "",
       "nodes_count": 18,
       "integrations": [
-        "set",
-        "if",
-        "splitInBatches",
-        "splitOut",
         "googleCalendarTrigger",
+        "splitOut",
+        "if",
         "stickyNote",
-        "httpRequest",
         "gmail",
+        "splitInBatches",
+        "aggregate",
+        "httpRequest",
+        "set",
         "filter",
-        "markdown",
-        "aggregate"
+        "markdown"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.937385",
-    "updated_at": "2025-07-07T19:41:48.937386",
+    "created_at": "2025-07-07T19:46:34.551421",
+    "updated_at": "2025-07-07T19:46:34.551422",
     "version": "1.0.0"
   }
 }

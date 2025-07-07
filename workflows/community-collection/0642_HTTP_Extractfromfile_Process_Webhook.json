@@ -285,9 +285,9 @@
       "department": "",
       "nodes_count": 11,
       "integrations": [
+        "stickyNote",
         "manualTrigger",
         "extractFromFile",
-        "stickyNote",
         "httpRequest",
         "set"
       ],
@@ -295,8 +295,8 @@
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.836706",
-    "updated_at": "2025-07-07T19:41:48.836706",
+    "created_at": "2025-07-07T19:46:34.453324",
+    "updated_at": "2025-07-07T19:46:34.453324",
     "version": "1.0.0"
   }
 }

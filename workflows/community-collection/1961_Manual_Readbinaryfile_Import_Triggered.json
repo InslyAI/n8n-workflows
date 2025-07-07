@@ -163,17 +163,17 @@
       "department": "",
       "nodes_count": 4,
       "integrations": [
-        "manualTrigger",
+        "spreadsheetFile",
         "readBinaryFile",
-        "postgres",
-        "spreadsheetFile"
+        "manualTrigger",
+        "postgres"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.542561",
-    "updated_at": "2025-07-07T19:41:49.542562",
+    "created_at": "2025-07-07T19:46:35.320417",
+    "updated_at": "2025-07-07T19:46:35.320418",
     "version": "1.0.0"
   }
 }

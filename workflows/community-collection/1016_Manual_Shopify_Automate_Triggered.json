@@ -55,15 +55,15 @@
       "department": "",
       "nodes_count": 2,
       "integrations": [
-        "manualTrigger",
-        "shopify"
+        "shopify",
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.572476",
-    "updated_at": "2025-07-07T19:41:49.572477",
+    "created_at": "2025-07-07T19:46:35.352866",
+    "updated_at": "2025-07-07T19:46:35.352869",
     "version": "1.0.0"
   }
 }

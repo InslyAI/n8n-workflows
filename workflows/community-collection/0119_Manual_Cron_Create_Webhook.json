@@ -411,20 +411,20 @@
       "department": "",
       "nodes_count": 13,
       "integrations": [
-        "manualTrigger",
-        "if",
         "function",
-        "httpRequest",
+        "if",
         "cron",
-        "emailSend",
-        "set"
+        "manualTrigger",
+        "httpRequest",
+        "set",
+        "emailSend"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.261741",
-    "updated_at": "2025-07-07T19:41:49.261741",
+    "created_at": "2025-07-07T19:46:34.960075",
+    "updated_at": "2025-07-07T19:46:34.960076",
     "version": "1.0.0"
   }
 }

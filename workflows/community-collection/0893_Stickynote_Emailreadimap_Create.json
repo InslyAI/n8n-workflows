@@ -415,18 +415,18 @@
       "department": "",
       "nodes_count": 13,
       "integrations": [
-        "stickyNote",
         "if",
-        "hubspot",
+        "stickyNote",
         "emailReadImap",
-        "set"
+        "set",
+        "hubspot"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.867807",
-    "updated_at": "2025-07-07T19:41:48.867808",
+    "created_at": "2025-07-07T19:46:34.483397",
+    "updated_at": "2025-07-07T19:46:34.483398",
     "version": "1.0.0"
   }
 }

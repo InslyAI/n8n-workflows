@@ -903,22 +903,22 @@
       "department": "",
       "nodes_count": 24,
       "integrations": [
-        "stickyNote",
-        "merge",
         "splitOut",
-        "removeDuplicates",
-        "httpRequest",
-        "html",
+        "stickyNote",
+        "gmail",
         "airtable",
+        "html",
+        "merge",
+        "httpRequest",
         "scheduleTrigger",
-        "gmail"
+        "removeDuplicates"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.696642",
-    "updated_at": "2025-07-07T19:41:48.696643",
+    "created_at": "2025-07-07T19:46:34.318763",
+    "updated_at": "2025-07-07T19:46:34.318765",
     "version": "1.0.0"
   }
 }

@@ -181,18 +181,18 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
-        "slack",
         "if",
-        "hubspot",
+        "slack",
         "httpRequest",
+        "hubspot",
         "hubspotTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.417013",
-    "updated_at": "2025-07-07T19:41:49.417013",
+    "created_at": "2025-07-07T19:46:35.189162",
+    "updated_at": "2025-07-07T19:46:35.189163",
     "version": "1.0.0"
   }
 }

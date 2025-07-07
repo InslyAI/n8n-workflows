@@ -469,19 +469,19 @@
       "department": "",
       "nodes_count": 17,
       "integrations": [
-        "slack",
-        "stickyNote",
         "if",
+        "stickyNote",
         "httpRequest",
-        "webhook",
-        "code"
+        "slack",
+        "code",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.681382",
-    "updated_at": "2025-07-07T19:41:48.681383",
+    "created_at": "2025-07-07T19:46:34.294292",
+    "updated_at": "2025-07-07T19:46:34.294293",
     "version": "1.0.0"
   }
 }

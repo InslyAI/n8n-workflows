@@ -129,17 +129,17 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
+        "peekalink",
         "noOp",
-        "manualTrigger",
         "if",
-        "peekalink"
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.060096",
-    "updated_at": "2025-07-07T19:41:49.060097",
+    "created_at": "2025-07-07T19:46:34.681477",
+    "updated_at": "2025-07-07T19:46:34.681478",
     "version": "1.0.0"
   }
 }

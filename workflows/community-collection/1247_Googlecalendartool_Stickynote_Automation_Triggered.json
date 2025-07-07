@@ -331,15 +331,15 @@
       "department": "",
       "nodes_count": 13,
       "integrations": [
-        "googleCalendarTool",
-        "stickyNote"
+        "stickyNote",
+        "googleCalendarTool"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.059536",
-    "updated_at": "2025-07-07T19:41:49.059537",
+    "created_at": "2025-07-07T19:46:34.680962",
+    "updated_at": "2025-07-07T19:46:34.680963",
     "version": "1.0.0"
   }
 }

@@ -1264,22 +1264,22 @@
       "department": "",
       "nodes_count": 37,
       "integrations": [
-        "executeWorkflowTrigger",
-        "stickyNote",
         "splitOut",
         "if",
+        "stickyNote",
         "notion",
+        "aggregate",
         "wait",
         "httpRequest",
-        "aggregate",
-        "set"
+        "set",
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.227095",
-    "updated_at": "2025-07-07T19:41:49.227096",
+    "created_at": "2025-07-07T19:46:34.925260",
+    "updated_at": "2025-07-07T19:46:34.925261",
     "version": "1.0.0"
   }
 }

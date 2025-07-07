@@ -465,8 +465,8 @@
       "department": "",
       "nodes_count": 14,
       "integrations": [
-        "webhook",
         "mattermost",
+        "webhook",
         "pagerDuty",
         "jira"
       ],
@@ -474,8 +474,8 @@
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.424533",
-    "updated_at": "2025-07-07T19:41:49.424533",
+    "created_at": "2025-07-07T19:46:35.197464",
+    "updated_at": "2025-07-07T19:46:35.197465",
     "version": "1.0.0"
   }
 }

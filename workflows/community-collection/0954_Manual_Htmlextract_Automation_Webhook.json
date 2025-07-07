@@ -124,16 +124,16 @@
       "department": "",
       "nodes_count": 4,
       "integrations": [
+        "htmlExtract",
         "manualTrigger",
-        "httpRequest",
-        "htmlExtract"
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.807797",
-    "updated_at": "2025-07-07T19:41:48.807798",
+    "created_at": "2025-07-07T19:46:34.424696",
+    "updated_at": "2025-07-07T19:46:34.424697",
     "version": "1.0.0"
   }
 }

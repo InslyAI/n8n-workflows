@@ -175,19 +175,19 @@
       "department": "",
       "nodes_count": 6,
       "integrations": [
-        "mySql",
         "function",
+        "mySql",
         "merge",
         "httpRequest",
-        "postgres",
-        "webhook"
+        "webhook",
+        "postgres"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.449703",
-    "updated_at": "2025-07-07T19:41:49.449704",
+    "created_at": "2025-07-07T19:46:35.225032",
+    "updated_at": "2025-07-07T19:46:35.225033",
     "version": "1.0.0"
   }
 }

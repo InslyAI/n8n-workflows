@@ -331,20 +331,20 @@
       "department": "",
       "nodes_count": 10,
       "integrations": [
-        "manualTrigger",
-        "if",
         "function",
+        "if",
         "noOp",
+        "cron",
+        "manualTrigger",
         "merge",
-        "httpRequest",
-        "cron"
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.728585",
-    "updated_at": "2025-07-07T19:41:48.728585",
+    "created_at": "2025-07-07T19:46:34.349701",
+    "updated_at": "2025-07-07T19:46:34.349701",
     "version": "1.0.0"
   }
 }

@@ -733,22 +733,22 @@
       "department": "",
       "nodes_count": 29,
       "integrations": [
-        "switch",
-        "if",
         "function",
+        "mattermost",
+        "if",
+        "switch",
         "noOp",
-        "httpRequest",
         "cron",
-        "webhook",
+        "httpRequest",
         "executeWorkflow",
-        "mattermost"
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.426072",
-    "updated_at": "2025-07-07T19:41:49.426073",
+    "created_at": "2025-07-07T19:46:35.199261",
+    "updated_at": "2025-07-07T19:46:35.199262",
     "version": "1.0.0"
   }
 }

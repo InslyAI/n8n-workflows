@@ -1385,25 +1385,25 @@
       "department": "",
       "nodes_count": 37,
       "integrations": [
-        "spotify",
-        "googleSheets",
-        "stickyNote",
         "splitOut",
-        "merge",
         "noOp",
-        "httpRequest",
-        "limit",
+        "stickyNote",
         "scheduleTrigger",
-        "filter",
+        "spotify",
         "code",
-        "set"
+        "googleSheets",
+        "merge",
+        "httpRequest",
+        "set",
+        "limit",
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.459102",
-    "updated_at": "2025-07-07T19:41:49.459103",
+    "created_at": "2025-07-07T19:46:35.234906",
+    "updated_at": "2025-07-07T19:46:35.234907",
     "version": "1.0.0"
   }
 }

@@ -481,20 +481,20 @@
       "department": "",
       "nodes_count": 13,
       "integrations": [
-        "stickyNote",
         "if",
-        "n8n",
+        "stickyNote",
         "errorTrigger",
         "gmail",
         "code",
-        "set"
+        "set",
+        "n8n"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.371968",
-    "updated_at": "2025-07-07T19:41:49.371969",
+    "created_at": "2025-07-07T19:46:35.140432",
+    "updated_at": "2025-07-07T19:46:35.140434",
     "version": "1.0.0"
   }
 }

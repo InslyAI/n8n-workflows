@@ -665,20 +665,20 @@
       "department": "",
       "nodes_count": 17,
       "integrations": [
+        "if",
+        "stickyNote",
         "manualTrigger",
         "googleSheets",
-        "if",
         "merge",
-        "stickyNote",
-        "reddit",
-        "set"
+        "set",
+        "reddit"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.216465",
-    "updated_at": "2025-07-07T19:41:49.216466",
+    "created_at": "2025-07-07T19:46:34.914818",
+    "updated_at": "2025-07-07T19:46:34.914819",
     "version": "1.0.0"
   }
 }

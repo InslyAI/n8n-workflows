@@ -775,22 +775,22 @@
       "department": "",
       "nodes_count": 24,
       "integrations": [
-        "microsoftOutlook",
-        "switch",
-        "executeWorkflowTrigger",
-        "stickyNote",
         "if",
-        "httpRequest",
-        "respondToWebhook",
+        "switch",
+        "stickyNote",
         "code",
-        "set"
+        "respondToWebhook",
+        "microsoftOutlook",
+        "httpRequest",
+        "set",
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.943531",
-    "updated_at": "2025-07-07T19:41:48.943531",
+    "created_at": "2025-07-07T19:46:34.557427",
+    "updated_at": "2025-07-07T19:46:34.557428",
     "version": "1.0.0"
   }
 }

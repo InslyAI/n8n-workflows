@@ -945,22 +945,22 @@
       "department": "",
       "nodes_count": 29,
       "integrations": [
-        "supabase",
-        "set",
-        "stickyNote",
         "if",
-        "httpRequest",
-        "respondToWebhook",
-        "webhook",
+        "stickyNote",
         "code",
-        "stopAndError"
+        "respondToWebhook",
+        "stopAndError",
+        "httpRequest",
+        "set",
+        "supabase",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.517570",
-    "updated_at": "2025-07-07T19:41:49.517571",
+    "created_at": "2025-07-07T19:46:35.295146",
+    "updated_at": "2025-07-07T19:46:35.295147",
     "version": "1.0.0"
   }
 }

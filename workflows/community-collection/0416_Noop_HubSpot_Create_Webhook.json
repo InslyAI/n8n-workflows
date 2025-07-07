@@ -372,20 +372,20 @@
       "department": "",
       "nodes_count": 12,
       "integrations": [
+        "noOp",
         "if",
         "stickyNote",
-        "noOp",
-        "hubspot",
         "httpRequest",
-        "hubspotTrigger",
-        "set"
+        "set",
+        "hubspot",
+        "hubspotTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.669090",
-    "updated_at": "2025-07-07T19:41:48.669091",
+    "created_at": "2025-07-07T19:46:34.281778",
+    "updated_at": "2025-07-07T19:46:34.281779",
     "version": "1.0.0"
   }
 }

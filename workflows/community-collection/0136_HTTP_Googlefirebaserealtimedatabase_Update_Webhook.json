@@ -142,17 +142,17 @@
       "department": "",
       "nodes_count": 4,
       "integrations": [
-        "cron",
+        "set",
         "googleFirebaseRealtimeDatabase",
-        "httpRequest",
-        "set"
+        "cron",
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.894191",
-    "updated_at": "2025-07-07T19:41:48.894192",
+    "created_at": "2025-07-07T19:46:34.510021",
+    "updated_at": "2025-07-07T19:46:34.510022",
     "version": "1.0.0"
   }
 }

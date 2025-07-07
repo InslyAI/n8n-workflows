@@ -278,17 +278,17 @@
       "department": "",
       "nodes_count": 6,
       "integrations": [
-        "microsoftOutlook",
-        "switch",
         "scheduleTrigger",
-        "mySql"
+        "microsoftOutlook",
+        "mySql",
+        "switch"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.191498",
-    "updated_at": "2025-07-07T19:41:49.191498",
+    "created_at": "2025-07-07T19:46:34.888695",
+    "updated_at": "2025-07-07T19:46:34.888696",
     "version": "1.0.0"
   }
 }

@@ -219,19 +219,19 @@
       "department": "",
       "nodes_count": 7,
       "integrations": [
+        "noOp",
         "if",
         "stickyNote",
-        "noOp",
-        "sendGrid",
         "formTrigger",
-        "hunter"
+        "hunter",
+        "sendGrid"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.757932",
-    "updated_at": "2025-07-07T19:41:48.757933",
+    "created_at": "2025-07-07T19:46:34.377783",
+    "updated_at": "2025-07-07T19:46:34.377784",
     "version": "1.0.0"
   }
 }

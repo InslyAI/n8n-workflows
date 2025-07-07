@@ -409,20 +409,20 @@
       "department": "",
       "nodes_count": 12,
       "integrations": [
-        "stickyNote",
-        "if",
         "noOp",
-        "httpRequest",
-        "telegram",
+        "if",
+        "stickyNote",
         "formTrigger",
-        "hunter"
+        "telegram",
+        "hunter",
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.062646",
-    "updated_at": "2025-07-07T19:41:49.062647",
+    "created_at": "2025-07-07T19:46:34.684259",
+    "updated_at": "2025-07-07T19:46:34.684259",
     "version": "1.0.0"
   }
 }

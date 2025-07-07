@@ -733,19 +733,19 @@
       "department": "",
       "nodes_count": 25,
       "integrations": [
-        "manualTrigger",
-        "googleDrive",
         "stickyNote",
-        "httpRequest",
+        "manualTrigger",
         "wooCommerceTool",
+        "googleDrive",
+        "httpRequest",
         "set"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.735173",
-    "updated_at": "2025-07-07T19:41:48.735174",
+    "created_at": "2025-07-07T19:46:34.356367",
+    "updated_at": "2025-07-07T19:46:34.356368",
     "version": "1.0.0"
   }
 }

@@ -953,14 +953,14 @@
       "department": "",
       "nodes_count": 31,
       "integrations": [
-        "manualTrigger",
-        "googleDrive",
-        "executeWorkflowTrigger",
         "stickyNote",
-        "telegramTool",
-        "httpRequest",
+        "manualTrigger",
         "wooCommerceTool",
-        "set"
+        "telegramTool",
+        "set",
+        "httpRequest",
+        "googleDrive",
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -979,8 +979,8 @@
         "updatedAt": "2024-12-04T16:52:10.768Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:48.874288",
-    "updated_at": "2025-07-07T19:41:48.874288",
+    "created_at": "2025-07-07T19:46:34.490056",
+    "updated_at": "2025-07-07T19:46:34.490057",
     "version": "1.0.0"
   }
 }

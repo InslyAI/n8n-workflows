@@ -626,21 +626,21 @@
       "department": "",
       "nodes_count": 19,
       "integrations": [
-        "set",
-        "stickyNote",
         "if",
+        "stickyNote",
         "form",
-        "httpRequest",
         "formTrigger",
+        "httpRequest",
         "code",
+        "set",
         "emailSend"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.156471",
-    "updated_at": "2025-07-07T19:41:49.156472",
+    "created_at": "2025-07-07T19:46:34.848620",
+    "updated_at": "2025-07-07T19:46:34.848621",
     "version": "1.0.0"
   }
 }

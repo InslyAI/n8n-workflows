@@ -223,18 +223,18 @@
       "department": "",
       "nodes_count": 7,
       "integrations": [
-        "manualTrigger",
-        "googleDrive",
         "stickyNote",
-        "readWriteFile",
-        "httpRequest"
+        "manualTrigger",
+        "httpRequest",
+        "googleDrive",
+        "readWriteFile"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.234624",
-    "updated_at": "2025-07-07T19:41:49.234625",
+    "created_at": "2025-07-07T19:46:34.931374",
+    "updated_at": "2025-07-07T19:46:34.931375",
     "version": "1.0.0"
   }
 }

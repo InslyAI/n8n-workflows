@@ -593,24 +593,24 @@
       "department": "",
       "nodes_count": 21,
       "integrations": [
-        "manualTrigger",
-        "googleDrive",
-        "stickyNote",
         "splitOut",
-        "splitInBatches",
-        "wait",
-        "editImage",
-        "httpRequest",
         "convertToFile",
+        "manualTrigger",
+        "stickyNote",
         "code",
-        "aggregate"
+        "splitInBatches",
+        "aggregate",
+        "wait",
+        "httpRequest",
+        "googleDrive",
+        "editImage"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.797451",
-    "updated_at": "2025-07-07T19:41:48.797452",
+    "created_at": "2025-07-07T19:46:34.414928",
+    "updated_at": "2025-07-07T19:46:34.414928",
     "version": "1.0.0"
   }
 }

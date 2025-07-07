@@ -1034,21 +1034,21 @@
       "department": "",
       "nodes_count": 31,
       "integrations": [
-        "googleSheets",
-        "stickyNote",
         "splitOut",
+        "stickyNote",
         "httpRequest",
-        "googleSheetsTool",
-        "scheduleTrigger",
+        "googleSheets",
         "code",
-        "set"
+        "set",
+        "scheduleTrigger",
+        "googleSheetsTool"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.292694",
-    "updated_at": "2025-07-07T19:41:49.292695",
+    "created_at": "2025-07-07T19:46:35.027736",
+    "updated_at": "2025-07-07T19:46:35.027743",
     "version": "1.0.0"
   }
 }

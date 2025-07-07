@@ -965,24 +965,24 @@
       "department": "",
       "nodes_count": 34,
       "integrations": [
-        "manualTrigger",
+        "noOp",
+        "if",
         "switch",
         "stickyNote",
-        "if",
-        "noOp",
+        "manualTrigger",
+        "respondToWebhook",
         "splitInBatches",
         "httpRequest",
-        "n8n",
+        "scheduleTrigger",
         "webhook",
-        "respondToWebhook",
-        "scheduleTrigger"
+        "n8n"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.219746",
-    "updated_at": "2025-07-07T19:41:49.219747",
+    "created_at": "2025-07-07T19:46:34.918073",
+    "updated_at": "2025-07-07T19:46:34.918074",
     "version": "1.0.0"
   }
 }

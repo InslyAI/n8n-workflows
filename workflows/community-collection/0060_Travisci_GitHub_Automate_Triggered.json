@@ -121,17 +121,17 @@
       "department": "",
       "nodes_count": 4,
       "integrations": [
+        "noOp",
         "githubTrigger",
         "if",
-        "travisCi",
-        "noOp"
+        "travisCi"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.510921",
-    "updated_at": "2025-07-07T19:41:49.510922",
+    "created_at": "2025-07-07T19:46:35.290596",
+    "updated_at": "2025-07-07T19:46:35.290597",
     "version": "1.0.0"
   }
 }

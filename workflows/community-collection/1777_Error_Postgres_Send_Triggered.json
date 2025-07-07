@@ -636,17 +636,17 @@
       "department": "",
       "nodes_count": 16,
       "integrations": [
-        "pushover",
-        "manualTrigger",
-        "executeWorkflowTrigger",
-        "stickyNote",
         "if",
         "noOp",
-        "postgres",
+        "stickyNote",
+        "manualTrigger",
         "errorTrigger",
-        "executeWorkflow",
+        "pushover",
         "code",
-        "emailSend"
+        "emailSend",
+        "executeWorkflow",
+        "executeWorkflowTrigger",
+        "postgres"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -659,8 +659,8 @@
         "updatedAt": "2025-01-31T16:41:27.407Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:48.693810",
-    "updated_at": "2025-07-07T19:41:48.693810",
+    "created_at": "2025-07-07T19:46:34.315812",
+    "updated_at": "2025-07-07T19:46:34.315814",
     "version": "1.0.0"
   }
 }

@@ -55,15 +55,15 @@
       "department": "",
       "nodes_count": 2,
       "integrations": [
-        "manualTrigger",
-        "twilio"
+        "twilio",
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.378733",
-    "updated_at": "2025-07-07T19:41:49.378734",
+    "created_at": "2025-07-07T19:46:35.147796",
+    "updated_at": "2025-07-07T19:46:35.147807",
     "version": "1.0.0"
   }
 }

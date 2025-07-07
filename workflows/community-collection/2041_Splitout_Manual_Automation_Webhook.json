@@ -775,21 +775,21 @@
       "department": "",
       "nodes_count": 29,
       "integrations": [
+        "splitOut",
+        "stickyNote",
         "manualTrigger",
         "googleSheets",
-        "executeWorkflowTrigger",
-        "stickyNote",
-        "splitOut",
         "httpRequest",
-        "markdown",
-        "set"
+        "set",
+        "executeWorkflowTrigger",
+        "markdown"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.727006",
-    "updated_at": "2025-07-07T19:41:48.727007",
+    "created_at": "2025-07-07T19:46:34.348288",
+    "updated_at": "2025-07-07T19:46:34.348289",
     "version": "1.0.0"
   }
 }

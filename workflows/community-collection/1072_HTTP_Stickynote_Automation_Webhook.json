@@ -151,17 +151,17 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
-        "httpRequest",
-        "executeWorkflowTrigger",
+        "set",
         "stickyNote",
-        "set"
+        "executeWorkflowTrigger",
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.138192",
-    "updated_at": "2025-07-07T19:41:49.138193",
+    "created_at": "2025-07-07T19:46:34.827248",
+    "updated_at": "2025-07-07T19:46:34.827249",
     "version": "1.0.0"
   }
 }

@@ -687,22 +687,22 @@
       "department": "",
       "nodes_count": 22,
       "integrations": [
-        "slack",
-        "executeWorkflowTrigger",
         "if",
-        "splitInBatches",
         "stickyNote",
+        "httpRequest",
+        "splitInBatches",
+        "slack",
         "wait",
         "xml",
-        "httpRequest",
-        "set"
+        "set",
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.271888",
-    "updated_at": "2025-07-07T19:41:49.271889",
+    "created_at": "2025-07-07T19:46:34.972385",
+    "updated_at": "2025-07-07T19:46:34.972386",
     "version": "1.0.0"
   }
 }

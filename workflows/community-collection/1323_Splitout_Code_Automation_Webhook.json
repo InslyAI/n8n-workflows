@@ -925,19 +925,19 @@
       "department": "",
       "nodes_count": 32,
       "integrations": [
-        "wordpress",
-        "executeWorkflowTrigger",
-        "if",
         "splitOut",
-        "splitInBatches",
-        "rssFeedReadTrigger",
+        "if",
         "stickyNote",
-        "httpRequest",
+        "wordpress",
+        "code",
+        "splitInBatches",
+        "set",
         "aggregate",
+        "httpRequest",
+        "rssFeedReadTrigger",
         "executeWorkflow",
         "filter",
-        "code",
-        "set"
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -950,8 +950,8 @@
         "updatedAt": "2025-01-28T16:42:03.029Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.018194",
-    "updated_at": "2025-07-07T19:41:49.018195",
+    "created_at": "2025-07-07T19:46:34.634194",
+    "updated_at": "2025-07-07T19:46:34.634195",
     "version": "1.0.0"
   }
 }

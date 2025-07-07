@@ -932,26 +932,26 @@
       "department": "",
       "nodes_count": 29,
       "integrations": [
-        "switch",
-        "slack",
-        "if",
-        "splitInBatches",
-        "stickyNote",
-        "httpRequest",
-        "summarize",
-        "limit",
-        "respondToWebhook",
-        "webhook",
-        "serviceNow",
         "sort",
-        "set"
+        "if",
+        "switch",
+        "stickyNote",
+        "respondToWebhook",
+        "splitInBatches",
+        "serviceNow",
+        "slack",
+        "httpRequest",
+        "set",
+        "limit",
+        "webhook",
+        "summarize"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.313145",
-    "updated_at": "2025-07-07T19:41:49.313145",
+    "created_at": "2025-07-07T19:46:35.065551",
+    "updated_at": "2025-07-07T19:46:35.065552",
     "version": "1.0.0"
   }
 }

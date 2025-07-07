@@ -436,11 +436,11 @@
       "nodes_count": 15,
       "integrations": [
         "stickyNote",
+        "respondToWebhook",
+        "aggregate",
         "httpRequest",
         "limit",
-        "respondToWebhook",
-        "webhook",
-        "aggregate"
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -453,8 +453,8 @@
         "updatedAt": "2024-08-07T14:18:53.614Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.169101",
-    "updated_at": "2025-07-07T19:41:49.169101",
+    "created_at": "2025-07-07T19:46:34.862542",
+    "updated_at": "2025-07-07T19:46:34.862543",
     "version": "1.0.0"
   }
 }

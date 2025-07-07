@@ -304,17 +304,17 @@
       "nodes_count": 9,
       "integrations": [
         "if",
+        "baserow",
         "stickyNote",
         "webhook",
-        "baserow",
         "markdown"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.231619",
-    "updated_at": "2025-07-07T19:41:49.231620",
+    "created_at": "2025-07-07T19:46:34.928563",
+    "updated_at": "2025-07-07T19:46:34.928564",
     "version": "1.0.0"
   }
 }

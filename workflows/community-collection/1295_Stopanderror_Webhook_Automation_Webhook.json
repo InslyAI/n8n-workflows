@@ -435,20 +435,20 @@
       "department": "",
       "nodes_count": 16,
       "integrations": [
-        "set",
         "if",
         "stickyNote",
-        "httpRequest",
         "respondToWebhook",
-        "webhook",
-        "stopAndError"
+        "stopAndError",
+        "httpRequest",
+        "set",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.378391",
-    "updated_at": "2025-07-07T19:41:49.378392",
+    "created_at": "2025-07-07T19:46:35.147435",
+    "updated_at": "2025-07-07T19:46:35.147436",
     "version": "1.0.0"
   }
 }

@@ -141,16 +141,16 @@
       "department": "",
       "nodes_count": 3,
       "integrations": [
+        "if",
         "slack",
-        "wooCommerceTrigger",
-        "if"
+        "wooCommerceTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.664803",
-    "updated_at": "2025-07-07T19:41:48.664804",
+    "created_at": "2025-07-07T19:46:34.277634",
+    "updated_at": "2025-07-07T19:46:34.277635",
     "version": "1.0.0"
   }
 }

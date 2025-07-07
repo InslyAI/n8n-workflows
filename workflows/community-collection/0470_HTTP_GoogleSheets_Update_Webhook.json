@@ -257,19 +257,19 @@
       "department": "",
       "nodes_count": 6,
       "integrations": [
-        "googleSheets",
-        "stickyNote",
         "if",
-        "removeDuplicates",
+        "stickyNote",
+        "googleSheetsTrigger",
+        "googleSheets",
         "httpRequest",
-        "googleSheetsTrigger"
+        "removeDuplicates"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.878271",
-    "updated_at": "2025-07-07T19:41:48.878271",
+    "created_at": "2025-07-07T19:46:34.494100",
+    "updated_at": "2025-07-07T19:46:34.494101",
     "version": "1.0.0"
   }
 }

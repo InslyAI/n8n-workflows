@@ -688,18 +688,18 @@
       "department": "",
       "nodes_count": 21,
       "integrations": [
+        "splitOut",
+        "if",
+        "github",
+        "stickyNote",
+        "clockify",
+        "stopAndError",
         "extractFromFile",
         "compareDatasets",
-        "if",
-        "splitOut",
-        "stickyNote",
         "httpRequest",
-        "filter",
-        "clockify",
+        "set",
         "scheduleTrigger",
-        "github",
-        "stopAndError",
-        "set"
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -712,8 +712,8 @@
         "updatedAt": "2024-09-19T19:09:21.997Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.537509",
-    "updated_at": "2025-07-07T19:41:49.537510",
+    "created_at": "2025-07-07T19:46:35.315099",
+    "updated_at": "2025-07-07T19:46:35.315100",
     "version": "1.0.0"
   }
 }

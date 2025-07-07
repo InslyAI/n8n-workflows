@@ -643,21 +643,21 @@
       "department": "",
       "nodes_count": 23,
       "integrations": [
-        "extractFromFile",
-        "stickyNote",
         "noOp",
-        "summarize",
+        "stickyNote",
         "convertToFile",
         "formTrigger",
         "filter",
-        "set"
+        "extractFromFile",
+        "set",
+        "summarize"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.116047",
-    "updated_at": "2025-07-07T19:41:49.116048",
+    "created_at": "2025-07-07T19:46:34.801295",
+    "updated_at": "2025-07-07T19:46:34.801298",
     "version": "1.0.0"
   }
 }

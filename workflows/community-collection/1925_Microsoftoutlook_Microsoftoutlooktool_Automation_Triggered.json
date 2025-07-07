@@ -253,16 +253,16 @@
       "department": "",
       "nodes_count": 9,
       "integrations": [
+        "microsoftOutlookTool",
         "microsoftOutlookTrigger",
-        "stickyNote",
-        "microsoftOutlookTool"
+        "stickyNote"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.870961",
-    "updated_at": "2025-07-07T19:41:48.870962",
+    "created_at": "2025-07-07T19:46:34.486595",
+    "updated_at": "2025-07-07T19:46:34.486596",
     "version": "1.0.0"
   }
 }

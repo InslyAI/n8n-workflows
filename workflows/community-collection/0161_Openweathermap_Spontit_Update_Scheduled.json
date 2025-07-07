@@ -95,16 +95,16 @@
       "department": "",
       "nodes_count": 3,
       "integrations": [
+        "openWeatherMap",
         "cron",
-        "spontit",
-        "openWeatherMap"
+        "spontit"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.413746",
-    "updated_at": "2025-07-07T19:41:49.413746",
+    "created_at": "2025-07-07T19:46:35.185568",
+    "updated_at": "2025-07-07T19:46:35.185568",
     "version": "1.0.0"
   }
 }

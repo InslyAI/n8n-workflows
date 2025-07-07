@@ -489,20 +489,20 @@
       "department": "",
       "nodes_count": 16,
       "integrations": [
-        "slack",
-        "stickyNote",
         "if",
+        "stickyNote",
         "respondToWebhook",
-        "webhook",
+        "slack",
         "microsoftOutlookTool",
-        "set"
+        "set",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.580821",
-    "updated_at": "2025-07-07T19:41:49.580822",
+    "created_at": "2025-07-07T19:46:35.362527",
+    "updated_at": "2025-07-07T19:46:35.362528",
     "version": "1.0.0"
   }
 }

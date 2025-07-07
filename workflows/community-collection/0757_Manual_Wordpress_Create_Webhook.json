@@ -331,9 +331,9 @@
       "department": "",
       "nodes_count": 10,
       "integrations": [
+        "stickyNote",
         "manualTrigger",
         "wordpress",
-        "stickyNote",
         "httpRequest",
         "set"
       ],
@@ -341,8 +341,8 @@
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.535360",
-    "updated_at": "2025-07-07T19:41:49.535360",
+    "created_at": "2025-07-07T19:46:35.312484",
+    "updated_at": "2025-07-07T19:46:35.312484",
     "version": "1.0.0"
   }
 }

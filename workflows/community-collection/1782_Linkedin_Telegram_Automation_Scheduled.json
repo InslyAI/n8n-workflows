@@ -1127,26 +1127,26 @@
       "department": "",
       "nodes_count": 26,
       "integrations": [
-        "stickyNote",
-        "merge",
         "noOp",
-        "linkedIn",
-        "wait",
+        "stickyNote",
         "httpRequest",
         "telegram",
-        "twitter",
         "airtable",
+        "twitter",
+        "linkedIn",
+        "merge",
+        "wait",
+        "code",
         "scheduleTrigger",
         "filter",
-        "code",
         "markdown"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.194555",
-    "updated_at": "2025-07-07T19:41:49.194556",
+    "created_at": "2025-07-07T19:46:34.892292",
+    "updated_at": "2025-07-07T19:46:34.892294",
     "version": "1.0.0"
   }
 }

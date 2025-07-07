@@ -178,19 +178,19 @@
       "department": "",
       "nodes_count": 6,
       "integrations": [
-        "manualTrigger",
         "function",
-        "twitter",
-        "rocketchat",
         "cron",
+        "manualTrigger",
+        "rocketchat",
+        "twitter",
         "set"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.673034",
-    "updated_at": "2025-07-07T19:41:48.673035",
+    "created_at": "2025-07-07T19:46:34.285616",
+    "updated_at": "2025-07-07T19:46:34.285617",
     "version": "1.0.0"
   }
 }

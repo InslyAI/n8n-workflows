@@ -1388,26 +1388,26 @@
       "department": "",
       "nodes_count": 40,
       "integrations": [
-        "if",
         "splitOut",
-        "removeDuplicates",
-        "splitInBatches",
+        "if",
         "form",
         "stickyNote",
-        "httpRequest",
-        "limit",
-        "n8n",
         "formTrigger",
-        "filter",
         "code",
-        "set"
+        "splitInBatches",
+        "httpRequest",
+        "set",
+        "limit",
+        "filter",
+        "n8n",
+        "removeDuplicates"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.673831",
-    "updated_at": "2025-07-07T19:41:48.673832",
+    "created_at": "2025-07-07T19:46:34.286377",
+    "updated_at": "2025-07-07T19:46:34.286379",
     "version": "1.0.0"
   }
 }

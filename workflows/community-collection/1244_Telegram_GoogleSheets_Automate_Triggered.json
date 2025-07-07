@@ -1567,12 +1567,12 @@
       "department": "",
       "nodes_count": 38,
       "integrations": [
-        "googleSheets",
+        "if",
         "switch",
         "stickyNote",
-        "if",
-        "telegram",
         "telegramTrigger",
+        "telegram",
+        "googleSheets",
         "code",
         "set"
       ],
@@ -1580,8 +1580,8 @@
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.385465",
-    "updated_at": "2025-07-07T19:41:49.385466",
+    "created_at": "2025-07-07T19:46:35.155443",
+    "updated_at": "2025-07-07T19:46:35.155443",
     "version": "1.0.0"
   }
 }

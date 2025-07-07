@@ -88,16 +88,16 @@
       "department": "",
       "nodes_count": 3,
       "integrations": [
-        "manualTrigger",
+        "mySql",
         "cron",
-        "mySql"
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.179152",
-    "updated_at": "2025-07-07T19:41:49.179152",
+    "created_at": "2025-07-07T19:46:34.874970",
+    "updated_at": "2025-07-07T19:46:34.874971",
     "version": "1.0.0"
   }
 }

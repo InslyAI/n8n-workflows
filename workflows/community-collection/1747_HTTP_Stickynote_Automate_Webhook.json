@@ -480,17 +480,17 @@
       "department": "",
       "nodes_count": 17,
       "integrations": [
-        "code",
+        "httpRequest",
         "stickyNote",
         "splitInBatches",
-        "httpRequest"
+        "code"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.827835",
-    "updated_at": "2025-07-07T19:41:48.827836",
+    "created_at": "2025-07-07T19:46:34.445346",
+    "updated_at": "2025-07-07T19:46:34.445347",
     "version": "1.0.0"
   }
 }

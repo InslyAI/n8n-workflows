@@ -569,25 +569,25 @@
       "department": "",
       "nodes_count": 19,
       "integrations": [
-        "extractFromFile",
-        "stickyNote",
-        "splitInBatches",
         "splitOut",
-        "wait",
-        "readWriteFile",
         "noOp",
-        "httpRequest",
         "convertToFile",
-        "scheduleTrigger",
+        "stickyNote",
         "code",
-        "set"
+        "splitInBatches",
+        "extractFromFile",
+        "wait",
+        "httpRequest",
+        "set",
+        "scheduleTrigger",
+        "readWriteFile"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.774130",
-    "updated_at": "2025-07-07T19:41:48.774131",
+    "created_at": "2025-07-07T19:46:34.391693",
+    "updated_at": "2025-07-07T19:46:34.391694",
     "version": "1.0.0"
   }
 }

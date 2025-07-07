@@ -620,21 +620,21 @@
       "department": "",
       "nodes_count": 24,
       "integrations": [
-        "manualTrigger",
         "stickyNote",
-        "merge",
-        "telegram",
-        "scheduleTrigger",
+        "manualTrigger",
         "gmail",
-        "markdown",
-        "aggregate"
+        "telegram",
+        "merge",
+        "aggregate",
+        "scheduleTrigger",
+        "markdown"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.630141",
-    "updated_at": "2025-07-07T19:41:48.630142",
+    "created_at": "2025-07-07T19:46:34.243709",
+    "updated_at": "2025-07-07T19:46:34.243712",
     "version": "1.0.0"
   }
 }

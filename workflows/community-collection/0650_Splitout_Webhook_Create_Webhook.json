@@ -1009,26 +1009,26 @@
       "department": "",
       "nodes_count": 29,
       "integrations": [
-        "switch",
-        "slack",
-        "stickyNote",
-        "splitInBatches",
+        "splitOut",
         "if",
         "noOp",
-        "splitOut",
+        "stickyNote",
+        "switch",
         "s3",
-        "httpRequest",
-        "aggregate",
         "respondToWebhook",
-        "webhook",
-        "set"
+        "splitInBatches",
+        "aggregate",
+        "slack",
+        "httpRequest",
+        "set",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.099350",
-    "updated_at": "2025-07-07T19:41:49.099350",
+    "created_at": "2025-07-07T19:46:34.776175",
+    "updated_at": "2025-07-07T19:46:34.776176",
     "version": "1.0.0"
   }
 }

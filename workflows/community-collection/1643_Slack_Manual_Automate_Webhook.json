@@ -647,19 +647,19 @@
       "department": "",
       "nodes_count": 21,
       "integrations": [
-        "manualTrigger",
-        "googleDrive",
-        "slack",
         "stickyNote",
+        "manualTrigger",
+        "slack",
         "httpRequest",
+        "googleDrive",
         "slackTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.128058",
-    "updated_at": "2025-07-07T19:41:49.128058",
+    "created_at": "2025-07-07T19:46:34.815943",
+    "updated_at": "2025-07-07T19:46:34.815943",
     "version": "1.0.0"
   }
 }

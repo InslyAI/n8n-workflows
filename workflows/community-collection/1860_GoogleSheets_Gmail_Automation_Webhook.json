@@ -1028,18 +1028,18 @@
       "department": "",
       "nodes_count": 24,
       "integrations": [
-        "googleSheets",
         "stickyNote",
-        "webhook",
         "gmail",
-        "set"
+        "googleSheets",
+        "set",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.577183",
-    "updated_at": "2025-07-07T19:41:49.577184",
+    "created_at": "2025-07-07T19:46:35.358225",
+    "updated_at": "2025-07-07T19:46:35.358227",
     "version": "1.0.0"
   }
 }

@@ -347,17 +347,17 @@
       "department": "",
       "nodes_count": 14,
       "integrations": [
-        "stickyNote",
         "set",
         "limit",
-        "aggregate"
+        "aggregate",
+        "stickyNote"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.527586",
-    "updated_at": "2025-07-07T19:41:49.527587",
+    "created_at": "2025-07-07T19:46:35.305333",
+    "updated_at": "2025-07-07T19:46:35.305334",
     "version": "1.0.0"
   }
 }

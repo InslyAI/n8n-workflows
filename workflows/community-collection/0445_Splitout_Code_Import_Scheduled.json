@@ -426,21 +426,21 @@
       "department": "",
       "nodes_count": 14,
       "integrations": [
-        "googleSheets",
-        "graphql",
-        "stickyNote",
-        "if",
         "splitOut",
-        "scheduleTrigger",
+        "if",
+        "stickyNote",
+        "graphql",
+        "googleSheets",
         "code",
-        "set"
+        "set",
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.364551",
-    "updated_at": "2025-07-07T19:41:49.364552",
+    "created_at": "2025-07-07T19:46:35.131131",
+    "updated_at": "2025-07-07T19:46:35.131133",
     "version": "1.0.0"
   }
 }

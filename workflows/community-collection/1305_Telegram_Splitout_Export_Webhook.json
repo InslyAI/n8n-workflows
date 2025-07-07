@@ -1375,26 +1375,26 @@
       "department": "",
       "nodes_count": 48,
       "integrations": [
-        "extractFromFile",
-        "switch",
-        "set",
-        "stickyNote",
-        "merge",
         "splitOut",
         "if",
+        "baserow",
+        "stickyNote",
+        "convertToFile",
+        "switch",
         "baserowTool",
         "telegram",
-        "convertToFile",
-        "webhook",
-        "baserow",
-        "aggregate"
+        "merge",
+        "aggregate",
+        "extractFromFile",
+        "set",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.448601",
-    "updated_at": "2025-07-07T19:41:49.448602",
+    "created_at": "2025-07-07T19:46:35.223662",
+    "updated_at": "2025-07-07T19:46:35.223663",
     "version": "1.0.0"
   }
 }

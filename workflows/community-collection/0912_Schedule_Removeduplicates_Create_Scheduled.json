@@ -338,18 +338,18 @@
       "nodes_count": 13,
       "integrations": [
         "stickyNote",
-        "removeDuplicates",
-        "scheduleTrigger",
         "gmail",
+        "linear",
+        "scheduleTrigger",
         "markdown",
-        "linear"
+        "removeDuplicates"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.319760",
-    "updated_at": "2025-07-07T19:41:49.319761",
+    "created_at": "2025-07-07T19:46:35.073750",
+    "updated_at": "2025-07-07T19:46:35.073752",
     "version": "1.0.0"
   }
 }

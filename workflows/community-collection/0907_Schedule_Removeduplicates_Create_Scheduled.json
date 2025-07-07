@@ -912,21 +912,21 @@
       "department": "",
       "nodes_count": 27,
       "integrations": [
+        "noOp",
         "stickyNote",
         "splitInBatches",
-        "noOp",
-        "removeDuplicates",
         "jira",
         "aggregate",
+        "set",
         "scheduleTrigger",
-        "set"
+        "removeDuplicates"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.784780",
-    "updated_at": "2025-07-07T19:41:48.784780",
+    "created_at": "2025-07-07T19:46:34.402498",
+    "updated_at": "2025-07-07T19:46:34.402499",
     "version": "1.0.0"
   }
 }

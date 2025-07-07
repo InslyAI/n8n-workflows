@@ -174,15 +174,15 @@
         "function",
         "httpRequest",
         "telegram",
-        "webhook",
-        "emailSend"
+        "emailSend",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.141372",
-    "updated_at": "2025-07-07T19:41:49.141373",
+    "created_at": "2025-07-07T19:46:34.830820",
+    "updated_at": "2025-07-07T19:46:34.830821",
     "version": "1.0.0"
   }
 }

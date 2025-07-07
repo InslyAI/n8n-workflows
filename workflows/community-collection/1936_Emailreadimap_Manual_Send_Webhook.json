@@ -904,22 +904,22 @@
       "department": "",
       "nodes_count": 31,
       "integrations": [
-        "manualTrigger",
-        "googleDrive",
-        "set",
         "stickyNote",
-        "emailReadImap",
+        "manualTrigger",
         "httpRequest",
         "gmail",
-        "markdown",
-        "emailSend"
+        "emailReadImap",
+        "googleDrive",
+        "emailSend",
+        "set",
+        "markdown"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.278613",
-    "updated_at": "2025-07-07T19:41:49.278614",
+    "created_at": "2025-07-07T19:46:34.989518",
+    "updated_at": "2025-07-07T19:46:34.989520",
     "version": "1.0.0"
   }
 }

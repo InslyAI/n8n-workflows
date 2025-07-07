@@ -382,19 +382,19 @@
       "department": "",
       "nodes_count": 13,
       "integrations": [
-        "stickyNote",
         "if",
+        "stickyNote",
+        "code",
         "scheduleTrigger",
-        "todoist",
         "filter",
-        "code"
+        "todoist"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.834025",
-    "updated_at": "2025-07-07T19:41:48.834026",
+    "created_at": "2025-07-07T19:46:34.451071",
+    "updated_at": "2025-07-07T19:46:34.451072",
     "version": "1.0.0"
   }
 }

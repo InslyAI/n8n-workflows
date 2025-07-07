@@ -271,8 +271,8 @@
       "department": "",
       "nodes_count": 7,
       "integrations": [
-        "manualTrigger",
         "splitOut",
+        "manualTrigger",
         "html",
         "httpRequest",
         "set"
@@ -281,8 +281,8 @@
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.374121",
-    "updated_at": "2025-07-07T19:41:49.374122",
+    "created_at": "2025-07-07T19:46:35.142645",
+    "updated_at": "2025-07-07T19:46:35.142646",
     "version": "1.0.0"
   }
 }

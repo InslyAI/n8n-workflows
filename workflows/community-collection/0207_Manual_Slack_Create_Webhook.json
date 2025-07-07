@@ -183,16 +183,16 @@
       "department": "",
       "nodes_count": 6,
       "integrations": [
-        "manualTrigger",
         "slack",
+        "manualTrigger",
         "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.535754",
-    "updated_at": "2025-07-07T19:41:49.535755",
+    "created_at": "2025-07-07T19:46:35.312902",
+    "updated_at": "2025-07-07T19:46:35.312903",
     "version": "1.0.0"
   }
 }

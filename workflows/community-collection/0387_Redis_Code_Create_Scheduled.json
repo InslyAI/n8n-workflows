@@ -720,22 +720,22 @@
       "department": "",
       "nodes_count": 23,
       "integrations": [
-        "manualTrigger",
         "stickyNote",
-        "merge",
+        "manualTrigger",
         "httpRequest",
-        "scheduleTrigger",
         "redis",
-        "microsoftTeams",
+        "merge",
         "code",
-        "set"
+        "set",
+        "scheduleTrigger",
+        "microsoftTeams"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.069182",
-    "updated_at": "2025-07-07T19:41:49.069183",
+    "created_at": "2025-07-07T19:46:34.692126",
+    "updated_at": "2025-07-07T19:46:34.692127",
     "version": "1.0.0"
   }
 }

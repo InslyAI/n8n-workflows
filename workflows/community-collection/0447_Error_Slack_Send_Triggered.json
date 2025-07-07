@@ -131,17 +131,17 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
-        "slack",
+        "errorTrigger",
         "set",
-        "stickyNote",
-        "errorTrigger"
+        "slack",
+        "stickyNote"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.544701",
-    "updated_at": "2025-07-07T19:41:49.544702",
+    "created_at": "2025-07-07T19:46:35.322717",
+    "updated_at": "2025-07-07T19:46:35.322718",
     "version": "1.0.0"
   }
 }

@@ -483,21 +483,21 @@
       "department": "",
       "nodes_count": 17,
       "integrations": [
-        "manualTrigger",
         "stickyNote",
-        "telegram",
+        "manualTrigger",
         "telegramTrigger",
-        "gmailTool",
+        "telegram",
         "gmail",
-        "filter",
-        "aggregate"
+        "aggregate",
+        "gmailTool",
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.233657",
-    "updated_at": "2025-07-07T19:41:49.233658",
+    "created_at": "2025-07-07T19:46:34.930553",
+    "updated_at": "2025-07-07T19:46:34.930554",
     "version": "1.0.0"
   }
 }

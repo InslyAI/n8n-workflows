@@ -570,21 +570,21 @@
       "nodes_count": 16,
       "integrations": [
         "if",
-        "hubspot",
-        "phantombuster",
-        "wait",
-        "dropcontact",
         "cron",
         "airtable",
         "lemlist",
-        "set"
+        "wait",
+        "set",
+        "hubspot",
+        "dropcontact",
+        "phantombuster"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.374522",
-    "updated_at": "2025-07-07T19:41:49.374523",
+    "created_at": "2025-07-07T19:46:35.143172",
+    "updated_at": "2025-07-07T19:46:35.143173",
     "version": "1.0.0"
   }
 }

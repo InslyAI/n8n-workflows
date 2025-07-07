@@ -711,26 +711,26 @@
       "department": "",
       "nodes_count": 27,
       "integrations": [
+        "sort",
+        "if",
+        "stickyNote",
+        "notion",
         "manualTrigger",
         "pushover",
-        "set",
-        "if",
-        "notion",
-        "merge",
-        "stickyNote",
         "html",
+        "merge",
         "aggregate",
+        "emailSend",
+        "set",
         "scheduleTrigger",
-        "filter",
-        "sort",
-        "emailSend"
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.949741",
-    "updated_at": "2025-07-07T19:41:48.949742",
+    "created_at": "2025-07-07T19:46:34.563842",
+    "updated_at": "2025-07-07T19:46:34.563843",
     "version": "1.0.0"
   }
 }

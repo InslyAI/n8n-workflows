@@ -153,17 +153,17 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
-        "cron",
         "twilio",
-        "postgres",
-        "set"
+        "set",
+        "cron",
+        "postgres"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.179383",
-    "updated_at": "2025-07-07T19:41:49.179384",
+    "created_at": "2025-07-07T19:46:34.875252",
+    "updated_at": "2025-07-07T19:46:34.875253",
     "version": "1.0.0"
   }
 }

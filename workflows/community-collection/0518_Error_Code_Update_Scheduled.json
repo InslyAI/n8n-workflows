@@ -320,20 +320,20 @@
       "department": "",
       "nodes_count": 11,
       "integrations": [
-        "stickyNote",
         "if",
-        "n8n",
-        "scheduleTrigger",
+        "stickyNote",
         "errorTrigger",
         "gmail",
-        "code"
+        "code",
+        "scheduleTrigger",
+        "n8n"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.226417",
-    "updated_at": "2025-07-07T19:41:49.226418",
+    "created_at": "2025-07-07T19:46:34.924506",
+    "updated_at": "2025-07-07T19:46:34.924507",
     "version": "1.0.0"
   }
 }

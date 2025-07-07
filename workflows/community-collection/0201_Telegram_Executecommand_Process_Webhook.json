@@ -605,25 +605,25 @@
       "department": "",
       "nodes_count": 21,
       "integrations": [
-        "executeCommand",
-        "switch",
-        "writeBinaryFile",
-        "spreadsheetFile",
         "function",
         "if",
+        "switch",
+        "telegramTrigger",
+        "executeCommand",
+        "telegram",
         "merge",
         "httpRequest",
-        "telegram",
-        "telegramTrigger",
+        "set",
+        "spreadsheetFile",
         "readBinaryFile",
-        "set"
+        "writeBinaryFile"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.667667",
-    "updated_at": "2025-07-07T19:41:48.667668",
+    "created_at": "2025-07-07T19:46:34.280272",
+    "updated_at": "2025-07-07T19:46:34.280272",
     "version": "1.0.0"
   }
 }

@@ -215,16 +215,16 @@
       "nodes_count": 5,
       "integrations": [
         "filter",
-        "code",
+        "odoo",
         "shopifyTrigger",
-        "odoo"
+        "code"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.726215",
-    "updated_at": "2025-07-07T19:41:48.726215",
+    "created_at": "2025-07-07T19:46:34.347546",
+    "updated_at": "2025-07-07T19:46:34.347547",
     "version": "1.0.0"
   }
 }

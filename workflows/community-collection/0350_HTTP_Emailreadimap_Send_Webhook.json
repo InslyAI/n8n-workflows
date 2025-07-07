@@ -164,15 +164,15 @@
         "moveBinaryData",
         "emailReadImap",
         "httpRequest",
-        "xml",
-        "set"
+        "set",
+        "xml"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.441176",
-    "updated_at": "2025-07-07T19:41:49.441177",
+    "created_at": "2025-07-07T19:46:35.215613",
+    "updated_at": "2025-07-07T19:46:35.215614",
     "version": "1.0.0"
   }
 }

@@ -371,17 +371,17 @@
       "department": "",
       "nodes_count": 17,
       "integrations": [
-        "manualTrigger",
-        "code",
+        "merge",
         "stickyNote",
-        "merge"
+        "manualTrigger",
+        "code"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.265139",
-    "updated_at": "2025-07-07T19:41:49.265140",
+    "created_at": "2025-07-07T19:46:34.963758",
+    "updated_at": "2025-07-07T19:46:34.963759",
     "version": "1.0.0"
   }
 }

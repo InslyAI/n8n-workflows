@@ -749,27 +749,27 @@
       "department": "",
       "nodes_count": 26,
       "integrations": [
-        "manualTrigger",
-        "googleSheets",
-        "executeWorkflowTrigger",
-        "stickyNote",
-        "set",
-        "notion",
-        "merge",
         "splitOut",
-        "compareDatasets",
-        "splitInBatches",
         "noOp",
+        "stickyNote",
+        "manualTrigger",
+        "notion",
         "gong",
+        "splitInBatches",
+        "googleSheets",
+        "merge",
+        "aggregate",
+        "compareDatasets",
+        "set",
         "executeWorkflow",
-        "aggregate"
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.409386",
-    "updated_at": "2025-07-07T19:41:49.409387",
+    "created_at": "2025-07-07T19:46:35.180935",
+    "updated_at": "2025-07-07T19:46:35.180937",
     "version": "1.0.0"
   }
 }

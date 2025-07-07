@@ -190,16 +190,16 @@
       "department": "",
       "nodes_count": 6,
       "integrations": [
+        "set",
         "snowflake",
-        "manualTrigger",
-        "set"
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.964080",
-    "updated_at": "2025-07-07T19:41:48.964081",
+    "created_at": "2025-07-07T19:46:34.578342",
+    "updated_at": "2025-07-07T19:46:34.578343",
     "version": "1.0.0"
   }
 }

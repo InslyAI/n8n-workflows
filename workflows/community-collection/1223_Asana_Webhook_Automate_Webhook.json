@@ -99,16 +99,16 @@
       "department": "",
       "nodes_count": 3,
       "integrations": [
+        "set",
         "asana",
-        "webhook",
-        "set"
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.235421",
-    "updated_at": "2025-07-07T19:41:49.235421",
+    "created_at": "2025-07-07T19:46:34.932325",
+    "updated_at": "2025-07-07T19:46:34.932326",
     "version": "1.0.0"
   }
 }

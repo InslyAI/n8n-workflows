@@ -73,15 +73,15 @@
       "department": "",
       "nodes_count": 2,
       "integrations": [
-        "totp",
-        "manualTrigger"
+        "manualTrigger",
+        "totp"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.791947",
-    "updated_at": "2025-07-07T19:41:48.791948",
+    "created_at": "2025-07-07T19:46:34.409656",
+    "updated_at": "2025-07-07T19:46:34.409657",
     "version": "1.0.0"
   }
 }

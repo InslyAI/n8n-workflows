@@ -533,22 +533,22 @@
       "department": "",
       "nodes_count": 19,
       "integrations": [
+        "splitOut",
+        "stickyNote",
         "manualTrigger",
+        "splitInBatches",
         "extractFromFile",
         "googleDrive",
-        "stickyNote",
-        "splitInBatches",
-        "splitOut",
-        "googleDocs",
         "httpRequest",
-        "set"
+        "set",
+        "googleDocs"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.365071",
-    "updated_at": "2025-07-07T19:41:49.365072",
+    "created_at": "2025-07-07T19:46:35.131942",
+    "updated_at": "2025-07-07T19:46:35.131945",
     "version": "1.0.0"
   }
 }

@@ -270,9 +270,9 @@
       "department": "",
       "nodes_count": 10,
       "integrations": [
+        "stickyNote",
         "manualTrigger",
         "extractFromFile",
-        "stickyNote",
         "httpRequest",
         "set"
       ],
@@ -280,8 +280,8 @@
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.119959",
-    "updated_at": "2025-07-07T19:41:49.119960",
+    "created_at": "2025-07-07T19:46:34.806370",
+    "updated_at": "2025-07-07T19:46:34.806371",
     "version": "1.0.0"
   }
 }

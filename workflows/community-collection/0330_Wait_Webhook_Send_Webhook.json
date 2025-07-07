@@ -848,26 +848,26 @@
       "department": "",
       "nodes_count": 29,
       "integrations": [
-        "slack",
-        "if",
-        "merge",
         "itemLists",
-        "wait",
+        "if",
         "stickyNote",
-        "httpRequest",
-        "webhook",
         "formTrigger",
+        "httpRequest",
         "gmail",
-        "filter",
+        "merge",
+        "slack",
+        "wait",
         "code",
-        "set"
+        "set",
+        "webhook",
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.790961",
-    "updated_at": "2025-07-07T19:41:48.790962",
+    "created_at": "2025-07-07T19:46:34.408658",
+    "updated_at": "2025-07-07T19:46:34.408659",
     "version": "1.0.0"
   }
 }

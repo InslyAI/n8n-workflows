@@ -119,17 +119,17 @@
       "department": "",
       "nodes_count": 4,
       "integrations": [
-        "manualTrigger",
-        "airtable",
         "set",
-        "mailerLiteTrigger"
+        "mailerLiteTrigger",
+        "airtable",
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.123547",
-    "updated_at": "2025-07-07T19:41:49.123548",
+    "created_at": "2025-07-07T19:46:34.810815",
+    "updated_at": "2025-07-07T19:46:34.810816",
     "version": "1.0.0"
   }
 }

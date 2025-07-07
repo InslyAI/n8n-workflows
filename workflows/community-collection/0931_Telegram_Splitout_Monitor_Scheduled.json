@@ -728,16 +728,16 @@
       "department": "",
       "nodes_count": 28,
       "integrations": [
+        "splitOut",
         "stickyNote",
         "notion",
-        "editImage",
-        "splitOut",
-        "summarize",
+        "telegramTrigger",
         "telegram",
         "quickChart",
-        "telegramTrigger",
+        "code",
         "scheduleTrigger",
-        "code"
+        "editImage",
+        "summarize"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -756,8 +756,8 @@
         "updatedAt": "2025-05-09T11:02:15.933Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.134033",
-    "updated_at": "2025-07-07T19:41:49.134034",
+    "created_at": "2025-07-07T19:46:34.822582",
+    "updated_at": "2025-07-07T19:46:34.822583",
     "version": "1.0.0"
   }
 }

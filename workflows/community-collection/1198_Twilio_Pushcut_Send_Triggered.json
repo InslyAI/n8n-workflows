@@ -66,15 +66,15 @@
       "department": "",
       "nodes_count": 2,
       "integrations": [
-        "pushcutTrigger",
-        "twilio"
+        "twilio",
+        "pushcutTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.003555",
-    "updated_at": "2025-07-07T19:41:49.003556",
+    "created_at": "2025-07-07T19:46:34.618533",
+    "updated_at": "2025-07-07T19:46:34.618535",
     "version": "1.0.0"
   }
 }

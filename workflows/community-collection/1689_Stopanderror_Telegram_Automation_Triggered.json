@@ -588,20 +588,20 @@
       "department": "",
       "nodes_count": 20,
       "integrations": [
-        "stickyNote",
         "if",
-        "telegram",
-        "limit",
+        "stickyNote",
         "telegramTrigger",
+        "telegram",
+        "stopAndError",
         "code",
-        "stopAndError"
+        "limit"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.644280",
-    "updated_at": "2025-07-07T19:41:48.644281",
+    "created_at": "2025-07-07T19:46:34.257718",
+    "updated_at": "2025-07-07T19:46:34.257719",
     "version": "1.0.0"
   }
 }

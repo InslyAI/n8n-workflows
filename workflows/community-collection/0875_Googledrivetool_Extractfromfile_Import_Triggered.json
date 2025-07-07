@@ -666,20 +666,20 @@
       "department": "",
       "nodes_count": 17,
       "integrations": [
-        "extractFromFile",
-        "switch",
-        "googleDrive",
-        "executeWorkflowTrigger",
         "stickyNote",
+        "switch",
+        "set",
         "googleDriveTool",
-        "set"
+        "extractFromFile",
+        "googleDrive",
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.758327",
-    "updated_at": "2025-07-07T19:41:48.758328",
+    "created_at": "2025-07-07T19:46:34.378202",
+    "updated_at": "2025-07-07T19:46:34.378203",
     "version": "1.0.0"
   }
 }

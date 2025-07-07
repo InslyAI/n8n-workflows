@@ -303,10 +303,10 @@
       "department": "",
       "nodes_count": 8,
       "integrations": [
-        "googleDriveTrigger",
         "googleDrive",
+        "airtable",
         "stickyNote",
-        "airtable"
+        "googleDriveTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -319,8 +319,8 @@
         "updatedAt": "2025-03-21T07:22:28.491Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.559784",
-    "updated_at": "2025-07-07T19:41:49.559784",
+    "created_at": "2025-07-07T19:46:35.339113",
+    "updated_at": "2025-07-07T19:46:35.339114",
     "version": "1.0.0"
   }
 }

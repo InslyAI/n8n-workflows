@@ -297,13 +297,13 @@
       "department": "",
       "nodes_count": 10,
       "integrations": [
-        "manualTrigger",
-        "googleSheets",
         "stickyNote",
+        "manualTrigger",
         "gmail",
+        "googleSheets",
         "openAi",
-        "markdown",
-        "aggregate"
+        "aggregate",
+        "markdown"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -316,8 +316,8 @@
         "updatedAt": "2023-08-15T22:12:34.260Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.167914",
-    "updated_at": "2025-07-07T19:41:49.167915",
+    "created_at": "2025-07-07T19:46:34.861312",
+    "updated_at": "2025-07-07T19:46:34.861313",
     "version": "1.0.0"
   }
 }

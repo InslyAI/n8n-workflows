@@ -984,27 +984,27 @@
       "nodes_count": 33,
       "integrations": [
         "sort",
-        "manualTrigger",
-        "executeWorkflowTrigger",
         "stickyNote",
-        "moveBinaryData",
-        "merge",
+        "manualTrigger",
         "xml",
+        "moveBinaryData",
         "html",
-        "aggregate",
         "respondToWebhook",
-        "n8n",
         "webhook",
-        "executeWorkflow",
+        "n8n",
+        "merge",
+        "aggregate",
         "code",
-        "set"
+        "set",
+        "executeWorkflow",
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.605204",
-    "updated_at": "2025-07-07T19:41:49.605205",
+    "created_at": "2025-07-07T19:46:35.390827",
+    "updated_at": "2025-07-07T19:46:35.390828",
     "version": "1.0.0"
   }
 }

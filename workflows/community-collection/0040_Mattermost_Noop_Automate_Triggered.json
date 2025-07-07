@@ -117,17 +117,17 @@
       "department": "",
       "nodes_count": 4,
       "integrations": [
-        "mattermost",
+        "noOp",
         "notionTrigger",
         "if",
-        "noOp"
+        "mattermost"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.983480",
-    "updated_at": "2025-07-07T19:41:48.983481",
+    "created_at": "2025-07-07T19:46:34.596994",
+    "updated_at": "2025-07-07T19:46:34.596995",
     "version": "1.0.0"
   }
 }

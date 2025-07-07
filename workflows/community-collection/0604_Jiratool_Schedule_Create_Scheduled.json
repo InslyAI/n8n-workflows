@@ -1128,24 +1128,24 @@
       "department": "",
       "nodes_count": 36,
       "integrations": [
-        "notionTool",
         "jiraTool",
-        "slack",
-        "executeWorkflowTrigger",
+        "notionTool",
         "if",
         "stickyNote",
         "jira",
         "aggregate",
+        "slack",
+        "set",
         "scheduleTrigger",
         "executeWorkflow",
-        "set"
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.383219",
-    "updated_at": "2025-07-07T19:41:49.383220",
+    "created_at": "2025-07-07T19:46:35.152905",
+    "updated_at": "2025-07-07T19:46:35.152906",
     "version": "1.0.0"
   }
 }

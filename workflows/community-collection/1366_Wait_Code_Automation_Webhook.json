@@ -1196,21 +1196,21 @@
       "department": "",
       "nodes_count": 34,
       "integrations": [
-        "switch",
         "if",
+        "switch",
         "stickyNote",
-        "wait",
         "httpRequest",
         "airtable",
-        "webhook",
-        "code"
+        "wait",
+        "code",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.476597",
-    "updated_at": "2025-07-07T19:41:49.476598",
+    "created_at": "2025-07-07T19:46:35.254185",
+    "updated_at": "2025-07-07T19:46:35.254186",
     "version": "1.0.0"
   }
 }

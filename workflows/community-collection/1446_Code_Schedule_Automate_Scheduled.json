@@ -999,24 +999,24 @@
       "department": "",
       "nodes_count": 26,
       "integrations": [
-        "manualTrigger",
-        "googleSheets",
-        "stickyNote",
-        "splitInBatches",
         "if",
         "noOp",
-        "xml",
-        "httpRequest",
-        "scheduleTrigger",
+        "stickyNote",
+        "manualTrigger",
         "code",
-        "set"
+        "splitInBatches",
+        "googleSheets",
+        "httpRequest",
+        "set",
+        "scheduleTrigger",
+        "xml"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.458307",
-    "updated_at": "2025-07-07T19:41:49.458308",
+    "created_at": "2025-07-07T19:46:35.234017",
+    "updated_at": "2025-07-07T19:46:35.234018",
     "version": "1.0.0"
   }
 }

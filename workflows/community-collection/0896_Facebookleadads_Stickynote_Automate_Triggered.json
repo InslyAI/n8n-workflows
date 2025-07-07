@@ -132,15 +132,15 @@
       "department": "",
       "nodes_count": 3,
       "integrations": [
-        "facebookLeadAdsTrigger",
-        "stickyNote"
+        "stickyNote",
+        "facebookLeadAdsTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.095790",
-    "updated_at": "2025-07-07T19:41:49.095791",
+    "created_at": "2025-07-07T19:46:34.769745",
+    "updated_at": "2025-07-07T19:46:34.769746",
     "version": "1.0.0"
   }
 }

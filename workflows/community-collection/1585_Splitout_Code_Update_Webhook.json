@@ -1143,15 +1143,15 @@
       "department": "",
       "nodes_count": 26,
       "integrations": [
-        "manualTrigger",
-        "googleSheets",
-        "stickyNote",
         "splitOut",
-        "splitInBatches",
         "if",
-        "httpRequest",
+        "stickyNote",
+        "manualTrigger",
         "googleSheetsTrigger",
         "code",
+        "splitInBatches",
+        "googleSheets",
+        "httpRequest",
         "set"
       ],
       "estimated_cost": "medium",
@@ -1171,8 +1171,8 @@
         "updatedAt": "2024-11-15T04:05:20.872Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.240290",
-    "updated_at": "2025-07-07T19:41:49.240291",
+    "created_at": "2025-07-07T19:46:34.937281",
+    "updated_at": "2025-07-07T19:46:34.937283",
     "version": "1.0.0"
   }
 }

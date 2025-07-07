@@ -360,19 +360,19 @@
       "department": "",
       "nodes_count": 13,
       "integrations": [
-        "manualTrigger",
-        "googleDrive",
-        "stickyNote",
         "if",
-        "editImage",
-        "httpRequest"
+        "stickyNote",
+        "manualTrigger",
+        "httpRequest",
+        "googleDrive",
+        "editImage"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.939834",
-    "updated_at": "2025-07-07T19:41:48.939835",
+    "created_at": "2025-07-07T19:46:34.553778",
+    "updated_at": "2025-07-07T19:46:34.553779",
     "version": "1.0.0"
   }
 }

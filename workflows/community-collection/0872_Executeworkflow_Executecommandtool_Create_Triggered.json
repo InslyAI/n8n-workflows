@@ -468,18 +468,18 @@
       "department": "",
       "nodes_count": 14,
       "integrations": [
-        "executeCommandTool",
-        "executeCommand",
         "switch",
-        "executeWorkflowTrigger",
-        "stickyNote"
+        "stickyNote",
+        "executeCommand",
+        "executeCommandTool",
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.096154",
-    "updated_at": "2025-07-07T19:41:49.096155",
+    "created_at": "2025-07-07T19:46:34.770231",
+    "updated_at": "2025-07-07T19:46:34.770235",
     "version": "1.0.0"
   }
 }

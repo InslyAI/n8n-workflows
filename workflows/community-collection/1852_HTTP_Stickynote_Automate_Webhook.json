@@ -213,15 +213,15 @@
       "nodes_count": 7,
       "integrations": [
         "airtableTrigger",
-        "httpRequest",
-        "stickyNote"
+        "stickyNote",
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.455363",
-    "updated_at": "2025-07-07T19:41:49.455364",
+    "created_at": "2025-07-07T19:46:35.230830",
+    "updated_at": "2025-07-07T19:46:35.230830",
     "version": "1.0.0"
   }
 }

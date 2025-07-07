@@ -786,23 +786,23 @@
       "department": "",
       "nodes_count": 19,
       "integrations": [
-        "extractFromFile",
-        "manualTrigger",
         "switch",
-        "googleDrive",
-        "odoo",
+        "manualTrigger",
         "googleChat",
-        "summarize",
+        "extractFromFile",
+        "odoo",
+        "code",
+        "googleDrive",
         "scheduleTrigger",
-        "filter",
-        "code"
+        "summarize",
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.350027",
-    "updated_at": "2025-07-07T19:41:49.350028",
+    "created_at": "2025-07-07T19:46:35.112769",
+    "updated_at": "2025-07-07T19:46:35.112770",
     "version": "1.0.0"
   }
 }

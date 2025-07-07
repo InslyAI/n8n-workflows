@@ -313,18 +313,18 @@
       "department": "",
       "nodes_count": 11,
       "integrations": [
-        "merge",
         "function",
-        "httpRequest",
+        "github",
         "cron",
-        "github"
+        "merge",
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.241574",
-    "updated_at": "2025-07-07T19:41:49.241575",
+    "created_at": "2025-07-07T19:46:34.938694",
+    "updated_at": "2025-07-07T19:46:34.938695",
     "version": "1.0.0"
   }
 }

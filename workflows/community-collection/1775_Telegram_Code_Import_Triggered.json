@@ -824,20 +824,20 @@
       "department": "",
       "nodes_count": 16,
       "integrations": [
-        "manualTrigger",
-        "googleSheets",
         "stickyNote",
-        "splitInBatches",
-        "code",
+        "manualTrigger",
+        "wooCommerce",
         "telegram",
-        "wooCommerce"
+        "splitInBatches",
+        "googleSheets",
+        "code"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.431332",
-    "updated_at": "2025-07-07T19:41:49.431333",
+    "created_at": "2025-07-07T19:46:35.204863",
+    "updated_at": "2025-07-07T19:46:35.204864",
     "version": "1.0.0"
   }
 }

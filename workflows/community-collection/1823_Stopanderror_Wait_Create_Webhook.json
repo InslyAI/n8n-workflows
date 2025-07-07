@@ -1861,22 +1861,22 @@
       "department": "",
       "nodes_count": 42,
       "integrations": [
-        "manualTrigger",
-        "googleSheets",
-        "executeWorkflowTrigger",
-        "if",
-        "set",
-        "removeDuplicates",
-        "wait",
-        "splitInBatches",
-        "stickyNote",
-        "httpRequest",
         "splitOut",
-        "limit",
+        "if",
+        "stickyNote",
+        "manualTrigger",
+        "code",
+        "splitInBatches",
+        "googleSheets",
+        "stopAndError",
+        "wait",
+        "httpRequest",
+        "set",
         "scheduleTrigger",
         "filter",
-        "code",
-        "stopAndError"
+        "executeWorkflowTrigger",
+        "removeDuplicates",
+        "limit"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -1889,8 +1889,8 @@
         "updatedAt": "2024-06-04T02:58:48.480Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:48.740743",
-    "updated_at": "2025-07-07T19:41:48.740744",
+    "created_at": "2025-07-07T19:46:34.361676",
+    "updated_at": "2025-07-07T19:46:34.361677",
     "version": "1.0.0"
   }
 }

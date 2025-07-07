@@ -368,22 +368,22 @@
       "department": "",
       "nodes_count": 11,
       "integrations": [
-        "manualTrigger",
-        "writeBinaryFile",
         "stickyNote",
-        "splitInBatches",
-        "itemLists",
-        "spreadsheetFile",
+        "manualTrigger",
         "moveBinaryData",
+        "splitInBatches",
         "openAi",
-        "set"
+        "itemLists",
+        "set",
+        "spreadsheetFile",
+        "writeBinaryFile"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.859087",
-    "updated_at": "2025-07-07T19:41:48.859088",
+    "created_at": "2025-07-07T19:46:34.475344",
+    "updated_at": "2025-07-07T19:46:34.475345",
     "version": "1.0.0"
   }
 }

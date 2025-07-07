@@ -456,16 +456,16 @@
       "nodes_count": 8,
       "integrations": [
         "wait",
+        "splitInBatches",
         "manualTrigger",
-        "googleSheets",
-        "splitInBatches"
+        "googleSheets"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.147265",
-    "updated_at": "2025-07-07T19:41:49.147266",
+    "created_at": "2025-07-07T19:46:34.837955",
+    "updated_at": "2025-07-07T19:46:34.837956",
     "version": "1.0.0"
   }
 }

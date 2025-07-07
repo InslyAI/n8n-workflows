@@ -404,22 +404,22 @@
       "department": "",
       "nodes_count": 14,
       "integrations": [
-        "stickyNote",
-        "merge",
-        "httpRequest",
-        "telegram",
         "gmailTrigger",
+        "stickyNote",
         "convertToFile",
+        "httpRequest",
         "gmail",
-        "code",
-        "aggregate"
+        "telegram",
+        "merge",
+        "aggregate",
+        "code"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.561670",
-    "updated_at": "2025-07-07T19:41:49.561671",
+    "created_at": "2025-07-07T19:46:35.341104",
+    "updated_at": "2025-07-07T19:46:35.341105",
     "version": "1.0.0"
   }
 }

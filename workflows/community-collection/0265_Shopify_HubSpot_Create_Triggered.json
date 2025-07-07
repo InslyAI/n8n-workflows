@@ -262,19 +262,19 @@
       "department": "",
       "nodes_count": 8,
       "integrations": [
+        "noOp",
         "if",
         "merge",
-        "noOp",
+        "set",
         "hubspot",
-        "shopifyTrigger",
-        "set"
+        "shopifyTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.720471",
-    "updated_at": "2025-07-07T19:41:48.720472",
+    "created_at": "2025-07-07T19:46:34.342160",
+    "updated_at": "2025-07-07T19:46:34.342163",
     "version": "1.0.0"
   }
 }

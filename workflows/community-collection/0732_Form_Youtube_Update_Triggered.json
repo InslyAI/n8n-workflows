@@ -328,19 +328,19 @@
       "department": "",
       "nodes_count": 11,
       "integrations": [
-        "googleDocsTool",
         "stickyNote",
         "form",
         "formTrigger",
-        "youTube",
-        "set"
+        "set",
+        "googleDocsTool",
+        "youTube"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.146842",
-    "updated_at": "2025-07-07T19:41:49.146843",
+    "created_at": "2025-07-07T19:46:34.837419",
+    "updated_at": "2025-07-07T19:46:34.837420",
     "version": "1.0.0"
   }
 }

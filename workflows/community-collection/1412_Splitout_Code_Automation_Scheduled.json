@@ -790,21 +790,21 @@
       "department": "",
       "nodes_count": 13,
       "integrations": [
-        "manualTrigger",
-        "googleSheets",
-        "stickyNote",
         "splitOut",
+        "stickyNote",
+        "manualTrigger",
         "httpRequest",
-        "scheduleTrigger",
+        "googleSheets",
         "code",
-        "set"
+        "set",
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.055669",
-    "updated_at": "2025-07-07T19:41:49.055669",
+    "created_at": "2025-07-07T19:46:34.676804",
+    "updated_at": "2025-07-07T19:46:34.676806",
     "version": "1.0.0"
   }
 }

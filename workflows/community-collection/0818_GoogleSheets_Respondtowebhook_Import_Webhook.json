@@ -184,17 +184,17 @@
       "department": "",
       "nodes_count": 7,
       "integrations": [
-        "googleSheets",
-        "respondToWebhook",
         "webhook",
-        "stickyNote"
+        "respondToWebhook",
+        "stickyNote",
+        "googleSheets"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.768376",
-    "updated_at": "2025-07-07T19:41:48.768377",
+    "created_at": "2025-07-07T19:46:34.385453",
+    "updated_at": "2025-07-07T19:46:34.385456",
     "version": "1.0.0"
   }
 }

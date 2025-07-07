@@ -250,19 +250,19 @@
       "department": "",
       "nodes_count": 6,
       "integrations": [
-        "manualTrigger",
-        "slack",
-        "splitInBatches",
         "gmailTrigger",
+        "manualTrigger",
         "gmail",
+        "splitInBatches",
+        "slack",
         "set"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.486595",
-    "updated_at": "2025-07-07T19:41:49.486596",
+    "created_at": "2025-07-07T19:46:35.264468",
+    "updated_at": "2025-07-07T19:46:35.264469",
     "version": "1.0.0"
   }
 }

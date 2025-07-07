@@ -1052,23 +1052,23 @@
       "department": "",
       "nodes_count": 30,
       "integrations": [
-        "spotify",
-        "stickyNote",
         "if",
-        "merge",
         "noOp",
+        "stickyNote",
+        "spotify",
         "splitInBatches",
+        "merge",
         "nocoDb",
+        "code",
         "scheduleTrigger",
-        "filter",
-        "code"
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.330138",
-    "updated_at": "2025-07-07T19:41:49.330139",
+    "created_at": "2025-07-07T19:46:35.088339",
+    "updated_at": "2025-07-07T19:46:35.088340",
     "version": "1.0.0"
   }
 }

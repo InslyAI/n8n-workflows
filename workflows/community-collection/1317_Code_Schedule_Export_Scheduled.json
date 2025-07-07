@@ -296,20 +296,20 @@
       "department": "",
       "nodes_count": 11,
       "integrations": [
-        "set",
-        "notionTrigger",
-        "notion",
         "stickyNote",
-        "scheduleTrigger",
+        "notion",
+        "notionTrigger",
+        "aggregate",
         "code",
-        "aggregate"
+        "set",
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.540993",
-    "updated_at": "2025-07-07T19:41:49.540994",
+    "created_at": "2025-07-07T19:46:35.318695",
+    "updated_at": "2025-07-07T19:46:35.318696",
     "version": "1.0.0"
   }
 }

@@ -581,20 +581,20 @@
       "department": "",
       "nodes_count": 14,
       "integrations": [
-        "switch",
         "if",
-        "stickyNote",
         "form",
-        "httpRequest",
+        "switch",
         "formTrigger",
+        "stickyNote",
+        "httpRequest",
         "set"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.127466",
-    "updated_at": "2025-07-07T19:41:49.127467",
+    "created_at": "2025-07-07T19:46:34.815308",
+    "updated_at": "2025-07-07T19:46:34.815309",
     "version": "1.0.0"
   }
 }

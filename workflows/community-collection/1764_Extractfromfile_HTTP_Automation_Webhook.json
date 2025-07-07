@@ -634,22 +634,22 @@
       "department": "",
       "nodes_count": 17,
       "integrations": [
-        "extractFromFile",
-        "googleDrive",
-        "googleSheets",
-        "stickyNote",
-        "if",
-        "httpRequest",
         "gmailTrigger",
+        "if",
+        "stickyNote",
         "gmail",
+        "googleSheets",
+        "googleDrive",
+        "extractFromFile",
+        "httpRequest",
         "set"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.890835",
-    "updated_at": "2025-07-07T19:41:48.890837",
+    "created_at": "2025-07-07T19:46:34.506722",
+    "updated_at": "2025-07-07T19:46:34.506723",
     "version": "1.0.0"
   }
 }

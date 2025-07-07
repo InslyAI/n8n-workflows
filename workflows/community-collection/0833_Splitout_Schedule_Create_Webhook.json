@@ -1002,27 +1002,27 @@
       "department": "",
       "nodes_count": 33,
       "integrations": [
-        "microsoftOutlook",
-        "set",
-        "if",
         "splitOut",
-        "splitInBatches",
-        "merge",
         "noOp",
-        "removeDuplicates",
-        "httpRequest",
-        "html",
-        "microsoftExcel",
+        "if",
         "stickyNote",
+        "microsoftExcel",
+        "splitInBatches",
+        "html",
+        "merge",
+        "aggregate",
+        "microsoftOutlook",
+        "httpRequest",
+        "set",
         "scheduleTrigger",
-        "aggregate"
+        "removeDuplicates"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.381959",
-    "updated_at": "2025-07-07T19:41:49.381959",
+    "created_at": "2025-07-07T19:46:35.151512",
+    "updated_at": "2025-07-07T19:46:35.151513",
     "version": "1.0.0"
   }
 }

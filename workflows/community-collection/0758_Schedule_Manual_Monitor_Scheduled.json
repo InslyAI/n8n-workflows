@@ -502,22 +502,22 @@
       "department": "",
       "nodes_count": 11,
       "integrations": [
-        "manualTrigger",
-        "stickyNote",
+        "sort",
         "if",
+        "stickyNote",
+        "manualTrigger",
         "salesforce",
         "gong",
+        "set",
         "scheduleTrigger",
-        "executeWorkflow",
-        "sort",
-        "set"
+        "executeWorkflow"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.730673",
-    "updated_at": "2025-07-07T19:41:48.730673",
+    "created_at": "2025-07-07T19:46:34.351916",
+    "updated_at": "2025-07-07T19:46:34.351917",
     "version": "1.0.0"
   }
 }

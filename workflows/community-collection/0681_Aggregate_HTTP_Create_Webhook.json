@@ -1409,22 +1409,22 @@
       "department": "",
       "nodes_count": 41,
       "integrations": [
-        "switch",
-        "executeWorkflowTrigger",
-        "stickyNote",
-        "set",
-        "merge",
         "if",
-        "httpRequest",
+        "stickyNote",
+        "switch",
         "airtable",
-        "aggregate"
+        "merge",
+        "aggregate",
+        "httpRequest",
+        "set",
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.166796",
-    "updated_at": "2025-07-07T19:41:49.166797",
+    "created_at": "2025-07-07T19:46:34.860045",
+    "updated_at": "2025-07-07T19:46:34.860046",
     "version": "1.0.0"
   }
 }

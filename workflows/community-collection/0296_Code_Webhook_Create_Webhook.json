@@ -223,17 +223,17 @@
       "integrations": [
         "stickyNote",
         "html",
-        "n8n",
-        "webhook",
         "respondToWebhook",
-        "code"
+        "code",
+        "webhook",
+        "n8n"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.912089",
-    "updated_at": "2025-07-07T19:41:48.912089",
+    "created_at": "2025-07-07T19:46:34.527183",
+    "updated_at": "2025-07-07T19:46:34.527184",
     "version": "1.0.0"
   }
 }

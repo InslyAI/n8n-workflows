@@ -183,18 +183,18 @@
       "department": "",
       "nodes_count": 6,
       "integrations": [
-        "if",
         "function",
-        "httpRequest",
+        "if",
         "cron",
-        "discord"
+        "discord",
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.254671",
-    "updated_at": "2025-07-07T19:41:49.254671",
+    "created_at": "2025-07-07T19:46:34.952669",
+    "updated_at": "2025-07-07T19:46:34.952670",
     "version": "1.0.0"
   }
 }

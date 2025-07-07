@@ -556,17 +556,17 @@
       "nodes_count": 10,
       "integrations": [
         "stickyNote",
+        "airtable",
         "merge",
         "httpRequest",
-        "airtable",
         "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.387309",
-    "updated_at": "2025-07-07T19:41:49.387310",
+    "created_at": "2025-07-07T19:46:35.157427",
+    "updated_at": "2025-07-07T19:46:35.157428",
     "version": "1.0.0"
   }
 }

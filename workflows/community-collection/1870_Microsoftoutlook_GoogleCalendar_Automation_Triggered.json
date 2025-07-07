@@ -289,16 +289,16 @@
       "department": "",
       "nodes_count": 7,
       "integrations": [
-        "microsoftOutlook",
+        "googleCalendarTrigger",
         "merge",
-        "googleCalendarTrigger"
+        "microsoftOutlook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.460217",
-    "updated_at": "2025-07-07T19:41:49.460217",
+    "created_at": "2025-07-07T19:46:35.236235",
+    "updated_at": "2025-07-07T19:46:35.236238",
     "version": "1.0.0"
   }
 }

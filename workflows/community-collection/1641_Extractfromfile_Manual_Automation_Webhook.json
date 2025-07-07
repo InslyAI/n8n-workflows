@@ -380,12 +380,12 @@
       "department": "",
       "nodes_count": 13,
       "integrations": [
+        "stickyNote",
         "manualTrigger",
         "extractFromFile",
-        "stickyNote",
         "httpRequest",
-        "youTube",
-        "set"
+        "set",
+        "youTube"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -404,8 +404,8 @@
         "updatedAt": "2025-04-06T16:41:28.633Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.188538",
-    "updated_at": "2025-07-07T19:41:49.188538",
+    "created_at": "2025-07-07T19:46:34.885207",
+    "updated_at": "2025-07-07T19:46:34.885208",
     "version": "1.0.0"
   }
 }

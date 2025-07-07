@@ -653,21 +653,21 @@
       "department": "",
       "nodes_count": 19,
       "integrations": [
-        "executeWorkflowTrigger",
-        "stickyNote",
-        "if",
-        "notion",
-        "wait",
         "splitOut",
+        "if",
+        "stickyNote",
+        "notion",
+        "aggregate",
+        "wait",
         "set",
-        "aggregate"
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.927240",
-    "updated_at": "2025-07-07T19:41:48.927240",
+    "created_at": "2025-07-07T19:46:34.541379",
+    "updated_at": "2025-07-07T19:46:34.541380",
     "version": "1.0.0"
   }
 }

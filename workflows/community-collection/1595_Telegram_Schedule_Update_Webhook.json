@@ -681,15 +681,15 @@
       "department": "",
       "nodes_count": 27,
       "integrations": [
-        "manualTrigger",
-        "stickyNote",
-        "merge",
         "if",
-        "httpRequest",
+        "stickyNote",
+        "manualTrigger",
         "telegram",
+        "merge",
+        "httpRequest",
+        "set",
         "scheduleTrigger",
-        "ssh",
-        "set"
+        "ssh"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -702,8 +702,8 @@
         "updatedAt": "2025-03-30T00:22:43.140Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:48.938610",
-    "updated_at": "2025-07-07T19:41:48.938611",
+    "created_at": "2025-07-07T19:46:34.552621",
+    "updated_at": "2025-07-07T19:46:34.552622",
     "version": "1.0.0"
   }
 }

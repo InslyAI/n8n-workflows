@@ -382,17 +382,17 @@
       "department": "",
       "nodes_count": 13,
       "integrations": [
-        "telegramTrigger",
+        "set",
         "telegram",
         "stickyNote",
-        "set"
+        "telegramTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.302419",
-    "updated_at": "2025-07-07T19:41:49.302420",
+    "created_at": "2025-07-07T19:46:35.047618",
+    "updated_at": "2025-07-07T19:46:35.047619",
     "version": "1.0.0"
   }
 }

@@ -659,22 +659,22 @@
       "department": "",
       "nodes_count": 19,
       "integrations": [
-        "googleDrive",
-        "googleSheets",
-        "if",
-        "function",
-        "stickyNote",
-        "splitInBatches",
         "gmailTrigger",
+        "function",
+        "if",
+        "stickyNote",
         "gmail",
-        "set"
+        "splitInBatches",
+        "googleSheets",
+        "set",
+        "googleDrive"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.793686",
-    "updated_at": "2025-07-07T19:41:48.793686",
+    "created_at": "2025-07-07T19:46:34.411443",
+    "updated_at": "2025-07-07T19:46:34.411443",
     "version": "1.0.0"
   }
 }

@@ -947,23 +947,23 @@
       "department": "",
       "nodes_count": 23,
       "integrations": [
-        "manualTrigger",
-        "executeCommand",
-        "googleDrive",
-        "googleSheets",
         "stickyNote",
-        "merge",
-        "readWriteFile",
+        "manualTrigger",
         "httpRequest",
+        "executeCommand",
+        "googleSheets",
+        "set",
+        "merge",
         "code",
-        "set"
+        "googleDrive",
+        "readWriteFile"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.843587",
-    "updated_at": "2025-07-07T19:41:48.843588",
+    "created_at": "2025-07-07T19:46:34.459857",
+    "updated_at": "2025-07-07T19:46:34.459858",
     "version": "1.0.0"
   }
 }

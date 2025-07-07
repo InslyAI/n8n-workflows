@@ -60,15 +60,15 @@
       "department": "",
       "nodes_count": 2,
       "integrations": [
-        "manualTrigger",
-        "clearbit"
+        "clearbit",
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.466157",
-    "updated_at": "2025-07-07T19:41:49.466159",
+    "created_at": "2025-07-07T19:46:35.242506",
+    "updated_at": "2025-07-07T19:46:35.242507",
     "version": "1.0.0"
   }
 }

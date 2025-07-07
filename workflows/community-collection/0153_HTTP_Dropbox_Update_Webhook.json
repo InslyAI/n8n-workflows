@@ -135,17 +135,17 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
-        "dropbox",
-        "xml",
+        "set",
         "httpRequest",
-        "set"
+        "dropbox",
+        "xml"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.892690",
-    "updated_at": "2025-07-07T19:41:48.892691",
+    "created_at": "2025-07-07T19:46:34.508664",
+    "updated_at": "2025-07-07T19:46:34.508665",
     "version": "1.0.0"
   }
 }

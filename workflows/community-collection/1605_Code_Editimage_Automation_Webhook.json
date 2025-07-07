@@ -379,19 +379,19 @@
       "department": "",
       "nodes_count": 14,
       "integrations": [
-        "manualTrigger",
         "stickyNote",
-        "editImage",
+        "manualTrigger",
         "httpRequest",
         "code",
-        "set"
+        "set",
+        "editImage"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.767929",
-    "updated_at": "2025-07-07T19:41:48.767930",
+    "created_at": "2025-07-07T19:46:34.384918",
+    "updated_at": "2025-07-07T19:46:34.384920",
     "version": "1.0.0"
   }
 }

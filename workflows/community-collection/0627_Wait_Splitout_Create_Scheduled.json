@@ -934,27 +934,27 @@
       "department": "",
       "nodes_count": 23,
       "integrations": [
-        "manualTrigger",
-        "if",
-        "splitInBatches",
         "splitOut",
-        "wait",
-        "stickyNote",
+        "if",
         "xml",
-        "httpRequest",
+        "manualTrigger",
+        "stickyNote",
         "theHiveProject",
-        "n8n",
+        "splitInBatches",
+        "wait",
+        "httpRequest",
+        "set",
         "scheduleTrigger",
         "executeWorkflow",
         "filter",
-        "set"
+        "n8n"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.596583",
-    "updated_at": "2025-07-07T19:41:49.596584",
+    "created_at": "2025-07-07T19:46:35.380895",
+    "updated_at": "2025-07-07T19:46:35.380898",
     "version": "1.0.0"
   }
 }

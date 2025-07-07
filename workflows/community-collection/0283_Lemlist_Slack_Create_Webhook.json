@@ -410,20 +410,20 @@
       "nodes_count": 12,
       "integrations": [
         "switch",
-        "slack",
+        "lemlist",
+        "openAi",
         "merge",
-        "hubspot",
+        "slack",
         "httpRequest",
         "lemlistTrigger",
-        "openAi",
-        "lemlist"
+        "hubspot"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.389855",
-    "updated_at": "2025-07-07T19:41:49.389856",
+    "created_at": "2025-07-07T19:46:35.160175",
+    "updated_at": "2025-07-07T19:46:35.160176",
     "version": "1.0.0"
   }
 }

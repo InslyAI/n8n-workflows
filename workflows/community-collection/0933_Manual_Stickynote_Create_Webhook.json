@@ -637,10 +637,10 @@
       "department": "",
       "nodes_count": 21,
       "integrations": [
-        "manualTrigger",
-        "httpRequest",
+        "set",
         "stickyNote",
-        "set"
+        "manualTrigger",
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -665,8 +665,8 @@
         "updatedAt": "2025-04-13T05:38:08.053Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.572046",
-    "updated_at": "2025-07-07T19:41:49.572047",
+    "created_at": "2025-07-07T19:46:35.352276",
+    "updated_at": "2025-07-07T19:46:35.352280",
     "version": "1.0.0"
   }
 }

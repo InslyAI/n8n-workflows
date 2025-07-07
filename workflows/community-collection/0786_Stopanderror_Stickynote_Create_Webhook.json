@@ -593,19 +593,19 @@
       "department": "",
       "nodes_count": 15,
       "integrations": [
-        "switch",
-        "set",
         "if",
+        "switch",
         "stickyNote",
-        "webhook",
-        "stopAndError"
+        "stopAndError",
+        "set",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.573980",
-    "updated_at": "2025-07-07T19:41:49.573981",
+    "created_at": "2025-07-07T19:46:35.354655",
+    "updated_at": "2025-07-07T19:46:35.354657",
     "version": "1.0.0"
   }
 }

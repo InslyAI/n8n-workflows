@@ -574,22 +574,22 @@
       "department": "",
       "nodes_count": 14,
       "integrations": [
-        "manualTrigger",
-        "googleSheets",
-        "stickyNote",
-        "splitInBatches",
         "if",
-        "httpRequest",
-        "limit",
+        "stickyNote",
+        "manualTrigger",
         "code",
-        "set"
+        "splitInBatches",
+        "googleSheets",
+        "httpRequest",
+        "set",
+        "limit"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.447249",
-    "updated_at": "2025-07-07T19:41:49.447250",
+    "created_at": "2025-07-07T19:46:35.222158",
+    "updated_at": "2025-07-07T19:46:35.222159",
     "version": "1.0.0"
   }
 }

@@ -96,16 +96,16 @@
       "department": "",
       "nodes_count": 3,
       "integrations": [
-        "wooCommerceTrigger",
+        "telegram",
         "twitter",
-        "telegram"
+        "wooCommerceTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.123305",
-    "updated_at": "2025-07-07T19:41:49.123306",
+    "created_at": "2025-07-07T19:46:34.810553",
+    "updated_at": "2025-07-07T19:46:34.810554",
     "version": "1.0.0"
   }
 }

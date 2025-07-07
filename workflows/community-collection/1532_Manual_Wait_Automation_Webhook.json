@@ -486,10 +486,10 @@
       "department": "",
       "nodes_count": 13,
       "integrations": [
-        "manualTrigger",
         "if",
-        "wait",
+        "manualTrigger",
         "httpRequest",
+        "wait",
         "code",
         "set"
       ],
@@ -497,8 +497,8 @@
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.057887",
-    "updated_at": "2025-07-07T19:41:49.057888",
+    "created_at": "2025-07-07T19:46:34.679288",
+    "updated_at": "2025-07-07T19:46:34.679288",
     "version": "1.0.0"
   }
 }

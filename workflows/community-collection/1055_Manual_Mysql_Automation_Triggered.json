@@ -120,16 +120,16 @@
       "department": "",
       "nodes_count": 4,
       "integrations": [
-        "manualTrigger",
         "set",
-        "mySql"
+        "mySql",
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.063598",
-    "updated_at": "2025-07-07T19:41:49.063599",
+    "created_at": "2025-07-07T19:46:34.685356",
+    "updated_at": "2025-07-07T19:46:34.685357",
     "version": "1.0.0"
   }
 }

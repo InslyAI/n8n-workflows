@@ -1095,22 +1095,22 @@
       "department": "",
       "nodes_count": 32,
       "integrations": [
-        "extractFromFile",
-        "switch",
         "if",
         "stickyNote",
-        "httpRequest",
+        "switch",
         "whatsApp",
-        "whatsAppTrigger",
         "code",
-        "set"
+        "extractFromFile",
+        "httpRequest",
+        "set",
+        "whatsAppTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.787109",
-    "updated_at": "2025-07-07T19:41:48.787110",
+    "created_at": "2025-07-07T19:46:34.404758",
+    "updated_at": "2025-07-07T19:46:34.404759",
     "version": "1.0.0"
   }
 }

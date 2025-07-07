@@ -344,16 +344,16 @@
       "nodes_count": 7,
       "integrations": [
         "gmail",
-        "googleSheets",
+        "extractFromFile",
         "formTrigger",
-        "extractFromFile"
+        "googleSheets"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.197453",
-    "updated_at": "2025-07-07T19:41:49.197454",
+    "created_at": "2025-07-07T19:46:34.895666",
+    "updated_at": "2025-07-07T19:46:34.895668",
     "version": "1.0.0"
   }
 }

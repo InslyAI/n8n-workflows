@@ -474,17 +474,17 @@
       "department": "",
       "nodes_count": 7,
       "integrations": [
-        "switch",
-        "executeWorkflowTrigger",
+        "set",
         "if",
-        "set"
+        "switch",
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.682713",
-    "updated_at": "2025-07-07T19:41:48.682714",
+    "created_at": "2025-07-07T19:46:34.295417",
+    "updated_at": "2025-07-07T19:46:34.295419",
     "version": "1.0.0"
   }
 }

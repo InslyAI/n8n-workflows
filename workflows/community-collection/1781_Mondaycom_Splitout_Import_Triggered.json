@@ -682,15 +682,15 @@
       "department": "",
       "nodes_count": 26,
       "integrations": [
-        "executeWorkflowTrigger",
+        "splitOut",
         "stickyNote",
         "merge",
-        "splitOut",
+        "aggregate",
+        "executeWorkflowTrigger",
+        "code",
         "set",
         "executeWorkflow",
-        "mondayCom",
-        "code",
-        "aggregate"
+        "mondayCom"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -703,8 +703,8 @@
         "updatedAt": "2023-12-05T07:54:13.266Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.607072",
-    "updated_at": "2025-07-07T19:41:49.607073",
+    "created_at": "2025-07-07T19:46:35.392843",
+    "updated_at": "2025-07-07T19:46:35.392844",
     "version": "1.0.0"
   }
 }

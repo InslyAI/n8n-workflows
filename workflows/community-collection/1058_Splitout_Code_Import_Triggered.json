@@ -410,21 +410,21 @@
       "department": "",
       "nodes_count": 11,
       "integrations": [
-        "manualTrigger",
-        "stickyNote",
         "splitOut",
-        "merge",
+        "stickyNote",
+        "manualTrigger",
         "facebookGraphApi",
-        "filter",
+        "merge",
         "code",
-        "set"
+        "set",
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.764851",
-    "updated_at": "2025-07-07T19:41:48.764852",
+    "created_at": "2025-07-07T19:46:34.381988",
+    "updated_at": "2025-07-07T19:46:34.381989",
     "version": "1.0.0"
   }
 }

@@ -61,15 +61,15 @@
       "department": "",
       "nodes_count": 2,
       "integrations": [
-        "manualTrigger",
-        "salesmate"
+        "salesmate",
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.871584",
-    "updated_at": "2025-07-07T19:41:48.871585",
+    "created_at": "2025-07-07T19:46:34.487169",
+    "updated_at": "2025-07-07T19:46:34.487170",
     "version": "1.0.0"
   }
 }

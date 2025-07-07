@@ -348,21 +348,21 @@
       "department": "",
       "nodes_count": 11,
       "integrations": [
-        "itemLists",
-        "merge",
         "stripe",
-        "httpRequest",
-        "functionItem",
         "cron",
+        "httpRequest",
+        "merge",
+        "itemLists",
+        "set",
         "pipedrive",
-        "set"
+        "functionItem"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.108296",
-    "updated_at": "2025-07-07T19:41:49.108297",
+    "created_at": "2025-07-07T19:46:34.788279",
+    "updated_at": "2025-07-07T19:46:34.788280",
     "version": "1.0.0"
   }
 }

@@ -346,20 +346,20 @@
       "department": "",
       "nodes_count": 10,
       "integrations": [
-        "extractFromFile",
-        "googleDrive",
-        "stickyNote",
         "splitOut",
+        "stickyNote",
         "merge",
-        "googleDriveTrigger",
-        "code"
+        "extractFromFile",
+        "code",
+        "googleDrive",
+        "googleDriveTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.901183",
-    "updated_at": "2025-07-07T19:41:48.901184",
+    "created_at": "2025-07-07T19:46:34.515006",
+    "updated_at": "2025-07-07T19:46:34.515007",
     "version": "1.0.0"
   }
 }

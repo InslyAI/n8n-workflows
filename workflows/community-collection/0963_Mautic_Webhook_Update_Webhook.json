@@ -546,20 +546,20 @@
       "department": "",
       "nodes_count": 17,
       "integrations": [
-        "switch",
-        "if",
-        "merge",
         "function",
-        "webhook",
+        "if",
+        "switch",
+        "merge",
         "mautic",
-        "set"
+        "set",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.150729",
-    "updated_at": "2025-07-07T19:41:49.150730",
+    "created_at": "2025-07-07T19:46:34.842252",
+    "updated_at": "2025-07-07T19:46:34.842252",
     "version": "1.0.0"
   }
 }

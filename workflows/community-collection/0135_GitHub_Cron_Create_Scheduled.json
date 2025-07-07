@@ -181,18 +181,18 @@
       "department": "",
       "nodes_count": 6,
       "integrations": [
-        "merge",
         "function",
+        "github",
         "cron",
-        "gitlab",
-        "github"
+        "merge",
+        "gitlab"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.659576",
-    "updated_at": "2025-07-07T19:41:48.659577",
+    "created_at": "2025-07-07T19:46:34.272365",
+    "updated_at": "2025-07-07T19:46:34.272366",
     "version": "1.0.0"
   }
 }

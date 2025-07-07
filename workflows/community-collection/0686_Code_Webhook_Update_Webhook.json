@@ -587,24 +587,24 @@
       "department": "",
       "nodes_count": 17,
       "integrations": [
-        "extractFromFile",
-        "switch",
-        "slack",
-        "stickyNote",
         "if",
+        "stickyNote",
+        "switch",
         "httpRequest",
-        "aggregate",
         "respondToWebhook",
-        "webhook",
+        "extractFromFile",
+        "slack",
+        "aggregate",
         "code",
-        "set"
+        "set",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.262207",
-    "updated_at": "2025-07-07T19:41:49.262208",
+    "created_at": "2025-07-07T19:46:34.960473",
+    "updated_at": "2025-07-07T19:46:34.960474",
     "version": "1.0.0"
   }
 }

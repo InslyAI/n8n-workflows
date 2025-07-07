@@ -618,21 +618,21 @@
       "department": "",
       "nodes_count": 17,
       "integrations": [
-        "googleSheets",
         "if",
-        "splitInBatches",
         "stickyNote",
-        "scheduleTrigger",
         "gmail",
-        "filter",
-        "set"
+        "splitInBatches",
+        "googleSheets",
+        "set",
+        "scheduleTrigger",
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.137665",
-    "updated_at": "2025-07-07T19:41:49.137666",
+    "created_at": "2025-07-07T19:46:34.826666",
+    "updated_at": "2025-07-07T19:46:34.826667",
     "version": "1.0.0"
   }
 }

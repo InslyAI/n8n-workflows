@@ -840,25 +840,25 @@
       "department": "",
       "nodes_count": 30,
       "integrations": [
-        "microsoftOutlook",
         "stickyNote",
+        "dateTime",
         "mySql",
+        "html",
         "splitInBatches",
         "merge",
+        "microsoftOutlook",
         "wait",
-        "html",
-        "filter",
-        "scheduleTrigger",
-        "dateTime",
         "code",
-        "set"
+        "set",
+        "scheduleTrigger",
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.064273",
-    "updated_at": "2025-07-07T19:41:49.064274",
+    "created_at": "2025-07-07T19:46:34.686126",
+    "updated_at": "2025-07-07T19:46:34.686127",
     "version": "1.0.0"
   }
 }

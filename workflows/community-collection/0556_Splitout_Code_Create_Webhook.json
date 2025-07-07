@@ -995,24 +995,24 @@
       "department": "",
       "nodes_count": 36,
       "integrations": [
-        "manualTrigger",
-        "googleSheets",
-        "executeWorkflowTrigger",
-        "stickyNote",
         "splitOut",
         "hackerNews",
+        "manualTrigger",
+        "stickyNote",
+        "code",
+        "googleSheets",
         "httpRequest",
+        "set",
         "executeWorkflow",
         "filter",
-        "code",
-        "set"
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.499406",
-    "updated_at": "2025-07-07T19:41:49.499406",
+    "created_at": "2025-07-07T19:46:35.278582",
+    "updated_at": "2025-07-07T19:46:35.278583",
     "version": "1.0.0"
   }
 }

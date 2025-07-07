@@ -596,11 +596,11 @@
       "nodes_count": 20,
       "integrations": [
         "if",
-        "splitInBatches",
         "noOp",
         "stickyNote",
-        "telegram",
         "telegramTrigger",
+        "telegram",
+        "splitInBatches",
         "code",
         "set"
       ],
@@ -608,8 +608,8 @@
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.454640",
-    "updated_at": "2025-07-07T19:41:49.454640",
+    "created_at": "2025-07-07T19:46:35.230118",
+    "updated_at": "2025-07-07T19:46:35.230119",
     "version": "1.0.0"
   }
 }

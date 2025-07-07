@@ -389,21 +389,21 @@
       "nodes_count": 11,
       "integrations": [
         "manualTrigger",
-        "googleSheets",
-        "merge",
+        "code",
         "splitInBatches",
+        "googleSheets",
+        "openAi",
+        "merge",
         "wait",
         "httpRequest",
-        "htmlExtract",
-        "openAi",
-        "code"
+        "htmlExtract"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.489930",
-    "updated_at": "2025-07-07T19:41:49.489931",
+    "created_at": "2025-07-07T19:46:35.268048",
+    "updated_at": "2025-07-07T19:46:35.268049",
     "version": "1.0.0"
   }
 }

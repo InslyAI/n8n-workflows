@@ -239,17 +239,17 @@
       "department": "",
       "nodes_count": 9,
       "integrations": [
-        "manualTrigger",
-        "summarize",
+        "splitOut",
         "stickyNote",
-        "splitOut"
+        "summarize",
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.849690",
-    "updated_at": "2025-07-07T19:41:48.849691",
+    "created_at": "2025-07-07T19:46:34.466118",
+    "updated_at": "2025-07-07T19:46:34.466119",
     "version": "1.0.0"
   }
 }

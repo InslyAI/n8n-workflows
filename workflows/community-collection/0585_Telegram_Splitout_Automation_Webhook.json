@@ -538,21 +538,21 @@
       "department": "",
       "nodes_count": 19,
       "integrations": [
-        "manualTrigger",
-        "slack",
-        "stickyNote",
         "splitOut",
-        "httpRequest",
+        "stickyNote",
+        "manualTrigger",
         "telegram",
-        "webhook",
-        "set"
+        "slack",
+        "httpRequest",
+        "set",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.375798",
-    "updated_at": "2025-07-07T19:41:49.375799",
+    "created_at": "2025-07-07T19:46:35.144649",
+    "updated_at": "2025-07-07T19:46:35.144650",
     "version": "1.0.0"
   }
 }

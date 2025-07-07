@@ -1082,20 +1082,20 @@
       "department": "",
       "nodes_count": 17,
       "integrations": [
-        "googleSheets",
-        "stickyNote",
-        "if",
         "splitOut",
+        "if",
+        "stickyNote",
+        "formTrigger",
+        "googleSheets",
         "wait",
-        "httpRequest",
-        "formTrigger"
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.666237",
-    "updated_at": "2025-07-07T19:41:48.666238",
+    "created_at": "2025-07-07T19:46:34.278833",
+    "updated_at": "2025-07-07T19:46:34.278834",
     "version": "1.0.0"
   }
 }

@@ -379,20 +379,20 @@
       "nodes_count": 9,
       "integrations": [
         "if",
+        "code",
         "splitInBatches",
         "wait",
         "httpRequest",
-        "n8n",
+        "set",
         "scheduleTrigger",
-        "code",
-        "set"
+        "n8n"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.430607",
-    "updated_at": "2025-07-07T19:41:49.430608",
+    "created_at": "2025-07-07T19:46:35.204102",
+    "updated_at": "2025-07-07T19:46:35.204103",
     "version": "1.0.0"
   }
 }

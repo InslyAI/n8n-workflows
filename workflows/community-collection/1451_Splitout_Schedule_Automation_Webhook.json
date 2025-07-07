@@ -482,20 +482,20 @@
       "department": "",
       "nodes_count": 11,
       "integrations": [
-        "if",
         "splitOut",
-        "splitInBatches",
+        "if",
         "notion",
-        "httpRequest",
         "html",
+        "splitInBatches",
+        "httpRequest",
         "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.068653",
-    "updated_at": "2025-07-07T19:41:49.068653",
+    "created_at": "2025-07-07T19:46:34.691513",
+    "updated_at": "2025-07-07T19:46:34.691515",
     "version": "1.0.0"
   }
 }

@@ -115,15 +115,15 @@
       "department": "",
       "nodes_count": 4,
       "integrations": [
-        "salesforce",
-        "manualTrigger"
+        "manualTrigger",
+        "salesforce"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.431946",
-    "updated_at": "2025-07-07T19:41:49.431947",
+    "created_at": "2025-07-07T19:46:35.205498",
+    "updated_at": "2025-07-07T19:46:35.205499",
     "version": "1.0.0"
   }
 }

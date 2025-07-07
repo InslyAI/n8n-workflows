@@ -799,17 +799,17 @@
       "department": "",
       "nodes_count": 28,
       "integrations": [
+        "merge",
         "convertToFile",
-        "code",
         "stickyNote",
-        "merge"
+        "code"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.891594",
-    "updated_at": "2025-07-07T19:41:48.891595",
+    "created_at": "2025-07-07T19:46:34.507574",
+    "updated_at": "2025-07-07T19:46:34.507575",
     "version": "1.0.0"
   }
 }

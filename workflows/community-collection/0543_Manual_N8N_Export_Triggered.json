@@ -314,18 +314,18 @@
       "department": "",
       "nodes_count": 13,
       "integrations": [
-        "manualTrigger",
         "stickyNote",
-        "n8n",
+        "manualTrigger",
         "code",
-        "set"
+        "set",
+        "n8n"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.953165",
-    "updated_at": "2025-07-07T19:41:48.953166",
+    "created_at": "2025-07-07T19:46:34.567137",
+    "updated_at": "2025-07-07T19:46:34.567138",
     "version": "1.0.0"
   }
 }

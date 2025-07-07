@@ -651,20 +651,20 @@
       "department": "",
       "nodes_count": 17,
       "integrations": [
-        "manualTrigger",
-        "if",
         "noOp",
+        "if",
+        "manualTrigger",
+        "gmail",
         "telegram",
         "aggregate",
-        "gmail",
         "set"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.255111",
-    "updated_at": "2025-07-07T19:41:49.255113",
+    "created_at": "2025-07-07T19:46:34.953097",
+    "updated_at": "2025-07-07T19:46:34.953098",
     "version": "1.0.0"
   }
 }

@@ -667,22 +667,22 @@
       "department": "",
       "nodes_count": 23,
       "integrations": [
-        "googleSheets",
-        "if",
         "splitOut",
+        "if",
         "stickyNote",
-        "telegram",
-        "limit",
         "telegramTrigger",
+        "telegram",
+        "googleSheets",
         "code",
-        "set"
+        "set",
+        "limit"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.142395",
-    "updated_at": "2025-07-07T19:41:49.142396",
+    "created_at": "2025-07-07T19:46:34.832032",
+    "updated_at": "2025-07-07T19:46:34.832033",
     "version": "1.0.0"
   }
 }

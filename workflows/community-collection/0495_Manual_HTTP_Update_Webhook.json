@@ -283,18 +283,18 @@
       "department": "",
       "nodes_count": 6,
       "integrations": [
-        "manualTrigger",
         "stickyNote",
+        "manualTrigger",
         "html",
-        "httpRequest",
-        "airtable"
+        "airtable",
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.332641",
-    "updated_at": "2025-07-07T19:41:49.332642",
+    "created_at": "2025-07-07T19:46:35.091205",
+    "updated_at": "2025-07-07T19:46:35.091206",
     "version": "1.0.0"
   }
 }

@@ -201,18 +201,18 @@
       "department": "",
       "nodes_count": 9,
       "integrations": [
-        "manualTrigger",
+        "if",
         "switch",
         "stickyNote",
-        "if",
+        "manualTrigger",
         "n8nTrainingCustomerDatastore"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.471188",
-    "updated_at": "2025-07-07T19:41:49.471189",
+    "created_at": "2025-07-07T19:46:35.247516",
+    "updated_at": "2025-07-07T19:46:35.247517",
     "version": "1.0.0"
   }
 }

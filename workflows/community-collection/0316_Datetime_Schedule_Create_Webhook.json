@@ -372,19 +372,19 @@
       "nodes_count": 9,
       "integrations": [
         "if",
-        "merge",
         "notion",
-        "itemLists",
         "httpRequest",
-        "scheduleTrigger",
-        "dateTime"
+        "dateTime",
+        "merge",
+        "itemLists",
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.139750",
-    "updated_at": "2025-07-07T19:41:49.139751",
+    "created_at": "2025-07-07T19:46:34.828956",
+    "updated_at": "2025-07-07T19:46:34.828957",
     "version": "1.0.0"
   }
 }

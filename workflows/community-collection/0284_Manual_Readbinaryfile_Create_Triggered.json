@@ -119,17 +119,17 @@
       "department": "",
       "nodes_count": 4,
       "integrations": [
-        "manualTrigger",
-        "readBinaryFile",
         "spreadsheetFile",
-        "mySql"
+        "readBinaryFile",
+        "mySql",
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.141664",
-    "updated_at": "2025-07-07T19:41:49.141665",
+    "created_at": "2025-07-07T19:46:34.831161",
+    "updated_at": "2025-07-07T19:46:34.831161",
     "version": "1.0.0"
   }
 }

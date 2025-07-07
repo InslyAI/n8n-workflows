@@ -97,15 +97,15 @@
       "department": "",
       "nodes_count": 2,
       "integrations": [
-        "googleDriveTrigger",
-        "notion"
+        "notion",
+        "googleDriveTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.859491",
-    "updated_at": "2025-07-07T19:41:48.859492",
+    "created_at": "2025-07-07T19:46:34.475647",
+    "updated_at": "2025-07-07T19:46:34.475648",
     "version": "1.0.0"
   }
 }

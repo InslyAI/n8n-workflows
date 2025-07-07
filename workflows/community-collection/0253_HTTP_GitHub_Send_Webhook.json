@@ -197,9 +197,9 @@
       "department": "",
       "nodes_count": 6,
       "integrations": [
-        "githubTrigger",
-        "if",
         "noOp",
+        "if",
+        "githubTrigger",
         "httpRequest",
         "pipedrive"
       ],
@@ -207,8 +207,8 @@
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.469574",
-    "updated_at": "2025-07-07T19:41:49.469575",
+    "created_at": "2025-07-07T19:46:35.246053",
+    "updated_at": "2025-07-07T19:46:35.246053",
     "version": "1.0.0"
   }
 }

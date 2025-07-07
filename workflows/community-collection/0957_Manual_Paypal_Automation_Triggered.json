@@ -58,15 +58,15 @@
       "department": "",
       "nodes_count": 2,
       "integrations": [
-        "manualTrigger",
-        "payPal"
+        "payPal",
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.871301",
-    "updated_at": "2025-07-07T19:41:48.871302",
+    "created_at": "2025-07-07T19:46:34.486947",
+    "updated_at": "2025-07-07T19:46:34.486948",
     "version": "1.0.0"
   }
 }

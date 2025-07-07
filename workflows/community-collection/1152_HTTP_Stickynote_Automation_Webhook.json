@@ -210,17 +210,17 @@
       "department": "",
       "nodes_count": 6,
       "integrations": [
+        "set",
         "convertToFile",
-        "httpRequest",
         "stickyNote",
-        "set"
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.349319",
-    "updated_at": "2025-07-07T19:41:49.349320",
+    "created_at": "2025-07-07T19:46:35.111688",
+    "updated_at": "2025-07-07T19:46:35.111692",
     "version": "1.0.0"
   }
 }

@@ -177,17 +177,17 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
-        "googleSheets",
-        "typeformTrigger",
         "set",
-        "if"
+        "if",
+        "typeformTrigger",
+        "googleSheets"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.212850",
-    "updated_at": "2025-07-07T19:41:49.212851",
+    "created_at": "2025-07-07T19:46:34.913434",
+    "updated_at": "2025-07-07T19:46:34.913436",
     "version": "1.0.0"
   }
 }

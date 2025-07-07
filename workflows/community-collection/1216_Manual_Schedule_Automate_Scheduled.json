@@ -177,18 +177,18 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
-        "manualTrigger",
         "if",
-        "scheduleTrigger",
         "signl4",
-        "openWeatherMap"
+        "manualTrigger",
+        "openWeatherMap",
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.805920",
-    "updated_at": "2025-07-07T19:41:48.805920",
+    "created_at": "2025-07-07T19:46:34.423342",
+    "updated_at": "2025-07-07T19:46:34.423343",
     "version": "1.0.0"
   }
 }

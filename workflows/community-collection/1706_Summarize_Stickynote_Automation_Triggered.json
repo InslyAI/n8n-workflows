@@ -432,20 +432,20 @@
       "department": "",
       "nodes_count": 13,
       "integrations": [
-        "jiraTrigger",
         "if",
-        "googleDocs",
         "stickyNote",
-        "summarize",
+        "jiraTrigger",
         "jira",
-        "set"
+        "set",
+        "summarize",
+        "googleDocs"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.401120",
-    "updated_at": "2025-07-07T19:41:49.401121",
+    "created_at": "2025-07-07T19:46:35.172714",
+    "updated_at": "2025-07-07T19:46:35.172715",
     "version": "1.0.0"
   }
 }

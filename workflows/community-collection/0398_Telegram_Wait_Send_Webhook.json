@@ -245,17 +245,17 @@
       "nodes_count": 7,
       "integrations": [
         "stickyNote",
-        "wait",
+        "telegram",
         "emailReadImap",
-        "httpRequest",
-        "telegram"
+        "wait",
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.434346",
-    "updated_at": "2025-07-07T19:41:49.434347",
+    "created_at": "2025-07-07T19:46:35.208254",
+    "updated_at": "2025-07-07T19:46:35.208255",
     "version": "1.0.0"
   }
 }

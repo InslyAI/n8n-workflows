@@ -940,16 +940,16 @@
       "department": "",
       "nodes_count": 28,
       "integrations": [
-        "extractFromFile",
-        "switch",
-        "set",
-        "stickyNote",
         "splitOut",
-        "telegram",
+        "stickyNote",
+        "switch",
         "telegramTrigger",
+        "telegram",
         "openWeatherMapTool",
+        "extractFromFile",
+        "aggregate",
         "code",
-        "aggregate"
+        "set"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -1004,8 +1004,8 @@
         "updatedAt": "2025-05-01T23:10:16.583Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.572917",
-    "updated_at": "2025-07-07T19:41:49.572917",
+    "created_at": "2025-07-07T19:46:35.353420",
+    "updated_at": "2025-07-07T19:46:35.353422",
     "version": "1.0.0"
   }
 }

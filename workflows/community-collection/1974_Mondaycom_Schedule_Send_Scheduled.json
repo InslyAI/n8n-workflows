@@ -986,24 +986,24 @@
       "department": "",
       "nodes_count": 28,
       "integrations": [
-        "manualTrigger",
-        "microsoftOutlook",
-        "stickyNote",
         "if",
-        "splitInBatches",
-        "merge",
+        "stickyNote",
+        "manualTrigger",
         "airtable",
+        "splitInBatches",
+        "microsoftOutlook",
+        "merge",
+        "set",
         "scheduleTrigger",
         "mondayCom",
-        "markdown",
-        "set"
+        "markdown"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.397851",
-    "updated_at": "2025-07-07T19:41:49.397852",
+    "created_at": "2025-07-07T19:46:35.169104",
+    "updated_at": "2025-07-07T19:46:35.169105",
     "version": "1.0.0"
   }
 }

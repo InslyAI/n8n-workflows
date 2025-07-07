@@ -230,16 +230,16 @@
         "if",
         "notion",
         "httpRequest",
+        "set",
         "webhook",
-        "htmlExtract",
-        "set"
+        "htmlExtract"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.956014",
-    "updated_at": "2025-07-07T19:41:48.956015",
+    "created_at": "2025-07-07T19:46:34.569758",
+    "updated_at": "2025-07-07T19:46:34.569758",
     "version": "1.0.0"
   }
 }

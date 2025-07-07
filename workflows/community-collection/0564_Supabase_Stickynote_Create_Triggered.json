@@ -495,17 +495,17 @@
       "department": "",
       "nodes_count": 21,
       "integrations": [
-        "supabase",
         "googleDrive",
+        "set",
         "stickyNote",
-        "set"
+        "supabase"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.318384",
-    "updated_at": "2025-07-07T19:41:49.318385",
+    "created_at": "2025-07-07T19:46:35.072006",
+    "updated_at": "2025-07-07T19:46:35.072007",
     "version": "1.0.0"
   }
 }

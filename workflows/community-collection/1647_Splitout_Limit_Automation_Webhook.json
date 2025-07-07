@@ -408,21 +408,21 @@
       "department": "",
       "nodes_count": 15,
       "integrations": [
-        "manualTrigger",
-        "stickyNote",
         "splitOut",
-        "merge",
+        "stickyNote",
+        "manualTrigger",
         "html",
+        "merge",
         "httpRequest",
-        "limit",
-        "set"
+        "set",
+        "limit"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.359086",
-    "updated_at": "2025-07-07T19:41:49.359087",
+    "created_at": "2025-07-07T19:46:35.124899",
+    "updated_at": "2025-07-07T19:46:35.124900",
     "version": "1.0.0"
   }
 }

@@ -55,15 +55,15 @@
       "department": "",
       "nodes_count": 2,
       "integrations": [
-        "manualTrigger",
-        "cockpit"
+        "cockpit",
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.316783",
-    "updated_at": "2025-07-07T19:41:49.316784",
+    "created_at": "2025-07-07T19:46:35.069991",
+    "updated_at": "2025-07-07T19:46:35.069993",
     "version": "1.0.0"
   }
 }

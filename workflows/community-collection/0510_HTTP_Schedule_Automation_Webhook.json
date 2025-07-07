@@ -161,17 +161,17 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
-        "stickyNote",
-        "scheduleTrigger",
         "set",
+        "scheduleTrigger",
+        "stickyNote",
         "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.118142",
-    "updated_at": "2025-07-07T19:41:49.118143",
+    "created_at": "2025-07-07T19:46:34.804102",
+    "updated_at": "2025-07-07T19:46:34.804103",
     "version": "1.0.0"
   }
 }

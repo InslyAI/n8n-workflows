@@ -519,22 +519,22 @@
       "department": "",
       "nodes_count": 16,
       "integrations": [
-        "manualTrigger",
-        "stickyNote",
         "if",
+        "stickyNote",
+        "manualTrigger",
         "aggregate",
-        "n8n",
+        "set",
         "scheduleTrigger",
         "gitlab",
         "filter",
-        "set"
+        "n8n"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.082596",
-    "updated_at": "2025-07-07T19:41:49.082597",
+    "created_at": "2025-07-07T19:46:34.736723",
+    "updated_at": "2025-07-07T19:46:34.736731",
     "version": "1.0.0"
   }
 }

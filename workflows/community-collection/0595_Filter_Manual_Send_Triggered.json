@@ -1283,23 +1283,23 @@
       "department": "",
       "nodes_count": 36,
       "integrations": [
-        "manualTrigger",
-        "microsoftOutlook",
-        "switch",
-        "stickyNote",
-        "splitInBatches",
         "if",
+        "stickyNote",
+        "manualTrigger",
+        "switch",
+        "splitInBatches",
+        "microsoftOutlook",
         "merge",
+        "set",
         "filter",
-        "markdown",
-        "set"
+        "markdown"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.097983",
-    "updated_at": "2025-07-07T19:41:49.097984",
+    "created_at": "2025-07-07T19:46:34.773694",
+    "updated_at": "2025-07-07T19:46:34.773697",
     "version": "1.0.0"
   }
 }

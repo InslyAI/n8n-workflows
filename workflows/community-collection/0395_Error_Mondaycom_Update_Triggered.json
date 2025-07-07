@@ -171,17 +171,17 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
-        "mondayCom",
-        "dateTime",
         "errorTrigger",
+        "dateTime",
+        "mondayCom",
         "code"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.363621",
-    "updated_at": "2025-07-07T19:41:49.363622",
+    "created_at": "2025-07-07T19:46:35.129740",
+    "updated_at": "2025-07-07T19:46:35.129748",
     "version": "1.0.0"
   }
 }

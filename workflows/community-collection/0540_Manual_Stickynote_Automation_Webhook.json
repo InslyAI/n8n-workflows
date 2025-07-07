@@ -341,16 +341,16 @@
       "department": "",
       "nodes_count": 12,
       "integrations": [
-        "manualTrigger",
+        "set",
         "stickyNote",
-        "set"
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.871849",
-    "updated_at": "2025-07-07T19:41:48.871850",
+    "created_at": "2025-07-07T19:46:34.487433",
+    "updated_at": "2025-07-07T19:46:34.487434",
     "version": "1.0.0"
   }
 }

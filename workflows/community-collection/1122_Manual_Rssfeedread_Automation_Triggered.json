@@ -126,17 +126,17 @@
       "department": "",
       "nodes_count": 4,
       "integrations": [
-        "manualTrigger",
         "rssFeedRead",
-        "code",
-        "splitInBatches"
+        "splitInBatches",
+        "manualTrigger",
+        "code"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.379220",
-    "updated_at": "2025-07-07T19:41:49.379220",
+    "created_at": "2025-07-07T19:46:35.148320",
+    "updated_at": "2025-07-07T19:46:35.148321",
     "version": "1.0.0"
   }
 }

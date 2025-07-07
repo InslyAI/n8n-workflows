@@ -568,19 +568,19 @@
       "department": "",
       "nodes_count": 20,
       "integrations": [
-        "executeWorkflowTrigger",
         "if",
         "stickyNote",
         "httpRequest",
-        "markdown",
-        "set"
+        "set",
+        "executeWorkflowTrigger",
+        "markdown"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.809006",
-    "updated_at": "2025-07-07T19:41:48.809006",
+    "created_at": "2025-07-07T19:46:34.425888",
+    "updated_at": "2025-07-07T19:46:34.425889",
     "version": "1.0.0"
   }
 }

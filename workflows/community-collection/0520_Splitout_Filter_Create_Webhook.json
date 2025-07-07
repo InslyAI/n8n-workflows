@@ -1035,25 +1035,25 @@
       "department": "",
       "nodes_count": 38,
       "integrations": [
-        "manualTrigger",
-        "supabase",
-        "stickyNote",
-        "merge",
         "splitOut",
-        "removeDuplicates",
+        "stickyNote",
+        "manualTrigger",
         "html",
-        "httpRequest",
+        "merge",
         "aggregate",
+        "httpRequest",
+        "set",
+        "supabase",
         "filter",
         "markdown",
-        "set"
+        "removeDuplicates"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.712719",
-    "updated_at": "2025-07-07T19:41:48.712720",
+    "created_at": "2025-07-07T19:46:34.334724",
+    "updated_at": "2025-07-07T19:46:34.334725",
     "version": "1.0.0"
   }
 }

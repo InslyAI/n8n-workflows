@@ -490,22 +490,22 @@
       "department": "",
       "nodes_count": 18,
       "integrations": [
-        "manualTrigger",
-        "executeWorkflowTrigger",
-        "stickyNote",
-        "merge",
         "splitOut",
+        "stickyNote",
+        "manualTrigger",
+        "merge",
         "aggregate",
-        "filter",
         "code",
-        "set"
+        "set",
+        "filter",
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.997777",
-    "updated_at": "2025-07-07T19:41:48.997777",
+    "created_at": "2025-07-07T19:46:34.611594",
+    "updated_at": "2025-07-07T19:46:34.611595",
     "version": "1.0.0"
   }
 }

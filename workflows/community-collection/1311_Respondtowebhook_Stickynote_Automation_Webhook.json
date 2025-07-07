@@ -143,16 +143,16 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
-        "respondToWebhook",
         "webhook",
+        "respondToWebhook",
         "stickyNote"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.029282",
-    "updated_at": "2025-07-07T19:41:49.029282",
+    "created_at": "2025-07-07T19:46:34.644714",
+    "updated_at": "2025-07-07T19:46:34.644716",
     "version": "1.0.0"
   }
 }

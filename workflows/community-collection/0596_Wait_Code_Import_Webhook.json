@@ -4138,21 +4138,21 @@
       "nodes_count": 12,
       "integrations": [
         "stickyNote",
+        "httpRequest",
+        "gmail",
         "splitInBatches",
         "wait",
-        "httpRequest",
-        "scheduleTrigger",
-        "gmail",
-        "filter",
         "code",
-        "set"
+        "set",
+        "scheduleTrigger",
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.587671",
-    "updated_at": "2025-07-07T19:41:49.587672",
+    "created_at": "2025-07-07T19:46:35.370173",
+    "updated_at": "2025-07-07T19:46:35.370174",
     "version": "1.0.0"
   }
 }

@@ -232,17 +232,17 @@
       "integrations": [
         "if",
         "stickyNote",
+        "telegramTrigger",
         "httpRequest",
         "telegram",
-        "telegramTrigger",
         "code"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.162702",
-    "updated_at": "2025-07-07T19:41:49.162703",
+    "created_at": "2025-07-07T19:46:34.855657",
+    "updated_at": "2025-07-07T19:46:34.855658",
     "version": "1.0.0"
   }
 }

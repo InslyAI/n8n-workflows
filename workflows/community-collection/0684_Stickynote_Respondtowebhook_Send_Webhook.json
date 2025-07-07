@@ -361,19 +361,19 @@
       "department": "",
       "nodes_count": 10,
       "integrations": [
-        "switch",
         "stickyNote",
+        "switch",
         "respondToWebhook",
         "serviceNow",
-        "webhook",
-        "set"
+        "set",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.419541",
-    "updated_at": "2025-07-07T19:41:49.419541",
+    "created_at": "2025-07-07T19:46:35.192010",
+    "updated_at": "2025-07-07T19:46:35.192011",
     "version": "1.0.0"
   }
 }

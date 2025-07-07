@@ -1053,23 +1053,23 @@
       "department": "",
       "nodes_count": 26,
       "integrations": [
-        "spotify",
-        "switch",
-        "stickyNote",
         "splitOut",
         "noOp",
         "if",
+        "stickyNote",
+        "switch",
+        "spotify",
         "mqttTrigger",
         "httpRequest",
-        "filter",
-        "set"
+        "set",
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.640741",
-    "updated_at": "2025-07-07T19:41:48.640742",
+    "created_at": "2025-07-07T19:46:34.254017",
+    "updated_at": "2025-07-07T19:46:34.254020",
     "version": "1.0.0"
   }
 }

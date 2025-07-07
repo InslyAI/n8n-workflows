@@ -330,14 +330,14 @@
       "department": "",
       "nodes_count": 11,
       "integrations": [
-        "manualTrigger",
-        "stickyNote",
-        "if",
         "noOp",
-        "xml",
+        "if",
+        "stickyNote",
+        "manualTrigger",
         "httpRequest",
         "code",
-        "set"
+        "set",
+        "xml"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -350,8 +350,8 @@
         "updatedAt": "2025-02-10T11:18:10.923Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.516017",
-    "updated_at": "2025-07-07T19:41:49.516018",
+    "created_at": "2025-07-07T19:46:35.294657",
+    "updated_at": "2025-07-07T19:46:35.294658",
     "version": "1.0.0"
   }
 }

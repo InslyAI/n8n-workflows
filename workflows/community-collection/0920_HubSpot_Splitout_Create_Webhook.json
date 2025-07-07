@@ -963,26 +963,26 @@
       "department": "",
       "nodes_count": 31,
       "integrations": [
-        "executeWorkflowTrigger",
-        "stickyNote",
         "splitOut",
         "if",
-        "hubspot",
+        "stickyNote",
         "googleCalendarTool",
-        "httpRequest",
-        "webhook",
-        "hubspotTrigger",
-        "gmail",
-        "filter",
         "markdown",
-        "set"
+        "gmail",
+        "httpRequest",
+        "set",
+        "hubspot",
+        "webhook",
+        "filter",
+        "executeWorkflowTrigger",
+        "hubspotTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.297917",
-    "updated_at": "2025-07-07T19:41:49.297918",
+    "created_at": "2025-07-07T19:46:35.037371",
+    "updated_at": "2025-07-07T19:46:35.037372",
     "version": "1.0.0"
   }
 }

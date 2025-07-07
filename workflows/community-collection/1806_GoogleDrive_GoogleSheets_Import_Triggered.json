@@ -361,10 +361,10 @@
       "department": "",
       "nodes_count": 12,
       "integrations": [
-        "googleDriveTrigger",
-        "googleSheets",
+        "googleDocs",
         "stickyNote",
-        "googleDocs"
+        "googleDriveTrigger",
+        "googleSheets"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -377,8 +377,8 @@
         "updatedAt": "2025-03-21T07:22:28.491Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.336226",
-    "updated_at": "2025-07-07T19:41:49.336227",
+    "created_at": "2025-07-07T19:46:35.096635",
+    "updated_at": "2025-07-07T19:46:35.096637",
     "version": "1.0.0"
   }
 }

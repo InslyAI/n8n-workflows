@@ -533,19 +533,19 @@
       "department": "",
       "nodes_count": 18,
       "integrations": [
+        "stickyNote",
         "manualTrigger",
+        "splitInBatches",
         "googleSheets",
         "googleDrive",
-        "stickyNote",
-        "googleDocs",
-        "splitInBatches"
+        "googleDocs"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.410028",
-    "updated_at": "2025-07-07T19:41:49.410029",
+    "created_at": "2025-07-07T19:46:35.181625",
+    "updated_at": "2025-07-07T19:46:35.181626",
     "version": "1.0.0"
   }
 }

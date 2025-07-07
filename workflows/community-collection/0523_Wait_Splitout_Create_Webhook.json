@@ -1003,25 +1003,25 @@
       "department": "",
       "nodes_count": 26,
       "integrations": [
-        "googleSheets",
-        "switch",
-        "stickyNote",
-        "if",
-        "splitOut",
-        "wait",
-        "merge",
-        "httpRequest",
         "gmailTrigger",
-        "aggregate",
+        "splitOut",
+        "if",
+        "stickyNote",
+        "switch",
         "gmail",
+        "googleSheets",
+        "merge",
+        "aggregate",
+        "wait",
+        "httpRequest",
         "set"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.172605",
-    "updated_at": "2025-07-07T19:41:49.172605",
+    "created_at": "2025-07-07T19:46:34.866584",
+    "updated_at": "2025-07-07T19:46:34.866586",
     "version": "1.0.0"
   }
 }

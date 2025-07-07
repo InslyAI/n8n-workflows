@@ -305,20 +305,20 @@
       "department": "",
       "nodes_count": 10,
       "integrations": [
-        "medium",
-        "manualTrigger",
-        "itemLists",
-        "splitInBatches",
         "stickyNote",
+        "manualTrigger",
+        "httpRequest",
         "html",
-        "httpRequest"
+        "splitInBatches",
+        "itemLists",
+        "medium"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.996691",
-    "updated_at": "2025-07-07T19:41:48.996691",
+    "created_at": "2025-07-07T19:46:34.610491",
+    "updated_at": "2025-07-07T19:46:34.610492",
     "version": "1.0.0"
   }
 }

@@ -1371,24 +1371,24 @@
       "nodes_count": 41,
       "integrations": [
         "if",
-        "merge",
         "noOp",
         "stickyNote",
         "httpRequest",
-        "limit",
-        "aggregate",
         "respondToWebhook",
         "webhook",
+        "merge",
+        "aggregate",
         "code",
-        "microsoftOutlookTrigger",
-        "set"
+        "set",
+        "limit",
+        "microsoftOutlookTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.111949",
-    "updated_at": "2025-07-07T19:41:49.111950",
+    "created_at": "2025-07-07T19:46:34.792944",
+    "updated_at": "2025-07-07T19:46:34.792946",
     "version": "1.0.0"
   }
 }

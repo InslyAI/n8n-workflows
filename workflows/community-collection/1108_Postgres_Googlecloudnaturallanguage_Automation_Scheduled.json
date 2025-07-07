@@ -270,22 +270,22 @@
       "department": "",
       "nodes_count": 9,
       "integrations": [
-        "slack",
         "if",
         "noOp",
-        "postgres",
-        "twitter",
         "cron",
         "googleCloudNaturalLanguage",
+        "twitter",
+        "slack",
         "mongoDb",
-        "set"
+        "set",
+        "postgres"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.679613",
-    "updated_at": "2025-07-07T19:41:48.679614",
+    "created_at": "2025-07-07T19:46:34.292503",
+    "updated_at": "2025-07-07T19:46:34.292504",
     "version": "1.0.0"
   }
 }

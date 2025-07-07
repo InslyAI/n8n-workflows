@@ -897,23 +897,23 @@
       "department": "",
       "nodes_count": 36,
       "integrations": [
-        "stickyNote",
-        "merge",
         "itemLists",
-        "html",
+        "stickyNote",
         "httpRequest",
-        "nocoDb",
-        "scheduleTrigger",
+        "html",
         "openAi",
+        "merge",
+        "nocoDb",
         "code",
-        "set"
+        "set",
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.816756",
-    "updated_at": "2025-07-07T19:41:48.816757",
+    "created_at": "2025-07-07T19:46:34.433328",
+    "updated_at": "2025-07-07T19:46:34.433329",
     "version": "1.0.0"
   }
 }

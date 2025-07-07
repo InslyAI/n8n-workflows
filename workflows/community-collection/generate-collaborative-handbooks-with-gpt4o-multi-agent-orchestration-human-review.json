@@ -1192,19 +1192,19 @@
       "department": "",
       "nodes_count": 35,
       "integrations": [
-        "switch",
-        "slack",
-        "if",
         "function",
-        "merge",
-        "wait",
-        "postgres",
-        "start",
-        "respondToWebhook",
-        "webhook",
+        "if",
+        "switch",
         "github",
+        "respondToWebhook",
         "openAi",
-        "emailSend"
+        "merge",
+        "slack",
+        "wait",
+        "emailSend",
+        "start",
+        "webhook",
+        "postgres"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -1227,8 +1227,8 @@
         "name": "Human-in-Loop"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.244839",
-    "updated_at": "2025-07-07T19:41:49.244840",
+    "created_at": "2025-07-07T19:46:34.942322",
+    "updated_at": "2025-07-07T19:46:34.942323",
     "version": "1.0.0"
   }
 }

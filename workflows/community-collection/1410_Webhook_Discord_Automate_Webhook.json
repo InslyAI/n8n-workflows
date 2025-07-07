@@ -277,20 +277,20 @@
       "department": "",
       "nodes_count": 9,
       "integrations": [
-        "manualTrigger",
-        "switch",
         "noOp",
-        "webhook",
+        "switch",
+        "manualTrigger",
         "discord",
         "openAi",
-        "set"
+        "set",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.125261",
-    "updated_at": "2025-07-07T19:41:49.125262",
+    "created_at": "2025-07-07T19:46:34.812835",
+    "updated_at": "2025-07-07T19:46:34.812836",
     "version": "1.0.0"
   }
 }

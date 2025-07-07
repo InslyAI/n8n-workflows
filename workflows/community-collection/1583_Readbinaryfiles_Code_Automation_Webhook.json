@@ -770,21 +770,21 @@
       "department": "",
       "nodes_count": 27,
       "integrations": [
-        "manualTrigger",
         "stickyNote",
-        "httpRequest",
-        "html",
+        "manualTrigger",
         "readBinaryFiles",
-        "openAi",
         "code",
+        "html",
+        "openAi",
+        "httpRequest",
         "set"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.088203",
-    "updated_at": "2025-07-07T19:41:49.088204",
+    "created_at": "2025-07-07T19:46:34.749121",
+    "updated_at": "2025-07-07T19:46:34.749123",
     "version": "1.0.0"
   }
 }

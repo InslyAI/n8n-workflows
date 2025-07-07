@@ -60,15 +60,15 @@
       "department": "",
       "nodes_count": 2,
       "integrations": [
-        "manualTrigger",
-        "mocean"
+        "mocean",
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.135913",
-    "updated_at": "2025-07-07T19:41:49.135913",
+    "created_at": "2025-07-07T19:46:34.824681",
+    "updated_at": "2025-07-07T19:46:34.824682",
     "version": "1.0.0"
   }
 }

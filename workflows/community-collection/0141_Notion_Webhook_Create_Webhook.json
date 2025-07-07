@@ -452,19 +452,19 @@
       "department": "",
       "nodes_count": 12,
       "integrations": [
-        "if",
-        "merge",
-        "notion",
         "function",
-        "webhook",
-        "set"
+        "if",
+        "notion",
+        "merge",
+        "set",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.736267",
-    "updated_at": "2025-07-07T19:41:48.736267",
+    "created_at": "2025-07-07T19:46:34.357334",
+    "updated_at": "2025-07-07T19:46:34.357335",
     "version": "1.0.0"
   }
 }

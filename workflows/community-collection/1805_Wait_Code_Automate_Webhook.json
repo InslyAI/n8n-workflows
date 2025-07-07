@@ -1750,17 +1750,17 @@
       "department": "",
       "nodes_count": 41,
       "integrations": [
-        "googleDrive",
-        "googleSheets",
-        "stickyNote",
         "if",
-        "merge",
-        "wait",
+        "stickyNote",
         "httpRequest",
         "discord",
-        "scheduleTrigger",
+        "googleSheets",
+        "set",
+        "merge",
+        "wait",
         "code",
-        "set"
+        "googleDrive",
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -1773,8 +1773,8 @@
         "updatedAt": "2025-03-10T07:30:05.424Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.404402",
-    "updated_at": "2025-07-07T19:41:49.404403",
+    "created_at": "2025-07-07T19:46:35.176711",
+    "updated_at": "2025-07-07T19:46:35.176712",
     "version": "1.0.0"
   }
 }

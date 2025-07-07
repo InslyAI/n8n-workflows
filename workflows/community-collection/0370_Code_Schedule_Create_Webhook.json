@@ -504,23 +504,23 @@
       "department": "",
       "nodes_count": 13,
       "integrations": [
-        "googleSheets",
-        "slack",
-        "stickyNote",
         "itemLists",
-        "merge",
+        "stickyNote",
+        "code",
         "html",
+        "googleSheets",
+        "merge",
+        "slack",
         "httpRequest",
         "scheduleTrigger",
-        "code",
         "markdown"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.747344",
-    "updated_at": "2025-07-07T19:41:48.747345",
+    "created_at": "2025-07-07T19:46:34.368472",
+    "updated_at": "2025-07-07T19:46:34.368473",
     "version": "1.0.0"
   }
 }

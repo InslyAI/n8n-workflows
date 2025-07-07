@@ -397,19 +397,19 @@
       "department": "",
       "nodes_count": 12,
       "integrations": [
-        "executeWorkflowTrigger",
         "stickyNote",
-        "httpRequest",
-        "telegram",
         "telegramTrigger",
-        "set"
+        "telegram",
+        "httpRequest",
+        "set",
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.930199",
-    "updated_at": "2025-07-07T19:41:48.930200",
+    "created_at": "2025-07-07T19:46:34.544355",
+    "updated_at": "2025-07-07T19:46:34.544356",
     "version": "1.0.0"
   }
 }

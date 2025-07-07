@@ -298,19 +298,19 @@
       "department": "",
       "nodes_count": 9,
       "integrations": [
+        "noOp",
         "if",
         "merge",
-        "noOp",
         "zendesk",
-        "shopifyTrigger",
-        "set"
+        "set",
+        "shopifyTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.675153",
-    "updated_at": "2025-07-07T19:41:48.675153",
+    "created_at": "2025-07-07T19:46:34.287856",
+    "updated_at": "2025-07-07T19:46:34.287857",
     "version": "1.0.0"
   }
 }

@@ -433,12 +433,12 @@
       "department": "",
       "nodes_count": 9,
       "integrations": [
-        "googleSheets",
-        "stickyNote",
         "splitOut",
-        "httpRequest",
-        "telegram",
         "calTrigger",
+        "stickyNote",
+        "telegram",
+        "googleSheets",
+        "httpRequest",
         "set"
       ],
       "estimated_cost": "medium",
@@ -464,8 +464,8 @@
         "updatedAt": "2025-05-02T08:18:43.148Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:48.672534",
-    "updated_at": "2025-07-07T19:41:48.672534",
+    "created_at": "2025-07-07T19:46:34.285120",
+    "updated_at": "2025-07-07T19:46:34.285121",
     "version": "1.0.0"
   }
 }

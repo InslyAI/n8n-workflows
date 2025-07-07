@@ -389,22 +389,22 @@
       "department": "",
       "nodes_count": 16,
       "integrations": [
-        "manualTrigger",
-        "spreadsheetFile",
         "stickyNote",
+        "manualTrigger",
         "hubspot",
         "httpRequest",
-        "scheduleTrigger",
         "code",
-        "emailSend",
-        "set"
+        "set",
+        "scheduleTrigger",
+        "spreadsheetFile",
+        "emailSend"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.603673",
-    "updated_at": "2025-07-07T19:41:49.603674",
+    "created_at": "2025-07-07T19:46:35.389130",
+    "updated_at": "2025-07-07T19:46:35.389131",
     "version": "1.0.0"
   }
 }

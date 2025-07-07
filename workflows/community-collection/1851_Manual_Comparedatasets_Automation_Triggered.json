@@ -180,17 +180,17 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
-        "manualTrigger",
-        "compareDatasets",
         "set",
-        "mySql"
+        "mySql",
+        "compareDatasets",
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.066442",
-    "updated_at": "2025-07-07T19:41:49.066443",
+    "created_at": "2025-07-07T19:46:34.688451",
+    "updated_at": "2025-07-07T19:46:34.688456",
     "version": "1.0.0"
   }
 }

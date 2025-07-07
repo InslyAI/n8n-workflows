@@ -470,20 +470,20 @@
       "department": "",
       "nodes_count": 16,
       "integrations": [
-        "manualTrigger",
-        "googleDrive",
-        "executeWorkflowTrigger",
         "if",
         "stickyNote",
+        "manualTrigger",
+        "googleDrive",
         "code",
-        "set"
+        "set",
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.578367",
-    "updated_at": "2025-07-07T19:41:49.578367",
+    "created_at": "2025-07-07T19:46:35.359663",
+    "updated_at": "2025-07-07T19:46:35.359665",
     "version": "1.0.0"
   }
 }

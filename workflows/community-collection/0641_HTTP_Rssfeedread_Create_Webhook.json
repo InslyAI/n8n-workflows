@@ -285,17 +285,17 @@
       "department": "",
       "nodes_count": 10,
       "integrations": [
+        "rssFeedReadTrigger",
         "dateTime",
-        "httpRequest",
         "stickyNote",
-        "rssFeedReadTrigger"
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.165167",
-    "updated_at": "2025-07-07T19:41:49.165168",
+    "created_at": "2025-07-07T19:46:34.858340",
+    "updated_at": "2025-07-07T19:46:34.858341",
     "version": "1.0.0"
   }
 }

@@ -61,15 +61,15 @@
       "department": "",
       "nodes_count": 2,
       "integrations": [
-        "onfleetTrigger",
-        "shopify"
+        "shopify",
+        "onfleetTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.950517",
-    "updated_at": "2025-07-07T19:41:48.950518",
+    "created_at": "2025-07-07T19:46:34.564580",
+    "updated_at": "2025-07-07T19:46:34.564581",
     "version": "1.0.0"
   }
 }

@@ -458,9 +458,9 @@
       "department": "",
       "nodes_count": 18,
       "integrations": [
-        "manualTrigger",
-        "stickyNote",
         "splitOut",
+        "stickyNote",
+        "manualTrigger",
         "gmail",
         "code"
       ],
@@ -468,8 +468,8 @@
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.662444",
-    "updated_at": "2025-07-07T19:41:48.662445",
+    "created_at": "2025-07-07T19:46:34.275193",
+    "updated_at": "2025-07-07T19:46:34.275194",
     "version": "1.0.0"
   }
 }

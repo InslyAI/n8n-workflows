@@ -303,18 +303,18 @@
       "department": "",
       "nodes_count": 10,
       "integrations": [
-        "if",
-        "splitInBatches",
-        "notion",
         "function",
-        "cron"
+        "if",
+        "cron",
+        "notion",
+        "splitInBatches"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.054904",
-    "updated_at": "2025-07-07T19:41:49.054905",
+    "created_at": "2025-07-07T19:46:34.676035",
+    "updated_at": "2025-07-07T19:46:34.676039",
     "version": "1.0.0"
   }
 }

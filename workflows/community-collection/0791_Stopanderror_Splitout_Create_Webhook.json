@@ -599,23 +599,23 @@
       "department": "",
       "nodes_count": 18,
       "integrations": [
-        "stickyNote",
-        "if",
         "splitOut",
-        "httpRequest",
-        "filter",
+        "if",
+        "stickyNote",
         "stopAndError",
+        "emailSend",
+        "httpRequest",
         "scheduleTrigger",
         "rssFeedRead",
-        "youTube",
-        "emailSend"
+        "filter",
+        "youTube"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.893414",
-    "updated_at": "2025-07-07T19:41:48.893415",
+    "created_at": "2025-07-07T19:46:34.509300",
+    "updated_at": "2025-07-07T19:46:34.509300",
     "version": "1.0.0"
   }
 }

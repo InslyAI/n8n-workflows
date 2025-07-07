@@ -206,18 +206,18 @@
       "department": "",
       "nodes_count": 8,
       "integrations": [
-        "manualTrigger",
-        "googleSheets",
         "stickyNote",
-        "httpRequest",
-        "code"
+        "manualTrigger",
+        "code",
+        "googleSheets",
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.637769",
-    "updated_at": "2025-07-07T19:41:48.637770",
+    "created_at": "2025-07-07T19:46:34.251252",
+    "updated_at": "2025-07-07T19:46:34.251253",
     "version": "1.0.0"
   }
 }

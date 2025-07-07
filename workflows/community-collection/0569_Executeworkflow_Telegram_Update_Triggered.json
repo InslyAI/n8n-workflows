@@ -1159,21 +1159,21 @@
       "department": "",
       "nodes_count": 29,
       "integrations": [
-        "switch",
-        "googleSheets",
-        "stickyNote",
         "if",
-        "telegram",
+        "stickyNote",
+        "switch",
         "telegramTrigger",
-        "executeWorkflow",
-        "set"
+        "telegram",
+        "googleSheets",
+        "set",
+        "executeWorkflow"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.196696",
-    "updated_at": "2025-07-07T19:41:49.196697",
+    "created_at": "2025-07-07T19:46:34.894751",
+    "updated_at": "2025-07-07T19:46:34.894753",
     "version": "1.0.0"
   }
 }

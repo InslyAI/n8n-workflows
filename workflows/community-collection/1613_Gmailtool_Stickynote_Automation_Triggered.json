@@ -914,8 +914,8 @@
       "department": "",
       "nodes_count": 27,
       "integrations": [
-        "stickyNote",
-        "gmailTool"
+        "gmailTool",
+        "stickyNote"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -934,8 +934,8 @@
         "updatedAt": "2025-04-18T01:59:21.577Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:48.932922",
-    "updated_at": "2025-07-07T19:41:48.932923",
+    "created_at": "2025-07-07T19:46:34.546988",
+    "updated_at": "2025-07-07T19:46:34.546989",
     "version": "1.0.0"
   }
 }

@@ -418,19 +418,19 @@
       "department": "",
       "nodes_count": 15,
       "integrations": [
-        "manualTrigger",
         "stickyNote",
-        "httpRequest",
+        "manualTrigger",
         "gmail",
-        "markdown",
-        "set"
+        "httpRequest",
+        "set",
+        "markdown"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.323922",
-    "updated_at": "2025-07-07T19:41:49.323923",
+    "created_at": "2025-07-07T19:46:35.078475",
+    "updated_at": "2025-07-07T19:46:35.078476",
     "version": "1.0.0"
   }
 }

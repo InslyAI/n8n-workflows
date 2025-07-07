@@ -1711,24 +1711,24 @@
       "department": "",
       "nodes_count": 46,
       "integrations": [
-        "switch",
-        "executeWorkflowTrigger",
-        "if",
         "splitOut",
+        "if",
+        "switch",
         "stickyNote",
-        "aggregate",
-        "n8n",
         "redis",
+        "executeWorkflowTrigger",
+        "aggregate",
+        "set",
         "executeWorkflow",
         "filter",
-        "set"
+        "n8n"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.887122",
-    "updated_at": "2025-07-07T19:41:48.887123",
+    "created_at": "2025-07-07T19:46:34.503299",
+    "updated_at": "2025-07-07T19:46:34.503300",
     "version": "1.0.0"
   }
 }

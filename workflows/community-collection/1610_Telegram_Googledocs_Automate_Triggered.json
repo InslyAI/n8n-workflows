@@ -550,20 +550,20 @@
       "department": "",
       "nodes_count": 21,
       "integrations": [
-        "googleDocsTool",
         "stickyNote",
-        "googleDocs",
-        "merge",
         "telegram",
+        "merge",
         "aggregate",
-        "set"
+        "set",
+        "googleDocsTool",
+        "googleDocs"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.218590",
-    "updated_at": "2025-07-07T19:41:49.218591",
+    "created_at": "2025-07-07T19:46:34.917070",
+    "updated_at": "2025-07-07T19:46:34.917071",
     "version": "1.0.0"
   }
 }

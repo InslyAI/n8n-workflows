@@ -614,22 +614,22 @@
       "department": "",
       "nodes_count": 21,
       "integrations": [
-        "executeWorkflowTrigger",
-        "itemLists",
-        "stickyNote",
-        "if",
-        "googleCalendar",
         "gmailTrigger",
+        "if",
+        "stickyNote",
+        "googleCalendar",
         "gmail",
+        "itemLists",
+        "set",
         "filter",
-        "set"
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.497774",
-    "updated_at": "2025-07-07T19:41:49.497775",
+    "created_at": "2025-07-07T19:46:35.276820",
+    "updated_at": "2025-07-07T19:46:35.276821",
     "version": "1.0.0"
   }
 }

@@ -412,20 +412,20 @@
       "nodes_count": 11,
       "integrations": [
         "itemLists",
-        "merge",
         "if",
         "stickyNote",
-        "httpRequest",
         "pipedriveTrigger",
-        "pipedrive",
-        "set"
+        "merge",
+        "httpRequest",
+        "set",
+        "pipedrive"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.320211",
-    "updated_at": "2025-07-07T19:41:49.320212",
+    "created_at": "2025-07-07T19:46:35.074246",
+    "updated_at": "2025-07-07T19:46:35.074247",
     "version": "1.0.0"
   }
 }

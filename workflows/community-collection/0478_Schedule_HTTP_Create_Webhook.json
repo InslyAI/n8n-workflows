@@ -626,21 +626,21 @@
       "department": "",
       "nodes_count": 14,
       "integrations": [
-        "googleSheets",
         "if",
         "stickyNote",
-        "httpRequest",
-        "scheduleTrigger",
         "formTrigger",
         "gmail",
-        "set"
+        "googleSheets",
+        "httpRequest",
+        "set",
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.350741",
-    "updated_at": "2025-07-07T19:41:49.350742",
+    "created_at": "2025-07-07T19:46:35.113725",
+    "updated_at": "2025-07-07T19:46:35.113727",
     "version": "1.0.0"
   }
 }

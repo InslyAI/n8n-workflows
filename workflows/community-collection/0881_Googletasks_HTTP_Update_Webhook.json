@@ -601,23 +601,23 @@
       "department": "",
       "nodes_count": 17,
       "integrations": [
-        "googleTasks",
-        "manualTrigger",
-        "googleSheets",
-        "stickyNote",
-        "merge",
-        "splitInBatches",
         "if",
-        "httpRequest",
+        "stickyNote",
+        "manualTrigger",
         "html",
+        "splitInBatches",
+        "googleSheets",
+        "merge",
+        "googleTasks",
+        "httpRequest",
         "set"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.138597",
-    "updated_at": "2025-07-07T19:41:49.138598",
+    "created_at": "2025-07-07T19:46:34.827731",
+    "updated_at": "2025-07-07T19:46:34.827732",
     "version": "1.0.0"
   }
 }

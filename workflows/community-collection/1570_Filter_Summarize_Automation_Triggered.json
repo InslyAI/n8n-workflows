@@ -331,9 +331,9 @@
       "department": "",
       "nodes_count": 8,
       "integrations": [
-        "filter",
-        "summarize",
         "notionTrigger",
+        "summarize",
+        "filter",
         "notion"
       ],
       "estimated_cost": "medium",
@@ -347,8 +347,8 @@
         "updatedAt": "2024-12-24T14:42:00.549Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.500425",
-    "updated_at": "2025-07-07T19:41:49.500425",
+    "created_at": "2025-07-07T19:46:35.279683",
+    "updated_at": "2025-07-07T19:46:35.279684",
     "version": "1.0.0"
   }
 }

@@ -352,23 +352,23 @@
       "department": "",
       "nodes_count": 12,
       "integrations": [
-        "manualTrigger",
-        "itemLists",
         "function",
-        "httpRequest",
-        "functionItem",
-        "respondToWebhook",
-        "webhook",
-        "htmlExtract",
+        "itemLists",
+        "manualTrigger",
         "dateTime",
-        "set"
+        "respondToWebhook",
+        "httpRequest",
+        "set",
+        "webhook",
+        "functionItem",
+        "htmlExtract"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.176319",
-    "updated_at": "2025-07-07T19:41:49.176320",
+    "created_at": "2025-07-07T19:46:34.872372",
+    "updated_at": "2025-07-07T19:46:34.872373",
     "version": "1.0.0"
   }
 }

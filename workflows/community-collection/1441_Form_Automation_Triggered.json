@@ -194,16 +194,16 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
+        "set",
         "form",
-        "formTrigger",
-        "set"
+        "formTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.851249",
-    "updated_at": "2025-07-07T19:41:48.851250",
+    "created_at": "2025-07-07T19:46:34.467568",
+    "updated_at": "2025-07-07T19:46:34.467569",
     "version": "1.0.0"
   }
 }

@@ -261,17 +261,17 @@
       "nodes_count": 8,
       "integrations": [
         "stickyNote",
-        "httpRequest",
         "discord",
-        "scheduleTrigger",
-        "set"
+        "httpRequest",
+        "set",
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.711577",
-    "updated_at": "2025-07-07T19:41:48.711577",
+    "created_at": "2025-07-07T19:46:34.333579",
+    "updated_at": "2025-07-07T19:46:34.333580",
     "version": "1.0.0"
   }
 }

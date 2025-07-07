@@ -1871,21 +1871,21 @@
       "department": "",
       "nodes_count": 51,
       "integrations": [
-        "manualTrigger",
-        "switch",
         "if",
+        "switch",
         "stickyNote",
+        "manualTrigger",
+        "code",
         "wait",
         "httpRequest",
-        "code",
         "set"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.698996",
-    "updated_at": "2025-07-07T19:41:48.698997",
+    "created_at": "2025-07-07T19:46:34.321447",
+    "updated_at": "2025-07-07T19:46:34.321448",
     "version": "1.0.0"
   }
 }

@@ -2868,17 +2868,17 @@
       "department": "",
       "nodes_count": 56,
       "integrations": [
-        "stickyNote",
-        "splitInBatches",
         "if",
-        "html",
-        "httpRequest",
-        "aggregate",
+        "stickyNote",
         "convertToFile",
-        "respondToWebhook",
-        "formTrigger",
         "github",
+        "formTrigger",
+        "html",
+        "splitInBatches",
+        "respondToWebhook",
         "stopAndError",
+        "aggregate",
+        "httpRequest",
         "set"
       ],
       "estimated_cost": "medium",
@@ -2982,8 +2982,8 @@
         "updatedAt": "2024-04-09T17:46:08.437Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.015304",
-    "updated_at": "2025-07-07T19:41:49.015305",
+    "created_at": "2025-07-07T19:46:34.631132",
+    "updated_at": "2025-07-07T19:46:34.631133",
     "version": "1.0.0"
   }
 }

@@ -246,20 +246,20 @@
       "department": "",
       "nodes_count": 9,
       "integrations": [
-        "writeBinaryFile",
-        "moveBinaryData",
         "function",
         "if",
+        "signl4",
         "cron",
+        "moveBinaryData",
         "readBinaryFile",
-        "signl4"
+        "writeBinaryFile"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.469944",
-    "updated_at": "2025-07-07T19:41:49.469945",
+    "created_at": "2025-07-07T19:46:35.246417",
+    "updated_at": "2025-07-07T19:46:35.246418",
     "version": "1.0.0"
   }
 }

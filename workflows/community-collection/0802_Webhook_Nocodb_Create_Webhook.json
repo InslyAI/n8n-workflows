@@ -807,22 +807,22 @@
       "department": "",
       "nodes_count": 20,
       "integrations": [
-        "dropbox",
-        "switch",
         "stickyNote",
+        "switch",
+        "respondToWebhook",
+        "dropbox",
         "merge",
         "nocoDb",
-        "respondToWebhook",
-        "webhook",
+        "set",
         "executeWorkflow",
-        "set"
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.566997",
-    "updated_at": "2025-07-07T19:41:49.566997",
+    "created_at": "2025-07-07T19:46:35.346624",
+    "updated_at": "2025-07-07T19:46:35.346625",
     "version": "1.0.0"
   }
 }

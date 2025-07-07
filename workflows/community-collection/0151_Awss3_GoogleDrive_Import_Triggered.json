@@ -138,16 +138,16 @@
       "department": "",
       "nodes_count": 4,
       "integrations": [
+        "merge",
         "googleDriveTrigger",
-        "awsS3",
-        "merge"
+        "awsS3"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.281651",
-    "updated_at": "2025-07-07T19:41:49.281652",
+    "created_at": "2025-07-07T19:46:34.995803",
+    "updated_at": "2025-07-07T19:46:34.995804",
     "version": "1.0.0"
   }
 }

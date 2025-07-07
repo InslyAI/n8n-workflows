@@ -334,17 +334,17 @@
       "department": "",
       "nodes_count": 10,
       "integrations": [
-        "httpRequest",
+        "set",
         "webhook",
         "stickyNote",
-        "set"
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.392250",
-    "updated_at": "2025-07-07T19:41:49.392251",
+    "created_at": "2025-07-07T19:46:35.162971",
+    "updated_at": "2025-07-07T19:46:35.162972",
     "version": "1.0.0"
   }
 }

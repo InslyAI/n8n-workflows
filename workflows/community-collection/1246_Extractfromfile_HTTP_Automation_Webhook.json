@@ -927,23 +927,23 @@
       "department": "",
       "nodes_count": 33,
       "integrations": [
-        "extractFromFile",
-        "supabase",
-        "manualTrigger",
-        "switch",
         "if",
+        "switch",
+        "manualTrigger",
+        "stickyNote",
         "splitInBatches",
         "merge",
-        "stickyNote",
+        "extractFromFile",
+        "aggregate",
         "httpRequest",
-        "aggregate"
+        "supabase"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.867166",
-    "updated_at": "2025-07-07T19:41:48.867167",
+    "created_at": "2025-07-07T19:46:34.482708",
+    "updated_at": "2025-07-07T19:46:34.482709",
     "version": "1.0.0"
   }
 }

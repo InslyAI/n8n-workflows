@@ -1292,21 +1292,21 @@
       "department": "",
       "nodes_count": 38,
       "integrations": [
-        "googleSheets",
         "stickyNote",
+        "telegramTrigger",
+        "telegram",
+        "code",
+        "googleSheets",
         "wait",
         "httpRequest",
-        "telegram",
-        "telegramTrigger",
-        "code",
         "set"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.260527",
-    "updated_at": "2025-07-07T19:41:49.260528",
+    "created_at": "2025-07-07T19:46:34.958873",
+    "updated_at": "2025-07-07T19:46:34.958874",
     "version": "1.0.0"
   }
 }

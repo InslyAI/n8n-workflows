@@ -792,24 +792,24 @@
       "department": "",
       "nodes_count": 21,
       "integrations": [
-        "extractFromFile",
-        "if",
         "function",
-        "readWriteFile",
-        "merge",
-        "httpRequest",
+        "if",
         "convertToFile",
-        "respondToWebhook",
-        "webhook",
         "code",
-        "set"
+        "respondToWebhook",
+        "merge",
+        "extractFromFile",
+        "httpRequest",
+        "set",
+        "webhook",
+        "readWriteFile"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.676104",
-    "updated_at": "2025-07-07T19:41:48.676110",
+    "created_at": "2025-07-07T19:46:34.288752",
+    "updated_at": "2025-07-07T19:46:34.288753",
     "version": "1.0.0"
   }
 }

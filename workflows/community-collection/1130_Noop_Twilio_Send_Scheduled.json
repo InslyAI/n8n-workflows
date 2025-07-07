@@ -146,18 +146,18 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
-        "if",
+        "twilio",
         "noOp",
+        "if",
         "cron",
-        "coinGecko",
-        "twilio"
+        "coinGecko"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.509984",
-    "updated_at": "2025-07-07T19:41:49.509984",
+    "created_at": "2025-07-07T19:46:35.289551",
+    "updated_at": "2025-07-07T19:46:35.289552",
     "version": "1.0.0"
   }
 }

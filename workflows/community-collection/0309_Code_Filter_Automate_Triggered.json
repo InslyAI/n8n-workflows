@@ -268,20 +268,20 @@
       "department": "",
       "nodes_count": 10,
       "integrations": [
+        "stickyNote",
         "manualTrigger",
         "slack",
-        "stickyNote",
-        "linearTrigger",
-        "filter",
         "code",
-        "set"
+        "set",
+        "linearTrigger",
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.481415",
-    "updated_at": "2025-07-07T19:41:49.481416",
+    "created_at": "2025-07-07T19:46:35.259040",
+    "updated_at": "2025-07-07T19:46:35.259041",
     "version": "1.0.0"
   }
 }

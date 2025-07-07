@@ -364,11 +364,11 @@
       "integrations": [
         "manualTrigger",
         "googleSheets",
-        "slack",
         "merge",
+        "slack",
         "airtop",
-        "filter",
-        "code"
+        "code",
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -381,8 +381,8 @@
         "updatedAt": "2025-04-04T15:38:37.785Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:48.748643",
-    "updated_at": "2025-07-07T19:41:48.748644",
+    "created_at": "2025-07-07T19:46:34.369383",
+    "updated_at": "2025-07-07T19:46:34.369384",
     "version": "1.0.0"
   }
 }

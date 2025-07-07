@@ -312,16 +312,16 @@
       "nodes_count": 11,
       "integrations": [
         "slack",
-        "switch",
         "webhook",
-        "stickyNote"
+        "stickyNote",
+        "switch"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.725560",
-    "updated_at": "2025-07-07T19:41:48.725561",
+    "created_at": "2025-07-07T19:46:34.347063",
+    "updated_at": "2025-07-07T19:46:34.347064",
     "version": "1.0.0"
   }
 }

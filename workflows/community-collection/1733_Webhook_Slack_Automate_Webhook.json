@@ -1179,25 +1179,25 @@
       "department": "",
       "nodes_count": 38,
       "integrations": [
-        "slack",
-        "switch",
-        "stickyNote",
         "if",
         "noOp",
-        "merge",
-        "httpRequest",
+        "stickyNote",
+        "switch",
         "respondToWebhook",
         "webhook",
-        "executeWorkflow",
+        "merge",
+        "slack",
+        "httpRequest",
+        "set",
         "venafiTlsProtectCloud",
-        "set"
+        "executeWorkflow"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.032208",
-    "updated_at": "2025-07-07T19:41:49.032209",
+    "created_at": "2025-07-07T19:46:34.647975",
+    "updated_at": "2025-07-07T19:46:34.647975",
     "version": "1.0.0"
   }
 }

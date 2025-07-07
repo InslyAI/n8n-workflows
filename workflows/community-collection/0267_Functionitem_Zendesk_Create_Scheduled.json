@@ -629,24 +629,24 @@
       "department": "",
       "nodes_count": 21,
       "integrations": [
-        "if",
-        "merge",
-        "noOp",
         "itemLists",
-        "splitInBatches",
-        "httpRequest",
-        "functionItem",
-        "zendesk",
+        "noOp",
+        "if",
         "cron",
+        "splitInBatches",
+        "merge",
+        "zendesk",
+        "httpRequest",
+        "set",
         "pipedrive",
-        "set"
+        "functionItem"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.158610",
-    "updated_at": "2025-07-07T19:41:49.158611",
+    "created_at": "2025-07-07T19:46:34.851040",
+    "updated_at": "2025-07-07T19:46:34.851041",
     "version": "1.0.0"
   }
 }

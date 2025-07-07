@@ -157,15 +157,15 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
-        "manualTrigger",
-        "orbit"
+        "orbit",
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.451947",
-    "updated_at": "2025-07-07T19:41:49.451948",
+    "created_at": "2025-07-07T19:46:35.227313",
+    "updated_at": "2025-07-07T19:46:35.227314",
     "version": "1.0.0"
   }
 }

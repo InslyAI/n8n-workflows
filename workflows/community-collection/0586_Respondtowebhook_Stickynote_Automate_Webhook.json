@@ -176,15 +176,15 @@
       "nodes_count": 7,
       "integrations": [
         "respondToWebhook",
-        "webhook",
-        "stickyNote"
+        "stickyNote",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.825004",
-    "updated_at": "2025-07-07T19:41:48.825005",
+    "created_at": "2025-07-07T19:46:34.442980",
+    "updated_at": "2025-07-07T19:46:34.442981",
     "version": "1.0.0"
   }
 }

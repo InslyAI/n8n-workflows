@@ -200,16 +200,16 @@
       "integrations": [
         "if",
         "stickyNote",
-        "httpRequest",
         "respondToWebhook",
+        "httpRequest",
         "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.074819",
-    "updated_at": "2025-07-07T19:41:49.074820",
+    "created_at": "2025-07-07T19:46:34.700724",
+    "updated_at": "2025-07-07T19:46:34.700727",
     "version": "1.0.0"
   }
 }

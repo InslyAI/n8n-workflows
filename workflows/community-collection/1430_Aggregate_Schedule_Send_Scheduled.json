@@ -325,8 +325,8 @@
       "integrations": [
         "scheduleTrigger",
         "gmail",
-        "stickyNote",
-        "aggregate"
+        "aggregate",
+        "stickyNote"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -399,8 +399,8 @@
         "updatedAt": "2025-01-03T12:19:34.273Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.476039",
-    "updated_at": "2025-07-07T19:41:49.476040",
+    "created_at": "2025-07-07T19:46:35.253534",
+    "updated_at": "2025-07-07T19:46:35.253535",
     "version": "1.0.0"
   }
 }

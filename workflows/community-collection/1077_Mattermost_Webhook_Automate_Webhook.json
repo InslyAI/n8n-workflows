@@ -99,16 +99,16 @@
       "department": "",
       "nodes_count": 3,
       "integrations": [
-        "webhook",
+        "set",
         "mattermost",
-        "set"
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.825318",
-    "updated_at": "2025-07-07T19:41:48.825319",
+    "created_at": "2025-07-07T19:46:34.443220",
+    "updated_at": "2025-07-07T19:46:34.443221",
     "version": "1.0.0"
   }
 }

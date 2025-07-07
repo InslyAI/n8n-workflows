@@ -911,16 +911,16 @@
       "nodes_count": 14,
       "integrations": [
         "googleSheets",
-        "emailSend",
         "stickyNote",
-        "formTrigger"
+        "formTrigger",
+        "emailSend"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.713499",
-    "updated_at": "2025-07-07T19:41:48.713500",
+    "created_at": "2025-07-07T19:46:34.335507",
+    "updated_at": "2025-07-07T19:46:34.335508",
     "version": "1.0.0"
   }
 }

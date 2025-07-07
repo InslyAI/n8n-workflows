@@ -113,16 +113,16 @@
       "department": "",
       "nodes_count": 3,
       "integrations": [
-        "googleDrive",
+        "gmailTrigger",
         "function",
-        "gmailTrigger"
+        "googleDrive"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.203243",
-    "updated_at": "2025-07-07T19:41:49.203244",
+    "created_at": "2025-07-07T19:46:34.903967",
+    "updated_at": "2025-07-07T19:46:34.903967",
     "version": "1.0.0"
   }
 }

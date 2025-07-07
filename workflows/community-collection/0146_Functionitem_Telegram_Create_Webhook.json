@@ -243,17 +243,17 @@
       "nodes_count": 8,
       "integrations": [
         "if",
-        "httpRequest",
         "telegram",
-        "functionItem",
-        "webhook"
+        "httpRequest",
+        "webhook",
+        "functionItem"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.650807",
-    "updated_at": "2025-07-07T19:41:48.650808",
+    "created_at": "2025-07-07T19:46:34.263714",
+    "updated_at": "2025-07-07T19:46:34.263715",
     "version": "1.0.0"
   }
 }

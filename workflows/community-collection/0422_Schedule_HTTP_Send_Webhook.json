@@ -403,20 +403,20 @@
       "department": "",
       "nodes_count": 12,
       "integrations": [
-        "stickyNote",
         "if",
-        "hubspot",
-        "httpRequest",
-        "scheduleTrigger",
+        "stickyNote",
         "gmail",
-        "set"
+        "httpRequest",
+        "set",
+        "scheduleTrigger",
+        "hubspot"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.489505",
-    "updated_at": "2025-07-07T19:41:49.489505",
+    "created_at": "2025-07-07T19:46:35.267575",
+    "updated_at": "2025-07-07T19:46:35.267576",
     "version": "1.0.0"
   }
 }

@@ -1755,28 +1755,28 @@
       "department": "",
       "nodes_count": 53,
       "integrations": [
+        "stickyNote",
         "manualTrigger",
         "wordpress",
-        "supabase",
+        "scheduleTrigger",
         "switch",
-        "stickyNote",
+        "respondToWebhook",
         "splitInBatches",
         "merge",
-        "httpRequest",
-        "postgres",
         "aggregate",
-        "respondToWebhook",
-        "scheduleTrigger",
+        "httpRequest",
+        "set",
+        "supabase",
         "filter",
         "markdown",
-        "set"
+        "postgres"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.921522",
-    "updated_at": "2025-07-07T19:41:48.921523",
+    "created_at": "2025-07-07T19:46:34.535825",
+    "updated_at": "2025-07-07T19:46:34.535826",
     "version": "1.0.0"
   }
 }

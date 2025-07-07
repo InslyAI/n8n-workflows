@@ -498,19 +498,19 @@
       "department": "",
       "nodes_count": 16,
       "integrations": [
-        "stickyNote",
         "splitOut",
-        "httpRequest",
+        "stickyNote",
         "telegram",
-        "markdown",
-        "set"
+        "httpRequest",
+        "set",
+        "markdown"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.926670",
-    "updated_at": "2025-07-07T19:41:48.926671",
+    "created_at": "2025-07-07T19:46:34.540822",
+    "updated_at": "2025-07-07T19:46:34.540822",
     "version": "1.0.0"
   }
 }

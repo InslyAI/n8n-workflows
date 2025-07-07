@@ -249,10 +249,10 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
-        "manualTrigger",
-        "googleSheets",
+        "code",
         "airtop",
-        "code"
+        "manualTrigger",
+        "googleSheets"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -265,8 +265,8 @@
         "updatedAt": "2025-04-04T15:38:37.785Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.295497",
-    "updated_at": "2025-07-07T19:41:49.295498",
+    "created_at": "2025-07-07T19:46:35.032628",
+    "updated_at": "2025-07-07T19:46:35.032630",
     "version": "1.0.0"
   }
 }

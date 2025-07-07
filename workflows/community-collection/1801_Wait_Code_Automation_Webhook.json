@@ -406,18 +406,18 @@
       "nodes_count": 14,
       "integrations": [
         "stickyNote",
+        "formTrigger",
+        "code",
         "wait",
         "httpRequest",
-        "gmailTool",
-        "formTrigger",
-        "code"
+        "gmailTool"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.281348",
-    "updated_at": "2025-07-07T19:41:49.281349",
+    "created_at": "2025-07-07T19:46:34.995007",
+    "updated_at": "2025-07-07T19:46:34.995009",
     "version": "1.0.0"
   }
 }

@@ -261,17 +261,17 @@
       "department": "",
       "nodes_count": 7,
       "integrations": [
-        "switch",
-        "typeformTrigger",
         "set",
-        "clickUp"
+        "clickUp",
+        "switch",
+        "typeformTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.972904",
-    "updated_at": "2025-07-07T19:41:48.972905",
+    "created_at": "2025-07-07T19:46:34.587115",
+    "updated_at": "2025-07-07T19:46:34.587116",
     "version": "1.0.0"
   }
 }

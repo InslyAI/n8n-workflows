@@ -525,16 +525,16 @@
       "department": "",
       "nodes_count": 17,
       "integrations": [
-        "manualTrigger",
-        "stickyNote",
-        "splitInBatches",
         "splitOut",
+        "stickyNote",
+        "manualTrigger",
+        "code",
+        "splitInBatches",
         "merge",
         "httpRequest",
-        "n8n",
+        "set",
         "filter",
-        "code",
-        "set"
+        "n8n"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -553,8 +553,8 @@
         "updatedAt": "2025-02-04T18:13:17.427Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.256309",
-    "updated_at": "2025-07-07T19:41:49.256309",
+    "created_at": "2025-07-07T19:46:34.954288",
+    "updated_at": "2025-07-07T19:46:34.954289",
     "version": "1.0.0"
   }
 }

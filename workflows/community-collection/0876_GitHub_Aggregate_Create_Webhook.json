@@ -868,20 +868,20 @@
       "department": "",
       "nodes_count": 19,
       "integrations": [
-        "switch",
-        "executeWorkflowTrigger",
         "stickyNote",
-        "set",
-        "httpRequest",
+        "switch",
         "github",
-        "aggregate"
+        "aggregate",
+        "httpRequest",
+        "set",
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.187900",
-    "updated_at": "2025-07-07T19:41:49.187901",
+    "created_at": "2025-07-07T19:46:34.884492",
+    "updated_at": "2025-07-07T19:46:34.884493",
     "version": "1.0.0"
   }
 }

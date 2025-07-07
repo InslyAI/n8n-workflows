@@ -208,16 +208,16 @@
       "department": "",
       "nodes_count": 9,
       "integrations": [
+        "stickyNote",
         "manualTrigger",
-        "code",
-        "stickyNote"
+        "code"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.751034",
-    "updated_at": "2025-07-07T19:41:48.751035",
+    "created_at": "2025-07-07T19:46:34.371604",
+    "updated_at": "2025-07-07T19:46:34.371605",
     "version": "1.0.0"
   }
 }

@@ -358,17 +358,17 @@
       "department": "",
       "nodes_count": 13,
       "integrations": [
-        "wait",
+        "gmailTrigger",
         "stickyNote",
-        "gmailTool",
-        "gmailTrigger"
+        "wait",
+        "gmailTool"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.181497",
-    "updated_at": "2025-07-07T19:41:49.181498",
+    "created_at": "2025-07-07T19:46:34.877762",
+    "updated_at": "2025-07-07T19:46:34.877762",
     "version": "1.0.0"
   }
 }

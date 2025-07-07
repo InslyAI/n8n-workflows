@@ -718,22 +718,22 @@
       "department": "",
       "nodes_count": 15,
       "integrations": [
+        "stickyNote",
+        "switch",
+        "gmail",
+        "splitInBatches",
         "googleSheets",
         "slack",
-        "stickyNote",
-        "splitInBatches",
-        "switch",
         "httpRequest",
-        "scheduleTrigger",
-        "gmail",
-        "set"
+        "set",
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.164686",
-    "updated_at": "2025-07-07T19:41:49.164687",
+    "created_at": "2025-07-07T19:46:34.857833",
+    "updated_at": "2025-07-07T19:46:34.857834",
     "version": "1.0.0"
   }
 }

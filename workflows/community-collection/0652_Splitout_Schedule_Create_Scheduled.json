@@ -226,20 +226,20 @@
       "department": "",
       "nodes_count": 8,
       "integrations": [
-        "stickyNote",
         "splitOut",
         "if",
+        "stickyNote",
         "httpRequest",
         "scheduleTrigger",
-        "markdown",
-        "emailSend"
+        "emailSend",
+        "markdown"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.085746",
-    "updated_at": "2025-07-07T19:41:49.085747",
+    "created_at": "2025-07-07T19:46:34.744272",
+    "updated_at": "2025-07-07T19:46:34.744277",
     "version": "1.0.0"
   }
 }

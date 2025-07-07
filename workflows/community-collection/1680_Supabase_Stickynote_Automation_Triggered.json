@@ -459,17 +459,17 @@
       "department": "",
       "nodes_count": 16,
       "integrations": [
+        "set",
         "supabase",
-        "stickyNote",
         "if",
-        "set"
+        "stickyNote"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.094087",
-    "updated_at": "2025-07-07T19:41:49.094088",
+    "created_at": "2025-07-07T19:46:34.763145",
+    "updated_at": "2025-07-07T19:46:34.763151",
     "version": "1.0.0"
   }
 }

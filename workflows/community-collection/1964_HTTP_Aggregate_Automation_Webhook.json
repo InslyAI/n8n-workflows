@@ -631,18 +631,18 @@
       "department": "",
       "nodes_count": 17,
       "integrations": [
-        "googleSheets",
-        "executeWorkflowTrigger",
         "stickyNote",
+        "googleSheets",
+        "aggregate",
         "httpRequest",
-        "aggregate"
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.940543",
-    "updated_at": "2025-07-07T19:41:48.940543",
+    "created_at": "2025-07-07T19:46:34.554529",
+    "updated_at": "2025-07-07T19:46:34.554530",
     "version": "1.0.0"
   }
 }

@@ -5542,25 +5542,25 @@
       "department": "",
       "nodes_count": 92,
       "integrations": [
-        "manualTrigger",
-        "googleSheets",
-        "stickyNote",
         "splitOut",
-        "splitInBatches",
+        "sort",
         "if",
+        "stickyNote",
+        "scheduleTrigger",
+        "manualTrigger",
+        "splitInBatches",
+        "googleSheets",
+        "aggregate",
         "wait",
         "code",
-        "limit",
-        "scheduleTrigger",
-        "sort",
-        "aggregate"
+        "limit"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.651887",
-    "updated_at": "2025-07-07T19:41:48.651888",
+    "created_at": "2025-07-07T19:46:34.264906",
+    "updated_at": "2025-07-07T19:46:34.264908",
     "version": "1.0.0"
   }
 }

@@ -447,21 +447,21 @@
       "department": "",
       "nodes_count": 14,
       "integrations": [
-        "if",
-        "merge",
-        "strapi",
         "interval",
+        "if",
         "twitter",
+        "merge",
+        "set",
         "webhook",
-        "googleCloudNaturalLanguage",
-        "set"
+        "strapi",
+        "googleCloudNaturalLanguage"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.255788",
-    "updated_at": "2025-07-07T19:41:49.255789",
+    "created_at": "2025-07-07T19:46:34.953748",
+    "updated_at": "2025-07-07T19:46:34.953749",
     "version": "1.0.0"
   }
 }

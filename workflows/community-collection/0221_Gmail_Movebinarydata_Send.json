@@ -104,17 +104,17 @@
       "department": "",
       "nodes_count": 4,
       "integrations": [
+        "moveBinaryData",
         "gmail",
         "stickyNote",
-        "spreadsheetFile",
-        "moveBinaryData"
+        "spreadsheetFile"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.225621",
-    "updated_at": "2025-07-07T19:41:49.225622",
+    "created_at": "2025-07-07T19:46:34.923936",
+    "updated_at": "2025-07-07T19:46:34.923938",
     "version": "1.0.0"
   }
 }

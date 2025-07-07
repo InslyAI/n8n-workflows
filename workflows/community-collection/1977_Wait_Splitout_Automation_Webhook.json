@@ -1457,21 +1457,21 @@
       "department": "",
       "nodes_count": 58,
       "integrations": [
-        "manualTrigger",
-        "postBin",
-        "slack",
-        "stickyNote",
-        "merge",
         "splitOut",
         "noOp",
-        "renameKeys",
-        "wait",
+        "stickyNote",
+        "manualTrigger",
         "httpRequest",
+        "renameKeys",
         "bambooHr",
+        "merge",
         "aggregate",
         "debugHelper",
-        "filter",
-        "set"
+        "slack",
+        "wait",
+        "postBin",
+        "set",
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -1502,8 +1502,8 @@
         "updatedAt": "2025-02-08T21:21:43.564Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:48.941304",
-    "updated_at": "2025-07-07T19:41:48.941305",
+    "created_at": "2025-07-07T19:46:34.555270",
+    "updated_at": "2025-07-07T19:46:34.555271",
     "version": "1.0.0"
   }
 }

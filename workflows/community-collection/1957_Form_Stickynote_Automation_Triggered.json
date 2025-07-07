@@ -335,11 +335,11 @@
       "department": "",
       "nodes_count": 9,
       "integrations": [
-        "executeWorkflowTrigger",
         "stickyNote",
-        "airtop",
         "formTrigger",
-        "set"
+        "airtop",
+        "set",
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -358,8 +358,8 @@
         "updatedAt": "2025-04-15T18:59:57.364Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.317257",
-    "updated_at": "2025-07-07T19:41:49.317258",
+    "created_at": "2025-07-07T19:46:35.070684",
+    "updated_at": "2025-07-07T19:46:35.070685",
     "version": "1.0.0"
   }
 }

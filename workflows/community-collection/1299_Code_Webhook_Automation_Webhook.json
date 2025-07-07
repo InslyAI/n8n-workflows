@@ -939,22 +939,22 @@
       "department": "",
       "nodes_count": 39,
       "integrations": [
-        "slack",
-        "stickyNote",
-        "if",
-        "noOp",
-        "httpRequest",
         "gmailTrigger",
-        "webhook",
+        "noOp",
+        "if",
+        "stickyNote",
         "gmail",
-        "code"
+        "code",
+        "slack",
+        "httpRequest",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.168463",
-    "updated_at": "2025-07-07T19:41:49.168463",
+    "created_at": "2025-07-07T19:46:34.861808",
+    "updated_at": "2025-07-07T19:46:34.861809",
     "version": "1.0.0"
   }
 }

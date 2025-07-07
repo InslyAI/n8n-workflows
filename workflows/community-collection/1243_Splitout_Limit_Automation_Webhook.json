@@ -561,9 +561,9 @@
       "department": "",
       "nodes_count": 21,
       "integrations": [
-        "manualTrigger",
-        "stickyNote",
         "splitOut",
+        "stickyNote",
+        "manualTrigger",
         "html",
         "httpRequest",
         "limit"
@@ -585,8 +585,8 @@
         "updatedAt": "2025-04-16T12:47:57.976Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.144040",
-    "updated_at": "2025-07-07T19:41:49.144041",
+    "created_at": "2025-07-07T19:46:34.833972",
+    "updated_at": "2025-07-07T19:46:34.833972",
     "version": "1.0.0"
   }
 }

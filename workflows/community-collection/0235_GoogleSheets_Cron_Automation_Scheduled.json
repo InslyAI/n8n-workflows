@@ -99,16 +99,16 @@
       "department": "",
       "nodes_count": 3,
       "integrations": [
+        "mySql",
         "cron",
-        "googleSheets",
-        "mySql"
+        "googleSheets"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.120721",
-    "updated_at": "2025-07-07T19:41:49.120722",
+    "created_at": "2025-07-07T19:46:34.807411",
+    "updated_at": "2025-07-07T19:46:34.807413",
     "version": "1.0.0"
   }
 }

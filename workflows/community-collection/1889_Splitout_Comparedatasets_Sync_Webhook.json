@@ -549,13 +549,13 @@
       "department": "",
       "nodes_count": 14,
       "integrations": [
-        "manualTrigger",
-        "zammad",
-        "compareDatasets",
-        "stickyNote",
-        "merge",
         "splitOut",
         "if",
+        "stickyNote",
+        "manualTrigger",
+        "merge",
+        "compareDatasets",
+        "zammad",
         "httpRequest",
         "set"
       ],
@@ -563,8 +563,8 @@
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.480889",
-    "updated_at": "2025-07-07T19:41:49.480890",
+    "created_at": "2025-07-07T19:46:35.258456",
+    "updated_at": "2025-07-07T19:46:35.258457",
     "version": "1.0.0"
   }
 }

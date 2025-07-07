@@ -60,15 +60,15 @@
       "department": "",
       "nodes_count": 2,
       "integrations": [
-        "manualTrigger",
-        "affinity"
+        "affinity",
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.050393",
-    "updated_at": "2025-07-07T19:41:49.050393",
+    "created_at": "2025-07-07T19:46:34.671337",
+    "updated_at": "2025-07-07T19:46:34.671338",
     "version": "1.0.0"
   }
 }

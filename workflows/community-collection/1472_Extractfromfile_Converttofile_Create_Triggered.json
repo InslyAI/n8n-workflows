@@ -770,23 +770,23 @@
       "department": "",
       "nodes_count": 29,
       "integrations": [
-        "extractFromFile",
-        "manualTrigger",
-        "stickyNote",
-        "mySql",
-        "readWriteFile",
         "noOp",
         "if",
-        "merge",
         "convertToFile",
-        "set"
+        "stickyNote",
+        "manualTrigger",
+        "mySql",
+        "merge",
+        "extractFromFile",
+        "set",
+        "readWriteFile"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.043718",
-    "updated_at": "2025-07-07T19:41:49.043719",
+    "created_at": "2025-07-07T19:46:34.664825",
+    "updated_at": "2025-07-07T19:46:34.664826",
     "version": "1.0.0"
   }
 }

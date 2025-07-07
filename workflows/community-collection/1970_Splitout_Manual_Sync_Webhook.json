@@ -369,10 +369,10 @@
       "department": "",
       "nodes_count": 8,
       "integrations": [
+        "splitOut",
+        "stickyNote",
         "manualTrigger",
         "googleSheets",
-        "stickyNote",
-        "splitOut",
         "httpRequest",
         "set"
       ],
@@ -380,8 +380,8 @@
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.232092",
-    "updated_at": "2025-07-07T19:41:49.232093",
+    "created_at": "2025-07-07T19:46:34.929057",
+    "updated_at": "2025-07-07T19:46:34.929057",
     "version": "1.0.0"
   }
 }

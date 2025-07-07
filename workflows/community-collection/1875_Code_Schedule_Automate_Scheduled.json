@@ -1017,25 +1017,25 @@
       "department": "",
       "nodes_count": 29,
       "integrations": [
-        "googleDrive",
         "if",
-        "splitInBatches",
+        "convertToFile",
         "stickyNote",
         "httpRequest",
-        "reddit",
+        "splitInBatches",
+        "googleDrive",
         "aggregate",
-        "convertToFile",
-        "compression",
-        "scheduleTrigger",
         "code",
-        "set"
+        "set",
+        "scheduleTrigger",
+        "reddit",
+        "compression"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.609030",
-    "updated_at": "2025-07-07T19:41:49.609031",
+    "created_at": "2025-07-07T19:46:35.394933",
+    "updated_at": "2025-07-07T19:46:35.394934",
     "version": "1.0.0"
   }
 }

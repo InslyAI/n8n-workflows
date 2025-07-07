@@ -457,11 +457,11 @@
       "nodes_count": 15,
       "integrations": [
         "stickyNote",
+        "gmail",
         "wait",
         "airtop",
-        "scheduleTrigger",
-        "gmail",
-        "set"
+        "set",
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -474,8 +474,8 @@
         "updatedAt": "2025-04-17T20:22:38.913Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:48.637215",
-    "updated_at": "2025-07-07T19:41:48.637216",
+    "created_at": "2025-07-07T19:46:34.250664",
+    "updated_at": "2025-07-07T19:46:34.250665",
     "version": "1.0.0"
   }
 }

@@ -236,16 +236,16 @@
       "integrations": [
         "stickyNote",
         "httpRequest",
-        "webhook",
         "code",
-        "set"
+        "set",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.708247",
-    "updated_at": "2025-07-07T19:41:48.708248",
+    "created_at": "2025-07-07T19:46:34.330340",
+    "updated_at": "2025-07-07T19:46:34.330340",
     "version": "1.0.0"
   }
 }

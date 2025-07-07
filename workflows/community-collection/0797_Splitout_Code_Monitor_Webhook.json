@@ -483,23 +483,23 @@
       "department": "",
       "nodes_count": 13,
       "integrations": [
-        "manualTrigger",
-        "googleSheets",
-        "stickyNote",
-        "if",
         "splitOut",
-        "httpRequest",
+        "if",
+        "stickyNote",
+        "manualTrigger",
         "convertToFile",
-        "scheduleTrigger",
+        "httpRequest",
+        "googleSheets",
         "code",
-        "set"
+        "set",
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.239707",
-    "updated_at": "2025-07-07T19:41:49.239708",
+    "created_at": "2025-07-07T19:46:34.936555",
+    "updated_at": "2025-07-07T19:46:34.936556",
     "version": "1.0.0"
   }
 }

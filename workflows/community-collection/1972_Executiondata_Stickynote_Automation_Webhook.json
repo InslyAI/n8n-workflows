@@ -434,8 +434,8 @@
         "stickyNote",
         "airtable",
         "executionData",
-        "webhook",
-        "set"
+        "set",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -448,8 +448,8 @@
         "updatedAt": "2025-02-04T18:13:17.427Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:48.971043",
-    "updated_at": "2025-07-07T19:41:48.971044",
+    "created_at": "2025-07-07T19:46:34.585429",
+    "updated_at": "2025-07-07T19:46:34.585429",
     "version": "1.0.0"
   }
 }

@@ -76,15 +76,15 @@
       "department": "",
       "nodes_count": 3,
       "integrations": [
-        "writeBinaryFile",
-        "function"
+        "function",
+        "writeBinaryFile"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.562508",
-    "updated_at": "2025-07-07T19:41:49.562509",
+    "created_at": "2025-07-07T19:46:35.341983",
+    "updated_at": "2025-07-07T19:46:35.341984",
     "version": "1.0.0"
   }
 }

@@ -333,16 +333,16 @@
       "department": "",
       "nodes_count": 12,
       "integrations": [
-        "httpRequest",
+        "splitOut",
         "stickyNote",
-        "splitOut"
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.959403",
-    "updated_at": "2025-07-07T19:41:48.959404",
+    "created_at": "2025-07-07T19:46:34.573574",
+    "updated_at": "2025-07-07T19:46:34.573574",
     "version": "1.0.0"
   }
 }

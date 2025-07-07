@@ -426,23 +426,23 @@
       "department": "",
       "nodes_count": 15,
       "integrations": [
-        "itemLists",
         "if",
         "stickyNote",
-        "wait",
         "httpRequest",
-        "scheduleTrigger",
-        "htmlExtract",
         "gmail",
         "code",
-        "set"
+        "wait",
+        "itemLists",
+        "set",
+        "scheduleTrigger",
+        "htmlExtract"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.638689",
-    "updated_at": "2025-07-07T19:41:48.638691",
+    "created_at": "2025-07-07T19:46:34.252150",
+    "updated_at": "2025-07-07T19:46:34.252151",
     "version": "1.0.0"
   }
 }

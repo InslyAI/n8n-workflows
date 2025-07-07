@@ -138,17 +138,17 @@
       "department": "",
       "nodes_count": 4,
       "integrations": [
-        "httpRequest",
+        "if",
         "webhook",
         "stickyNote",
-        "if"
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.150334",
-    "updated_at": "2025-07-07T19:41:49.150335",
+    "created_at": "2025-07-07T19:46:34.841805",
+    "updated_at": "2025-07-07T19:46:34.841806",
     "version": "1.0.0"
   }
 }

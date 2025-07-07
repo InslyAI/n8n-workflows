@@ -576,12 +576,12 @@
       "department": "",
       "nodes_count": 17,
       "integrations": [
-        "googleSheets",
         "stickyNote",
-        "httpRequest",
-        "webhook",
         "code",
-        "set"
+        "googleSheets",
+        "httpRequest",
+        "set",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -594,8 +594,8 @@
         "updatedAt": "2025-04-18T08:59:48.308Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:48.817448",
-    "updated_at": "2025-07-07T19:41:48.817449",
+    "created_at": "2025-07-07T19:46:34.435538",
+    "updated_at": "2025-07-07T19:46:34.435540",
     "version": "1.0.0"
   }
 }

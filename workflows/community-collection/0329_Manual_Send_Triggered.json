@@ -180,15 +180,15 @@
       "department": "",
       "nodes_count": 6,
       "integrations": [
-        "manualTrigger",
-        "set"
+        "set",
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.850621",
-    "updated_at": "2025-07-07T19:41:48.850622",
+    "created_at": "2025-07-07T19:46:34.467006",
+    "updated_at": "2025-07-07T19:46:34.467007",
     "version": "1.0.0"
   }
 }

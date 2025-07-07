@@ -90,16 +90,16 @@
       "department": "",
       "nodes_count": 3,
       "integrations": [
+        "function",
         "cron",
-        "postgres",
-        "function"
+        "postgres"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.570727",
-    "updated_at": "2025-07-07T19:41:49.570728",
+    "created_at": "2025-07-07T19:46:35.350852",
+    "updated_at": "2025-07-07T19:46:35.350853",
     "version": "1.0.0"
   }
 }

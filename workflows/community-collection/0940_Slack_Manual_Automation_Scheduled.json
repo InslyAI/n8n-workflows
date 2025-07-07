@@ -338,20 +338,20 @@
       "department": "",
       "nodes_count": 10,
       "integrations": [
-        "manualTrigger",
-        "googleDrive",
-        "slack",
         "function",
-        "merge",
         "cron",
-        "gmail"
+        "manualTrigger",
+        "gmail",
+        "merge",
+        "slack",
+        "googleDrive"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.136665",
-    "updated_at": "2025-07-07T19:41:49.136666",
+    "created_at": "2025-07-07T19:46:34.825510",
+    "updated_at": "2025-07-07T19:46:34.825511",
     "version": "1.0.0"
   }
 }

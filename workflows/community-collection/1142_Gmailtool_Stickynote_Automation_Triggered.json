@@ -332,11 +332,11 @@
       "department": "",
       "nodes_count": 10,
       "integrations": [
-        "notionTrigger",
         "stickyNote",
+        "set",
+        "notionTrigger",
         "wordpressTool",
-        "gmailTool",
-        "set"
+        "gmailTool"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -349,8 +349,8 @@
         "updatedAt": "2025-03-28T00:29:11.856Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:48.892272",
-    "updated_at": "2025-07-07T19:41:48.892273",
+    "created_at": "2025-07-07T19:46:34.508246",
+    "updated_at": "2025-07-07T19:46:34.508247",
     "version": "1.0.0"
   }
 }

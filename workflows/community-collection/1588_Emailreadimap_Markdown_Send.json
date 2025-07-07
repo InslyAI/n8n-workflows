@@ -516,20 +516,20 @@
       "department": "",
       "nodes_count": 17,
       "integrations": [
-        "set",
         "if",
         "stickyNote",
-        "emailReadImap",
         "gmail",
-        "markdown",
-        "emailSend"
+        "emailReadImap",
+        "emailSend",
+        "set",
+        "markdown"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.706490",
-    "updated_at": "2025-07-07T19:41:48.706491",
+    "created_at": "2025-07-07T19:46:34.328907",
+    "updated_at": "2025-07-07T19:46:34.328908",
     "version": "1.0.0"
   }
 }

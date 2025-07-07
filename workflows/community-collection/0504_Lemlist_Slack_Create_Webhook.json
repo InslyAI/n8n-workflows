@@ -484,21 +484,21 @@
       "department": "",
       "nodes_count": 18,
       "integrations": [
-        "slack",
-        "switch",
         "stickyNote",
+        "switch",
+        "lemlist",
         "merge",
+        "slack",
         "httpRequest",
         "lemlistTrigger",
-        "lemlist",
         "markdown"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.137160",
-    "updated_at": "2025-07-07T19:41:49.137161",
+    "created_at": "2025-07-07T19:46:34.826074",
+    "updated_at": "2025-07-07T19:46:34.826075",
     "version": "1.0.0"
   }
 }

@@ -897,25 +897,25 @@
       "department": "",
       "nodes_count": 26,
       "integrations": [
-        "manualTrigger",
-        "googleSheets",
-        "executeWorkflowTrigger",
-        "stickyNote",
         "splitOut",
-        "googleDrive",
         "if",
-        "httpRequest",
-        "telegram",
+        "stickyNote",
+        "manualTrigger",
         "gmail",
         "code",
-        "aggregate"
+        "telegram",
+        "googleSheets",
+        "aggregate",
+        "httpRequest",
+        "googleDrive",
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.948476",
-    "updated_at": "2025-07-07T19:41:48.948477",
+    "created_at": "2025-07-07T19:46:34.562419",
+    "updated_at": "2025-07-07T19:46:34.562420",
     "version": "1.0.0"
   }
 }

@@ -463,22 +463,22 @@
       "department": "",
       "nodes_count": 15,
       "integrations": [
-        "stickyNote",
-        "if",
         "noOp",
-        "hubspot",
-        "httpRequest",
+        "if",
+        "stickyNote",
         "formTrigger",
         "gmail",
         "hunter",
-        "set"
+        "httpRequest",
+        "set",
+        "hubspot"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.422460",
-    "updated_at": "2025-07-07T19:41:49.422461",
+    "created_at": "2025-07-07T19:46:35.195096",
+    "updated_at": "2025-07-07T19:46:35.195097",
     "version": "1.0.0"
   }
 }

@@ -223,15 +223,15 @@
       "integrations": [
         "webflowTrigger",
         "googleSheets",
-        "code",
-        "stickyNote"
+        "stickyNote",
+        "code"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.560797",
-    "updated_at": "2025-07-07T19:41:49.560798",
+    "created_at": "2025-07-07T19:46:35.340160",
+    "updated_at": "2025-07-07T19:46:35.340162",
     "version": "1.0.0"
   }
 }

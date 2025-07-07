@@ -373,20 +373,20 @@
       "department": "",
       "nodes_count": 10,
       "integrations": [
-        "manualTrigger",
-        "googleDrive",
-        "splitInBatches",
         "convertToFile",
-        "n8n",
+        "manualTrigger",
+        "splitInBatches",
+        "googleDrive",
         "scheduleTrigger",
-        "filter"
+        "filter",
+        "n8n"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.123845",
-    "updated_at": "2025-07-07T19:41:49.123846",
+    "created_at": "2025-07-07T19:46:34.811138",
+    "updated_at": "2025-07-07T19:46:34.811139",
     "version": "1.0.0"
   }
 }

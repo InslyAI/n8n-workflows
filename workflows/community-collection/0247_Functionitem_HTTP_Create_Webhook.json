@@ -258,18 +258,18 @@
       "nodes_count": 7,
       "integrations": [
         "itemLists",
+        "pipedriveTrigger",
         "merge",
         "httpRequest",
-        "pipedriveTrigger",
-        "functionItem",
-        "set"
+        "set",
+        "functionItem"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.159652",
-    "updated_at": "2025-07-07T19:41:49.159652",
+    "created_at": "2025-07-07T19:46:34.852124",
+    "updated_at": "2025-07-07T19:46:34.852125",
     "version": "1.0.0"
   }
 }

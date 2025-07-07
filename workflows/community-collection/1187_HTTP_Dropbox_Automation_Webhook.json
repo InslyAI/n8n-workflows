@@ -133,17 +133,17 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
+        "httpRequest",
         "manualTrigger",
         "dropbox",
-        "compression",
-        "httpRequest"
+        "compression"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.788619",
-    "updated_at": "2025-07-07T19:41:48.788620",
+    "created_at": "2025-07-07T19:46:34.406214",
+    "updated_at": "2025-07-07T19:46:34.406215",
     "version": "1.0.0"
   }
 }

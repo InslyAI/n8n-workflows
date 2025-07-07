@@ -620,17 +620,17 @@
       "department": "",
       "nodes_count": 20,
       "integrations": [
-        "googleSheetsTool",
-        "googleCalendarTool",
+        "gmailTool",
         "stickyNote",
-        "gmailTool"
+        "googleCalendarTool",
+        "googleSheetsTool"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.016883",
-    "updated_at": "2025-07-07T19:41:49.016884",
+    "created_at": "2025-07-07T19:46:34.632869",
+    "updated_at": "2025-07-07T19:46:34.632870",
     "version": "1.0.0"
   }
 }

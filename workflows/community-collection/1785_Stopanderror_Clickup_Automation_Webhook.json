@@ -777,28 +777,28 @@
       "department": "",
       "nodes_count": 24,
       "integrations": [
-        "manualTrigger",
-        "extractFromFile",
-        "executeWorkflowTrigger",
-        "stickyNote",
-        "splitInBatches",
         "splitOut",
-        "httpRequest",
-        "filter",
-        "clickUp",
+        "stickyNote",
+        "manualTrigger",
         "zoom",
-        "microsoftOutlookTool",
-        "stopAndError",
         "code",
+        "splitInBatches",
+        "stopAndError",
+        "clickUp",
+        "extractFromFile",
+        "microsoftOutlookTool",
+        "httpRequest",
+        "set",
         "emailSend",
-        "set"
+        "filter",
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.220443",
-    "updated_at": "2025-07-07T19:41:49.220443",
+    "created_at": "2025-07-07T19:46:34.918851",
+    "updated_at": "2025-07-07T19:46:34.918852",
     "version": "1.0.0"
   }
 }

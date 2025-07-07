@@ -681,21 +681,21 @@
       "department": "",
       "nodes_count": 24,
       "integrations": [
-        "manualTrigger",
-        "googleDrive",
-        "stickyNote",
         "if",
-        "httpRequest",
+        "stickyNote",
+        "manualTrigger",
         "whatsApp",
         "respondToWebhook",
+        "httpRequest",
+        "googleDrive",
         "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.695572",
-    "updated_at": "2025-07-07T19:41:48.695573",
+    "created_at": "2025-07-07T19:46:34.317620",
+    "updated_at": "2025-07-07T19:46:34.317621",
     "version": "1.0.0"
   }
 }

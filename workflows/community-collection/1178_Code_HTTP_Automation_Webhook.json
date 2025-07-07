@@ -1643,12 +1643,12 @@
       "department": "",
       "nodes_count": 30,
       "integrations": [
-        "manualTrigger",
         "stickyNote",
-        "httpRequest",
-        "airtable",
+        "manualTrigger",
         "formTrigger",
         "code",
+        "airtable",
+        "httpRequest",
         "set"
       ],
       "estimated_cost": "medium",
@@ -1680,8 +1680,8 @@
         "updatedAt": "2025-04-25T13:38:58.944Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.595457",
-    "updated_at": "2025-07-07T19:41:49.595457",
+    "created_at": "2025-07-07T19:46:35.379405",
+    "updated_at": "2025-07-07T19:46:35.379407",
     "version": "1.0.0"
   }
 }

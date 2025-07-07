@@ -728,21 +728,21 @@
       "department": "",
       "nodes_count": 20,
       "integrations": [
+        "stickyNote",
+        "googleSheetsTool",
+        "googleDriveTrigger",
+        "googleDriveTool",
         "extractFromFile",
         "googleDrive",
-        "stickyNote",
         "googleDocs",
-        "googleDriveTool",
-        "googleSheetsTool",
-        "gmailTool",
-        "googleDriveTrigger"
+        "gmailTool"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.402297",
-    "updated_at": "2025-07-07T19:41:49.402297",
+    "created_at": "2025-07-07T19:46:35.174107",
+    "updated_at": "2025-07-07T19:46:35.174108",
     "version": "1.0.0"
   }
 }

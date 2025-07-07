@@ -189,16 +189,16 @@
       "department": "",
       "nodes_count": 7,
       "integrations": [
-        "emailReadImap",
         "httpRequest",
-        "stickyNote"
+        "stickyNote",
+        "emailReadImap"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.675603",
-    "updated_at": "2025-07-07T19:41:48.675604",
+    "created_at": "2025-07-07T19:46:34.288286",
+    "updated_at": "2025-07-07T19:46:34.288287",
     "version": "1.0.0"
   }
 }

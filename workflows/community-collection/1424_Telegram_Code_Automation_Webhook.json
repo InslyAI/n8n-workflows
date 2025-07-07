@@ -834,24 +834,24 @@
       "department": "",
       "nodes_count": 27,
       "integrations": [
-        "extractFromFile",
-        "wordpress",
-        "stickyNote",
         "if",
-        "merge",
-        "httpRequest",
-        "telegram",
+        "stickyNote",
+        "wordpress",
         "formTrigger",
+        "telegram",
         "gmail",
         "code",
+        "merge",
+        "extractFromFile",
+        "httpRequest",
         "markdown"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.715375",
-    "updated_at": "2025-07-07T19:41:48.715376",
+    "created_at": "2025-07-07T19:46:34.337267",
+    "updated_at": "2025-07-07T19:46:34.337268",
     "version": "1.0.0"
   }
 }

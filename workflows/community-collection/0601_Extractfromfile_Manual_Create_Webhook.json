@@ -712,20 +712,20 @@
       "department": "",
       "nodes_count": 28,
       "integrations": [
-        "manualTrigger",
-        "extractFromFile",
-        "switch",
         "stickyNote",
-        "httpRequest",
+        "manualTrigger",
         "whatsApp",
+        "switch",
+        "extractFromFile",
+        "httpRequest",
         "whatsAppTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.908094",
-    "updated_at": "2025-07-07T19:41:48.908095",
+    "created_at": "2025-07-07T19:46:34.522125",
+    "updated_at": "2025-07-07T19:46:34.522126",
     "version": "1.0.0"
   }
 }

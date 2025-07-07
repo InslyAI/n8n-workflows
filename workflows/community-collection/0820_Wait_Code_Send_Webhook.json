@@ -738,27 +738,27 @@
       "department": "",
       "nodes_count": 24,
       "integrations": [
-        "microsoftOutlook",
-        "extractFromFile",
-        "if",
-        "splitInBatches",
         "noOp",
-        "wait",
+        "if",
         "stickyNote",
         "httpRequest",
         "microsoftExcel",
+        "splitInBatches",
+        "microsoftOutlook",
+        "extractFromFile",
+        "wait",
+        "code",
+        "set",
         "scheduleTrigger",
         "filter",
-        "code",
-        "markdown",
-        "set"
+        "markdown"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.036695",
-    "updated_at": "2025-07-07T19:41:49.036696",
+    "created_at": "2025-07-07T19:46:34.653036",
+    "updated_at": "2025-07-07T19:46:34.653037",
     "version": "1.0.0"
   }
 }

@@ -566,16 +566,16 @@
         "switch",
         "googleCalendarTool",
         "httpRequest",
+        "set",
         "webhook",
-        "gmailTool",
-        "set"
+        "gmailTool"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.203557",
-    "updated_at": "2025-07-07T19:41:49.203558",
+    "created_at": "2025-07-07T19:46:34.904337",
+    "updated_at": "2025-07-07T19:46:34.904338",
     "version": "1.0.0"
   }
 }

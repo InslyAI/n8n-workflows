@@ -135,16 +135,16 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
+        "nextCloud",
         "manualTrigger",
-        "httpRequest",
-        "nextCloud"
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.317042",
-    "updated_at": "2025-07-07T19:41:49.317042",
+    "created_at": "2025-07-07T19:46:35.070341",
+    "updated_at": "2025-07-07T19:46:35.070344",
     "version": "1.0.0"
   }
 }

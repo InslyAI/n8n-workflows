@@ -446,19 +446,19 @@
       "department": "",
       "nodes_count": 11,
       "integrations": [
-        "stickyNote",
         "splitOut",
+        "stickyNote",
         "emailReadImap",
         "httpRequest",
-        "filter",
-        "set"
+        "set",
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.714285",
-    "updated_at": "2025-07-07T19:41:48.714286",
+    "created_at": "2025-07-07T19:46:34.336204",
+    "updated_at": "2025-07-07T19:46:34.336205",
     "version": "1.0.0"
   }
 }

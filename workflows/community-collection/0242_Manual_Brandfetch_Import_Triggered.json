@@ -154,17 +154,17 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
-        "manualTrigger",
+        "set",
         "airtable",
-        "Brandfetch",
-        "set"
+        "manualTrigger",
+        "Brandfetch"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.551825",
-    "updated_at": "2025-07-07T19:41:49.551826",
+    "created_at": "2025-07-07T19:46:35.330329",
+    "updated_at": "2025-07-07T19:46:35.330330",
     "version": "1.0.0"
   }
 }

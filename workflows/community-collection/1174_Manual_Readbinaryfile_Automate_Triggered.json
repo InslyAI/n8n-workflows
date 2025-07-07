@@ -74,16 +74,16 @@
       "department": "",
       "nodes_count": 3,
       "integrations": [
-        "manualTrigger",
+        "spreadsheetFile",
         "readBinaryFile",
-        "spreadsheetFile"
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.122600",
-    "updated_at": "2025-07-07T19:41:49.122601",
+    "created_at": "2025-07-07T19:46:34.809684",
+    "updated_at": "2025-07-07T19:46:34.809685",
     "version": "1.0.0"
   }
 }

@@ -92,16 +92,16 @@
       "department": "",
       "nodes_count": 3,
       "integrations": [
+        "webhook",
         "medium",
-        "httpRequest",
-        "webhook"
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.237602",
-    "updated_at": "2025-07-07T19:41:49.237603",
+    "created_at": "2025-07-07T19:46:34.934581",
+    "updated_at": "2025-07-07T19:46:34.934582",
     "version": "1.0.0"
   }
 }

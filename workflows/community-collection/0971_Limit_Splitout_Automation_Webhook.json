@@ -2186,24 +2186,24 @@
       "department": "",
       "nodes_count": 72,
       "integrations": [
-        "switch",
-        "stickyNote",
-        "merge",
         "splitOut",
         "if",
-        "summarize",
-        "httpRequest",
-        "limit",
+        "stickyNote",
+        "switch",
         "redis",
         "code",
-        "set"
+        "merge",
+        "httpRequest",
+        "set",
+        "limit",
+        "summarize"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.802470",
-    "updated_at": "2025-07-07T19:41:48.802471",
+    "created_at": "2025-07-07T19:46:34.419804",
+    "updated_at": "2025-07-07T19:46:34.419805",
     "version": "1.0.0"
   }
 }

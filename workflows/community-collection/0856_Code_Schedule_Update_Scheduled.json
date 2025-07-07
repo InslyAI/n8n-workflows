@@ -3440,20 +3440,20 @@
       "department": "",
       "nodes_count": 10,
       "integrations": [
-        "googleSheets",
         "stickyNote",
+        "code",
+        "googleSheets",
         "merge",
         "httpRequest",
-        "scheduleTrigger",
-        "code",
-        "set"
+        "set",
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.340101",
-    "updated_at": "2025-07-07T19:41:49.340102",
+    "created_at": "2025-07-07T19:46:35.100952",
+    "updated_at": "2025-07-07T19:46:35.100954",
     "version": "1.0.0"
   }
 }

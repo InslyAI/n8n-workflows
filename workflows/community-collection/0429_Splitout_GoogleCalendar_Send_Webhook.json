@@ -810,26 +810,26 @@
       "department": "",
       "nodes_count": 21,
       "integrations": [
-        "clearbit",
-        "switch",
-        "stickyNote",
         "splitOut",
-        "merge",
+        "clearbit",
+        "stickyNote",
+        "switch",
         "googleCalendar",
-        "httpRequest",
-        "html",
-        "scheduleTrigger",
-        "openAi",
         "gmail",
-        "filter",
-        "set"
+        "html",
+        "openAi",
+        "merge",
+        "httpRequest",
+        "set",
+        "scheduleTrigger",
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.833128",
-    "updated_at": "2025-07-07T19:41:48.833128",
+    "created_at": "2025-07-07T19:46:34.450291",
+    "updated_at": "2025-07-07T19:46:34.450292",
     "version": "1.0.0"
   }
 }

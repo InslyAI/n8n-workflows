@@ -868,22 +868,22 @@
       "department": "",
       "nodes_count": 19,
       "integrations": [
-        "googleSheets",
-        "set",
-        "stickyNote",
         "if",
-        "merge",
         "form",
-        "crypto",
+        "stickyNote",
         "formTrigger",
-        "emailSend"
+        "crypto",
+        "googleSheets",
+        "merge",
+        "emailSend",
+        "set"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.104503",
-    "updated_at": "2025-07-07T19:41:49.104504",
+    "created_at": "2025-07-07T19:46:34.783948",
+    "updated_at": "2025-07-07T19:46:34.783949",
     "version": "1.0.0"
   }
 }

@@ -394,20 +394,20 @@
       "nodes_count": 13,
       "integrations": [
         "stickyNote",
-        "merge",
         "notion",
-        "linkedIn",
         "httpRequest",
-        "scheduleTrigger",
+        "linkedIn",
+        "merge",
+        "aggregate",
         "code",
-        "aggregate"
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.830883",
-    "updated_at": "2025-07-07T19:41:48.830883",
+    "created_at": "2025-07-07T19:46:34.448277",
+    "updated_at": "2025-07-07T19:46:34.448278",
     "version": "1.0.0"
   }
 }

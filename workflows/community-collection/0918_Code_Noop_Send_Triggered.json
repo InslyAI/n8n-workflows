@@ -552,20 +552,20 @@
       "department": "",
       "nodes_count": 19,
       "integrations": [
-        "googleSheets",
-        "executeWorkflowTrigger",
-        "if",
-        "splitInBatches",
         "noOp",
+        "if",
         "stickyNote",
-        "code"
+        "splitInBatches",
+        "googleSheets",
+        "code",
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.922965",
-    "updated_at": "2025-07-07T19:41:48.922966",
+    "created_at": "2025-07-07T19:46:34.537194",
+    "updated_at": "2025-07-07T19:46:34.537195",
     "version": "1.0.0"
   }
 }

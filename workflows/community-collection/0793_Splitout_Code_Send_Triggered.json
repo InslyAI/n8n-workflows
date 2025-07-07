@@ -1526,13 +1526,13 @@
       "department": "",
       "nodes_count": 18,
       "integrations": [
-        "googleSheets",
-        "stickyNote",
-        "if",
-        "merge",
-        "splitOut",
         "gmailTrigger",
+        "splitOut",
+        "if",
+        "stickyNote",
         "gmail",
+        "googleSheets",
+        "merge",
         "code",
         "set"
       ],
@@ -1540,8 +1540,8 @@
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.308743",
-    "updated_at": "2025-07-07T19:41:49.308743",
+    "created_at": "2025-07-07T19:46:35.060426",
+    "updated_at": "2025-07-07T19:46:35.060428",
     "version": "1.0.0"
   }
 }

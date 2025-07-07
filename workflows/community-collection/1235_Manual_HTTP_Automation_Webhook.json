@@ -502,13 +502,13 @@
       "department": "",
       "nodes_count": 16,
       "integrations": [
-        "manualTrigger",
-        "stickyNote",
         "function",
-        "readWriteFile",
-        "httpRequest",
+        "stickyNote",
+        "manualTrigger",
         "gmail",
-        "set"
+        "httpRequest",
+        "set",
+        "readWriteFile"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -527,8 +527,8 @@
         "updatedAt": "2025-04-13T05:38:08.053Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.245687",
-    "updated_at": "2025-07-07T19:41:49.245688",
+    "created_at": "2025-07-07T19:46:34.943218",
+    "updated_at": "2025-07-07T19:46:34.943219",
     "version": "1.0.0"
   }
 }

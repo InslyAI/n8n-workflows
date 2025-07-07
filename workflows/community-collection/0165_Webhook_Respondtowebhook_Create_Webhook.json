@@ -440,23 +440,23 @@
       "department": "",
       "nodes_count": 16,
       "integrations": [
-        "switch",
-        "if",
         "function",
-        "httpRequest",
-        "respondToWebhook",
-        "webhook",
-        "airtable",
+        "if",
+        "switch",
         "crypto",
+        "respondToWebhook",
+        "airtable",
+        "httpRequest",
+        "set",
         "executeWorkflow",
-        "set"
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.465746",
-    "updated_at": "2025-07-07T19:41:49.465747",
+    "created_at": "2025-07-07T19:46:35.242072",
+    "updated_at": "2025-07-07T19:46:35.242073",
     "version": "1.0.0"
   }
 }

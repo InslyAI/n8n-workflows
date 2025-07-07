@@ -1510,22 +1510,22 @@
       "department": "",
       "nodes_count": 48,
       "integrations": [
-        "manualTrigger",
-        "dropbox",
-        "googleDrive",
-        "stickyNote",
-        "hackerNews",
-        "splitInBatches",
-        "wait",
         "if",
+        "hackerNews",
         "s3",
-        "httpRequest",
-        "linkedIn",
-        "limit",
-        "microsoftOneDrive",
+        "manualTrigger",
+        "stickyNote",
         "twitter",
-        "youTube",
-        "set"
+        "splitInBatches",
+        "dropbox",
+        "linkedIn",
+        "googleDrive",
+        "wait",
+        "microsoftOneDrive",
+        "httpRequest",
+        "set",
+        "limit",
+        "youTube"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -1562,8 +1562,8 @@
         "updatedAt": "2024-11-19T15:59:21.368Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.310064",
-    "updated_at": "2025-07-07T19:41:49.310065",
+    "created_at": "2025-07-07T19:46:35.061992",
+    "updated_at": "2025-07-07T19:46:35.061993",
     "version": "1.0.0"
   }
 }

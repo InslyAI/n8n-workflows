@@ -390,11 +390,11 @@
       "nodes_count": 12,
       "integrations": [
         "stickyNote",
+        "telegram",
         "merge",
         "httpRequest",
-        "telegram",
-        "scheduleTrigger",
-        "set"
+        "set",
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -407,8 +407,8 @@
         "updatedAt": "2025-04-18T13:34:41.761Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:48.850106",
-    "updated_at": "2025-07-07T19:41:48.850106",
+    "created_at": "2025-07-07T19:46:34.466547",
+    "updated_at": "2025-07-07T19:46:34.466548",
     "version": "1.0.0"
   }
 }

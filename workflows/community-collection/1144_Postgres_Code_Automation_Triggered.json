@@ -689,21 +689,21 @@
       "department": "",
       "nodes_count": 23,
       "integrations": [
-        "googleSheets",
-        "executeWorkflowTrigger",
         "if",
         "stickyNote",
-        "postgres",
         "googleDriveTrigger",
+        "googleSheets",
         "code",
-        "set"
+        "set",
+        "executeWorkflowTrigger",
+        "postgres"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.916392",
-    "updated_at": "2025-07-07T19:41:48.916393",
+    "created_at": "2025-07-07T19:46:34.530338",
+    "updated_at": "2025-07-07T19:46:34.530338",
     "version": "1.0.0"
   }
 }

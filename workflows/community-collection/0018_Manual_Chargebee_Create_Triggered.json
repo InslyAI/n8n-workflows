@@ -62,15 +62,15 @@
       "department": "",
       "nodes_count": 2,
       "integrations": [
-        "manualTrigger",
-        "chargebee"
+        "chargebee",
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.248993",
-    "updated_at": "2025-07-07T19:41:49.248994",
+    "created_at": "2025-07-07T19:46:34.946379",
+    "updated_at": "2025-07-07T19:46:34.946380",
     "version": "1.0.0"
   }
 }

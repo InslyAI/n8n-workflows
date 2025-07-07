@@ -139,17 +139,17 @@
       "department": "",
       "nodes_count": 4,
       "integrations": [
-        "cron",
-        "httpRequest",
         "set",
-        "mqtt"
+        "mqtt",
+        "cron",
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.615926",
-    "updated_at": "2025-07-07T19:41:49.615927",
+    "created_at": "2025-07-07T19:46:35.403303",
+    "updated_at": "2025-07-07T19:46:35.403304",
     "version": "1.0.0"
   }
 }

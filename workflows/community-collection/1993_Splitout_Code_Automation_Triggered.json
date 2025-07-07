@@ -461,23 +461,23 @@
       "department": "",
       "nodes_count": 15,
       "integrations": [
-        "extractFromFile",
-        "set",
-        "stickyNote",
         "splitOut",
-        "form",
         "convertToFile",
-        "googleTranslate",
+        "form",
         "formTrigger",
+        "stickyNote",
+        "googleTranslate",
+        "aggregate",
+        "extractFromFile",
         "code",
-        "aggregate"
+        "set"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.012113",
-    "updated_at": "2025-07-07T19:41:49.012114",
+    "created_at": "2025-07-07T19:46:34.627871",
+    "updated_at": "2025-07-07T19:46:34.627872",
     "version": "1.0.0"
   }
 }

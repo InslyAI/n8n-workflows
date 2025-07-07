@@ -285,14 +285,14 @@
       "department": "",
       "nodes_count": 9,
       "integrations": [
-        "manualTrigger",
-        "extractFromFile",
-        "stickyNote",
         "splitOut",
-        "httpRequest",
-        "n8n",
+        "stickyNote",
+        "manualTrigger",
         "github",
-        "set"
+        "extractFromFile",
+        "httpRequest",
+        "set",
+        "n8n"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -305,8 +305,8 @@
         "updatedAt": "2025-03-06T09:58:39.214Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.301150",
-    "updated_at": "2025-07-07T19:41:49.301151",
+    "created_at": "2025-07-07T19:46:35.045192",
+    "updated_at": "2025-07-07T19:46:35.045193",
     "version": "1.0.0"
   }
 }

@@ -953,25 +953,25 @@
       "department": "",
       "nodes_count": 29,
       "integrations": [
-        "slack",
-        "webflow",
-        "stickyNote",
-        "merge",
-        "notion",
         "noOp",
+        "stickyNote",
+        "notion",
         "splitInBatches",
+        "webflow",
+        "merge",
+        "slack",
         "compareDatasets",
-        "scheduleTrigger",
-        "filter",
         "code",
-        "set"
+        "set",
+        "scheduleTrigger",
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.838866",
-    "updated_at": "2025-07-07T19:41:48.838867",
+    "created_at": "2025-07-07T19:46:34.455421",
+    "updated_at": "2025-07-07T19:46:34.455421",
     "version": "1.0.0"
   }
 }

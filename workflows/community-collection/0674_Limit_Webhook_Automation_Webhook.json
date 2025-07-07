@@ -1324,25 +1324,25 @@
       "department": "",
       "nodes_count": 40,
       "integrations": [
-        "if",
-        "merge",
-        "stickyNote",
-        "noOp",
-        "httpRequest",
-        "limit",
         "gmailTrigger",
-        "aggregate",
-        "respondToWebhook",
-        "webhook",
+        "if",
+        "noOp",
+        "stickyNote",
         "code",
-        "set"
+        "respondToWebhook",
+        "merge",
+        "aggregate",
+        "httpRequest",
+        "set",
+        "limit",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.354258",
-    "updated_at": "2025-07-07T19:41:49.354259",
+    "created_at": "2025-07-07T19:46:35.117979",
+    "updated_at": "2025-07-07T19:46:35.117980",
     "version": "1.0.0"
   }
 }

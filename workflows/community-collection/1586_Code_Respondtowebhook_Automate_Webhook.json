@@ -189,8 +189,8 @@
       "department": "",
       "nodes_count": 6,
       "integrations": [
-        "respondToWebhook",
         "webhook",
+        "respondToWebhook",
         "code"
       ],
       "estimated_cost": "medium",
@@ -204,8 +204,8 @@
         "updatedAt": "2025-02-22T09:31:58.972Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.334458",
-    "updated_at": "2025-07-07T19:41:49.334459",
+    "created_at": "2025-07-07T19:46:35.093194",
+    "updated_at": "2025-07-07T19:46:35.093195",
     "version": "1.0.0"
   }
 }

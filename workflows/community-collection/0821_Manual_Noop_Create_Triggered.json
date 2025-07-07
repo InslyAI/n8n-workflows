@@ -539,20 +539,20 @@
       "department": "",
       "nodes_count": 17,
       "integrations": [
-        "manualTrigger",
-        "stickyNote",
-        "splitInBatches",
         "noOp",
-        "hubspot",
+        "stickyNote",
+        "manualTrigger",
         "gmail",
-        "set"
+        "splitInBatches",
+        "set",
+        "hubspot"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.049137",
-    "updated_at": "2025-07-07T19:41:49.049138",
+    "created_at": "2025-07-07T19:46:34.670283",
+    "updated_at": "2025-07-07T19:46:34.670284",
     "version": "1.0.0"
   }
 }

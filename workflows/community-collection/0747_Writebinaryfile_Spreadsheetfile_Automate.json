@@ -81,15 +81,15 @@
       "nodes_count": 3,
       "integrations": [
         "spreadsheetFile",
-        "postgres",
-        "writeBinaryFile"
+        "writeBinaryFile",
+        "postgres"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.521915",
-    "updated_at": "2025-07-07T19:41:49.521916",
+    "created_at": "2025-07-07T19:46:35.299454",
+    "updated_at": "2025-07-07T19:46:35.299456",
     "version": "1.0.0"
   }
 }

@@ -93,16 +93,16 @@
       "department": "",
       "nodes_count": 3,
       "integrations": [
-        "cron",
         "openWeatherMap",
-        "line"
+        "line",
+        "cron"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.645474",
-    "updated_at": "2025-07-07T19:41:48.645475",
+    "created_at": "2025-07-07T19:46:34.258899",
+    "updated_at": "2025-07-07T19:46:34.258900",
     "version": "1.0.0"
   }
 }

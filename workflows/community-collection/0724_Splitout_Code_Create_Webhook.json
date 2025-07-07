@@ -325,19 +325,19 @@
       "department": "",
       "nodes_count": 12,
       "integrations": [
-        "notionTrigger",
-        "stickyNote",
         "splitOut",
+        "stickyNote",
         "notion",
-        "httpRequest",
-        "code"
+        "code",
+        "notionTrigger",
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.855051",
-    "updated_at": "2025-07-07T19:41:48.855052",
+    "created_at": "2025-07-07T19:46:34.471480",
+    "updated_at": "2025-07-07T19:46:34.471481",
     "version": "1.0.0"
   }
 }

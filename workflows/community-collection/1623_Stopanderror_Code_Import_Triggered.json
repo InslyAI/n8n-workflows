@@ -515,12 +515,12 @@
       "department": "",
       "nodes_count": 17,
       "integrations": [
-        "manualTrigger",
-        "extractFromFile",
         "if",
-        "stickyNote",
         "github",
+        "manualTrigger",
+        "stickyNote",
         "stopAndError",
+        "extractFromFile",
         "code",
         "set"
       ],
@@ -528,8 +528,8 @@
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.846965",
-    "updated_at": "2025-07-07T19:41:48.846966",
+    "created_at": "2025-07-07T19:46:34.463198",
+    "updated_at": "2025-07-07T19:46:34.463200",
     "version": "1.0.0"
   }
 }

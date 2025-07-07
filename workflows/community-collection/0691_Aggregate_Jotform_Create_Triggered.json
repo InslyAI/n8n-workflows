@@ -534,10 +534,10 @@
       "department": "",
       "nodes_count": 14,
       "integrations": [
-        "stickyNote",
         "splitOut",
-        "if",
         "jotFormTrigger",
+        "if",
+        "stickyNote",
         "merge",
         "aggregate",
         "set"
@@ -546,8 +546,8 @@
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.456260",
-    "updated_at": "2025-07-07T19:41:49.456261",
+    "created_at": "2025-07-07T19:46:35.231774",
+    "updated_at": "2025-07-07T19:46:35.231774",
     "version": "1.0.0"
   }
 }

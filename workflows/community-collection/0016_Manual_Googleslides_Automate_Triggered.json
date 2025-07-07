@@ -88,15 +88,15 @@
       "department": "",
       "nodes_count": 3,
       "integrations": [
-        "manualTrigger",
-        "googleSlides"
+        "googleSlides",
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.474548",
-    "updated_at": "2025-07-07T19:41:49.474549",
+    "created_at": "2025-07-07T19:46:35.252034",
+    "updated_at": "2025-07-07T19:46:35.252038",
     "version": "1.0.0"
   }
 }

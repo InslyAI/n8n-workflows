@@ -580,10 +580,10 @@
       "department": "",
       "nodes_count": 17,
       "integrations": [
+        "stickyNote",
         "manualTrigger",
         "wordpress",
         "googleSheets",
-        "stickyNote",
         "httpRequest",
         "set"
       ],
@@ -591,8 +591,8 @@
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.031170",
-    "updated_at": "2025-07-07T19:41:49.031171",
+    "created_at": "2025-07-07T19:46:34.646834",
+    "updated_at": "2025-07-07T19:46:34.646835",
     "version": "1.0.0"
   }
 }

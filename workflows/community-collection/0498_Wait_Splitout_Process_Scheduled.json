@@ -534,23 +534,23 @@
       "department": "",
       "nodes_count": 12,
       "integrations": [
-        "slack",
-        "stickyNote",
-        "splitInBatches",
         "splitOut",
+        "stickyNote",
+        "code",
+        "splitInBatches",
+        "aggregate",
+        "slack",
         "wait",
         "httpRequest",
-        "postgres",
         "scheduleTrigger",
-        "code",
-        "aggregate"
+        "postgres"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.327435",
-    "updated_at": "2025-07-07T19:41:49.327436",
+    "created_at": "2025-07-07T19:46:35.085253",
+    "updated_at": "2025-07-07T19:46:35.085254",
     "version": "1.0.0"
   }
 }

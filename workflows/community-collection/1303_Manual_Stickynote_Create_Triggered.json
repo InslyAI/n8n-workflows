@@ -346,9 +346,9 @@
       "department": "",
       "nodes_count": 12,
       "integrations": [
-        "manualTrigger",
         "googleDrive",
-        "stickyNote"
+        "stickyNote",
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -367,8 +367,8 @@
         "updatedAt": "2024-12-04T16:52:10.768Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:48.877827",
-    "updated_at": "2025-07-07T19:41:48.877827",
+    "created_at": "2025-07-07T19:46:34.493651",
+    "updated_at": "2025-07-07T19:46:34.493652",
     "version": "1.0.0"
   }
 }

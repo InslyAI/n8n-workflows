@@ -729,19 +729,19 @@
       "department": "",
       "nodes_count": 20,
       "integrations": [
-        "extractFromFile",
-        "slack",
+        "splitOut",
         "if",
+        "stickyNote",
+        "dateTime",
         "mySql",
         "renameKeys",
-        "stickyNote",
-        "splitOut",
         "emailReadImap",
+        "extractFromFile",
+        "slack",
         "xml",
-        "compression",
-        "dateTime",
+        "set",
         "emailSend",
-        "set"
+        "compression"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -754,8 +754,8 @@
         "updatedAt": "2023-12-19T18:45:02.513Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.371267",
-    "updated_at": "2025-07-07T19:41:49.371268",
+    "created_at": "2025-07-07T19:46:35.139631",
+    "updated_at": "2025-07-07T19:46:35.139632",
     "version": "1.0.0"
   }
 }

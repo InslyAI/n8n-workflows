@@ -125,17 +125,17 @@
       "department": "",
       "nodes_count": 4,
       "integrations": [
+        "set",
         "manualTrigger",
-        "httpRequest",
         "n8nTrainingCustomerDatastore",
-        "set"
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.559300",
-    "updated_at": "2025-07-07T19:41:49.559301",
+    "created_at": "2025-07-07T19:46:35.338610",
+    "updated_at": "2025-07-07T19:46:35.338611",
     "version": "1.0.0"
   }
 }

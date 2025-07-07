@@ -1090,25 +1090,25 @@
       "department": "",
       "nodes_count": 39,
       "integrations": [
+        "if",
+        "stickyNote",
+        "switch",
+        "whatsApp",
+        "httpRequest",
+        "merge",
         "erpNext",
         "extractFromFile",
-        "switch",
         "microsoftOutlook",
-        "stickyNote",
-        "if",
-        "merge",
-        "httpRequest",
-        "whatsApp",
-        "webhook",
         "code",
-        "set"
+        "set",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.039012",
-    "updated_at": "2025-07-07T19:41:49.039012",
+    "created_at": "2025-07-07T19:46:34.658628",
+    "updated_at": "2025-07-07T19:46:34.658629",
     "version": "1.0.0"
   }
 }

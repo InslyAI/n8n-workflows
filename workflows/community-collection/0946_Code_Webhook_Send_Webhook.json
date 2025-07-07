@@ -1035,16 +1035,16 @@
       "department": "",
       "nodes_count": 35,
       "integrations": [
-        "switch",
-        "itemLists",
-        "stickyNote",
         "if",
-        "merge",
+        "stickyNote",
+        "switch",
         "httpRequest",
-        "respondToWebhook",
-        "webhook",
         "code",
-        "set"
+        "respondToWebhook",
+        "merge",
+        "itemLists",
+        "set",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -1063,8 +1063,8 @@
         "updatedAt": "2023-10-31T02:15:11.396Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:48.994320",
-    "updated_at": "2025-07-07T19:41:48.994321",
+    "created_at": "2025-07-07T19:46:34.607960",
+    "updated_at": "2025-07-07T19:46:34.607961",
     "version": "1.0.0"
   }
 }

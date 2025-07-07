@@ -458,20 +458,20 @@
       "department": "",
       "nodes_count": 15,
       "integrations": [
-        "manualTrigger",
-        "stickyNote",
         "if",
-        "merge",
-        "reddit",
+        "stickyNote",
+        "manualTrigger",
         "openAi",
-        "set"
+        "merge",
+        "set",
+        "reddit"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.657531",
-    "updated_at": "2025-07-07T19:41:48.657532",
+    "created_at": "2025-07-07T19:46:34.270292",
+    "updated_at": "2025-07-07T19:46:34.270293",
     "version": "1.0.0"
   }
 }

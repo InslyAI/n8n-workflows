@@ -59,15 +59,15 @@
       "department": "",
       "nodes_count": 2,
       "integrations": [
-        "manualTrigger",
-        "msg91"
+        "msg91",
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.483219",
-    "updated_at": "2025-07-07T19:41:49.483219",
+    "created_at": "2025-07-07T19:46:35.260930",
+    "updated_at": "2025-07-07T19:46:35.260931",
     "version": "1.0.0"
   }
 }

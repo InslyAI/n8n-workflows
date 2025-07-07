@@ -757,22 +757,22 @@
       "department": "",
       "nodes_count": 20,
       "integrations": [
-        "manualTrigger",
-        "stickyNote",
         "splitOut",
-        "httpRequest",
-        "limit",
-        "airtable",
-        "filter",
+        "stickyNote",
+        "manualTrigger",
         "code",
-        "set"
+        "airtable",
+        "httpRequest",
+        "set",
+        "limit",
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.105523",
-    "updated_at": "2025-07-07T19:41:49.105524",
+    "created_at": "2025-07-07T19:46:34.785195",
+    "updated_at": "2025-07-07T19:46:34.785196",
     "version": "1.0.0"
   }
 }

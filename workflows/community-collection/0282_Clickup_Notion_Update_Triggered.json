@@ -192,17 +192,17 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
+        "clickUp",
         "notionTrigger",
-        "clickUpTrigger",
         "notion",
-        "clickUp"
+        "clickUpTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.425607",
-    "updated_at": "2025-07-07T19:41:49.425608",
+    "created_at": "2025-07-07T19:46:35.198753",
+    "updated_at": "2025-07-07T19:46:35.198754",
     "version": "1.0.0"
   }
 }

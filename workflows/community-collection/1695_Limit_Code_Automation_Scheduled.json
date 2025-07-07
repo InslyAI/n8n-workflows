@@ -760,24 +760,24 @@
       "department": "",
       "nodes_count": 24,
       "integrations": [
-        "slack",
         "if",
-        "splitInBatches",
-        "stickyNote",
-        "rssFeedRead",
-        "limit",
         "scheduleTrigger",
+        "stickyNote",
         "redis",
         "dateTime",
+        "splitInBatches",
+        "slack",
         "code",
-        "set"
+        "set",
+        "limit",
+        "rssFeedRead"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.598961",
-    "updated_at": "2025-07-07T19:41:49.598962",
+    "created_at": "2025-07-07T19:46:35.383832",
+    "updated_at": "2025-07-07T19:46:35.383833",
     "version": "1.0.0"
   }
 }

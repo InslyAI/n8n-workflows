@@ -469,21 +469,21 @@
       "department": "",
       "nodes_count": 18,
       "integrations": [
-        "stickyNote",
-        "if",
-        "twilioTrigger",
-        "noOp",
-        "wait",
-        "redis",
         "twilio",
+        "noOp",
+        "if",
+        "stickyNote",
+        "redis",
+        "twilioTrigger",
+        "wait",
         "set"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.995114",
-    "updated_at": "2025-07-07T19:41:48.995115",
+    "created_at": "2025-07-07T19:46:34.608801",
+    "updated_at": "2025-07-07T19:46:34.608802",
     "version": "1.0.0"
   }
 }

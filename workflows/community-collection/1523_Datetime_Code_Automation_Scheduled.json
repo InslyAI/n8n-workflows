@@ -328,22 +328,22 @@
       "department": "",
       "nodes_count": 10,
       "integrations": [
-        "manualTrigger",
-        "slack",
-        "stickyNote",
         "if",
-        "scheduleTrigger",
+        "stickyNote",
+        "manualTrigger",
         "dateTime",
+        "slack",
         "code",
-        "emailSend",
-        "set"
+        "set",
+        "scheduleTrigger",
+        "emailSend"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.049675",
-    "updated_at": "2025-07-07T19:41:49.049676",
+    "created_at": "2025-07-07T19:46:34.670720",
+    "updated_at": "2025-07-07T19:46:34.670721",
     "version": "1.0.0"
   }
 }

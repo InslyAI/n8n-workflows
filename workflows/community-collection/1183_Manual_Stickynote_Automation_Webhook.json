@@ -490,9 +490,9 @@
       "department": "",
       "nodes_count": 18,
       "integrations": [
-        "manualTrigger",
+        "set",
         "stickyNote",
-        "set"
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -517,8 +517,8 @@
         "updatedAt": "2025-04-13T05:38:08.053Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:48.902191",
-    "updated_at": "2025-07-07T19:41:48.902192",
+    "created_at": "2025-07-07T19:46:34.515969",
+    "updated_at": "2025-07-07T19:46:34.515970",
     "version": "1.0.0"
   }
 }

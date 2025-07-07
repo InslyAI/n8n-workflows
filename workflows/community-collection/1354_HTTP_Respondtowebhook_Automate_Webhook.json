@@ -722,14 +722,14 @@
       "department": "",
       "nodes_count": 13,
       "integrations": [
-        "switch",
-        "if",
         "function",
+        "if",
         "noOp",
-        "httpRequest",
+        "switch",
         "respondToWebhook",
-        "webhook",
-        "set"
+        "httpRequest",
+        "set",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -754,8 +754,8 @@
         "updatedAt": "2025-01-04T16:12:36.757Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:48.737730",
-    "updated_at": "2025-07-07T19:41:48.737731",
+    "created_at": "2025-07-07T19:46:34.358774",
+    "updated_at": "2025-07-07T19:46:34.358774",
     "version": "1.0.0"
   }
 }

@@ -318,18 +318,18 @@
       "department": "",
       "nodes_count": 12,
       "integrations": [
-        "executeWorkflowTrigger",
-        "stickyNote",
         "hackerNews",
+        "stickyNote",
         "code",
-        "set"
+        "set",
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.705946",
-    "updated_at": "2025-07-07T19:41:48.705946",
+    "created_at": "2025-07-07T19:46:34.328479",
+    "updated_at": "2025-07-07T19:46:34.328480",
     "version": "1.0.0"
   }
 }

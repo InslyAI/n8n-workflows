@@ -565,23 +565,23 @@
       "department": "",
       "nodes_count": 19,
       "integrations": [
-        "stickyNote",
         "if",
-        "itemLists",
+        "stickyNote",
         "httpRequest",
-        "filter",
-        "scheduleTrigger",
-        "todoist",
         "crypto",
         "dateTime",
-        "set"
+        "itemLists",
+        "set",
+        "scheduleTrigger",
+        "filter",
+        "todoist"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.608331",
-    "updated_at": "2025-07-07T19:41:49.608331",
+    "created_at": "2025-07-07T19:46:35.394164",
+    "updated_at": "2025-07-07T19:46:35.394165",
     "version": "1.0.0"
   }
 }

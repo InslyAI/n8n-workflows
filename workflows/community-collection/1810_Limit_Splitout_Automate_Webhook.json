@@ -1191,25 +1191,25 @@
       "department": "",
       "nodes_count": 43,
       "integrations": [
-        "set",
-        "executeWorkflowTrigger",
+        "splitOut",
+        "sort",
+        "convertToFile",
         "stickyNote",
         "readWriteFile",
         "merge",
-        "splitOut",
+        "aggregate",
         "httpRequest",
+        "set",
         "limit",
-        "convertToFile",
         "filter",
-        "sort",
-        "aggregate"
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.412987",
-    "updated_at": "2025-07-07T19:41:49.412988",
+    "created_at": "2025-07-07T19:46:35.184718",
+    "updated_at": "2025-07-07T19:46:35.184719",
     "version": "1.0.0"
   }
 }

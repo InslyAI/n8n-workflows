@@ -808,26 +808,26 @@
       "department": "",
       "nodes_count": 24,
       "integrations": [
-        "set",
-        "graphql",
-        "splitInBatches",
-        "notion",
         "if",
         "stickyNote",
+        "notion",
+        "graphql",
         "httpRequest",
-        "respondToWebhook",
         "formTrigger",
-        "filter",
-        "code",
+        "respondToWebhook",
+        "splitInBatches",
+        "linear",
         "aggregate",
-        "linear"
+        "code",
+        "set",
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.010117",
-    "updated_at": "2025-07-07T19:41:49.010118",
+    "created_at": "2025-07-07T19:46:34.626074",
+    "updated_at": "2025-07-07T19:46:34.626075",
     "version": "1.0.0"
   }
 }

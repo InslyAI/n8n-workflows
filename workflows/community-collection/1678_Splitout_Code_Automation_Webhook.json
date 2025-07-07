@@ -1284,25 +1284,25 @@
       "department": "",
       "nodes_count": 42,
       "integrations": [
-        "manualTrigger",
-        "googleSheets",
-        "executeWorkflowTrigger",
-        "stickyNote",
         "splitOut",
-        "splitInBatches",
         "if",
+        "stickyNote",
+        "manualTrigger",
+        "code",
+        "splitInBatches",
+        "googleSheets",
         "httpRequest",
+        "set",
         "executeWorkflow",
         "filter",
-        "code",
-        "set"
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.163165",
-    "updated_at": "2025-07-07T19:41:49.163165",
+    "created_at": "2025-07-07T19:46:34.856204",
+    "updated_at": "2025-07-07T19:46:34.856205",
     "version": "1.0.0"
   }
 }

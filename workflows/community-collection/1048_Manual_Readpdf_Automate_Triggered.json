@@ -72,16 +72,16 @@
       "department": "",
       "nodes_count": 3,
       "integrations": [
-        "readPDF",
+        "readBinaryFile",
         "manualTrigger",
-        "readBinaryFile"
+        "readPDF"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.210342",
-    "updated_at": "2025-07-07T19:41:49.210344",
+    "created_at": "2025-07-07T19:46:34.910995",
+    "updated_at": "2025-07-07T19:46:34.910997",
     "version": "1.0.0"
   }
 }

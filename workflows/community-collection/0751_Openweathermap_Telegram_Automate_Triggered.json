@@ -93,16 +93,16 @@
       "department": "",
       "nodes_count": 3,
       "integrations": [
-        "telegramTrigger",
+        "openWeatherMap",
         "telegram",
-        "openWeatherMap"
+        "telegramTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.615314",
-    "updated_at": "2025-07-07T19:41:49.615315",
+    "created_at": "2025-07-07T19:46:35.402625",
+    "updated_at": "2025-07-07T19:46:35.402626",
     "version": "1.0.0"
   }
 }

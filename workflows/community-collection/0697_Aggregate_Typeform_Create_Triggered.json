@@ -520,20 +520,20 @@
       "department": "",
       "nodes_count": 14,
       "integrations": [
-        "stickyNote",
-        "merge",
         "splitOut",
         "if",
-        "aggregate",
+        "stickyNote",
         "typeformTrigger",
+        "merge",
+        "aggregate",
         "set"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.402931",
-    "updated_at": "2025-07-07T19:41:49.402931",
+    "created_at": "2025-07-07T19:46:35.175077",
+    "updated_at": "2025-07-07T19:46:35.175079",
     "version": "1.0.0"
   }
 }

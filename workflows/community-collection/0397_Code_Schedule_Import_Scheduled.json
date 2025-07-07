@@ -656,21 +656,21 @@
       "department": "",
       "nodes_count": 13,
       "integrations": [
-        "googleSheets",
         "itemLists",
-        "merge",
         "stickyNote",
-        "httpRequest",
-        "scheduleTrigger",
         "code",
-        "set"
+        "googleSheets",
+        "merge",
+        "httpRequest",
+        "set",
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.822577",
-    "updated_at": "2025-07-07T19:41:48.822578",
+    "created_at": "2025-07-07T19:46:34.440830",
+    "updated_at": "2025-07-07T19:46:34.440831",
     "version": "1.0.0"
   }
 }

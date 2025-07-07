@@ -57,15 +57,15 @@
       "department": "",
       "nodes_count": 2,
       "integrations": [
-        "manualTrigger",
-        "signl4"
+        "signl4",
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.343036",
-    "updated_at": "2025-07-07T19:41:49.343036",
+    "created_at": "2025-07-07T19:46:35.104598",
+    "updated_at": "2025-07-07T19:46:35.104599",
     "version": "1.0.0"
   }
 }

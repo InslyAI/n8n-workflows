@@ -781,13 +781,13 @@
       "department": "",
       "nodes_count": 8,
       "integrations": [
+        "splitOut",
+        "stickyNote",
         "manualTrigger",
         "googleSheets",
-        "stickyNote",
-        "splitOut",
         "httpRequest",
-        "scheduleTrigger",
-        "set"
+        "set",
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -800,8 +800,8 @@
         "updatedAt": "2025-03-06T05:49:51.612Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:48.978129",
-    "updated_at": "2025-07-07T19:41:48.978130",
+    "created_at": "2025-07-07T19:46:34.592073",
+    "updated_at": "2025-07-07T19:46:34.592074",
     "version": "1.0.0"
   }
 }

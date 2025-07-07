@@ -55,15 +55,15 @@
       "department": "",
       "nodes_count": 2,
       "integrations": [
-        "manualTrigger",
-        "microsoftExcel"
+        "microsoftExcel",
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.270450",
-    "updated_at": "2025-07-07T19:41:49.270451",
+    "created_at": "2025-07-07T19:46:34.970056",
+    "updated_at": "2025-07-07T19:46:34.970058",
     "version": "1.0.0"
   }
 }

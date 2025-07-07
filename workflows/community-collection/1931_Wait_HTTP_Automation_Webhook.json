@@ -392,20 +392,20 @@
       "department": "",
       "nodes_count": 12,
       "integrations": [
-        "manualTrigger",
-        "googleDrive",
-        "stickyNote",
         "if",
+        "stickyNote",
+        "manualTrigger",
+        "set",
         "wait",
         "httpRequest",
-        "set"
+        "googleDrive"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.480176",
-    "updated_at": "2025-07-07T19:41:49.480177",
+    "created_at": "2025-07-07T19:46:35.257715",
+    "updated_at": "2025-07-07T19:46:35.257715",
     "version": "1.0.0"
   }
 }

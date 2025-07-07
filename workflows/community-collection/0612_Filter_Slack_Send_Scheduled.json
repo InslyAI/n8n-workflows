@@ -672,20 +672,20 @@
       "department": "",
       "nodes_count": 24,
       "integrations": [
-        "slack",
+        "cron",
+        "notion",
         "switch",
         "stickyNote",
-        "notion",
-        "cron",
-        "filter",
-        "set"
+        "slack",
+        "set",
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.020364",
-    "updated_at": "2025-07-07T19:41:49.020365",
+    "created_at": "2025-07-07T19:46:34.636585",
+    "updated_at": "2025-07-07T19:46:34.636586",
     "version": "1.0.0"
   }
 }

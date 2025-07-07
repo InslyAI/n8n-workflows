@@ -123,16 +123,16 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
+        "set",
         "webhook",
-        "stickyNote",
-        "set"
+        "stickyNote"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.590816",
-    "updated_at": "2025-07-07T19:41:49.590817",
+    "created_at": "2025-07-07T19:46:35.373534",
+    "updated_at": "2025-07-07T19:46:35.373535",
     "version": "1.0.0"
   }
 }

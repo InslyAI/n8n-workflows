@@ -1548,25 +1548,25 @@
       "department": "",
       "nodes_count": 32,
       "integrations": [
-        "executeWorkflowTrigger",
         "stickyNote",
-        "editImage",
-        "airtable",
-        "executionData",
-        "scheduleTrigger",
-        "executeWorkflow",
         "formTrigger",
         "gmail",
-        "filter",
+        "airtable",
+        "executionData",
         "code",
-        "set"
+        "set",
+        "scheduleTrigger",
+        "editImage",
+        "executeWorkflow",
+        "filter",
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.806393",
-    "updated_at": "2025-07-07T19:41:48.806394",
+    "created_at": "2025-07-07T19:46:34.423826",
+    "updated_at": "2025-07-07T19:46:34.423827",
     "version": "1.0.0"
   }
 }

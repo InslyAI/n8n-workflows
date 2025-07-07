@@ -208,19 +208,19 @@
       "department": "",
       "nodes_count": 6,
       "integrations": [
-        "manualTrigger",
         "if",
+        "cron",
+        "manualTrigger",
         "googleCalendar",
         "zoom",
-        "cron",
         "dateTime"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.250844",
-    "updated_at": "2025-07-07T19:41:49.250845",
+    "created_at": "2025-07-07T19:46:34.948417",
+    "updated_at": "2025-07-07T19:46:34.948419",
     "version": "1.0.0"
   }
 }

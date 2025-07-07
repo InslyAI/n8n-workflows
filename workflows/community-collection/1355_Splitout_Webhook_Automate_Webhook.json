@@ -1232,20 +1232,20 @@
       "department": "",
       "nodes_count": 34,
       "integrations": [
-        "switch",
-        "executeWorkflowTrigger",
-        "if",
         "function",
-        "noOp",
-        "merge",
         "splitOut",
+        "if",
+        "noOp",
+        "switch",
         "stickyNote",
-        "httpRequest",
         "respondToWebhook",
-        "webhook",
+        "merge",
+        "httpRequest",
+        "set",
         "executeWorkflow",
+        "webhook",
         "filter",
-        "set"
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -1276,8 +1276,8 @@
         "updatedAt": "2025-02-17T08:43:26.424Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:48.710164",
-    "updated_at": "2025-07-07T19:41:48.710165",
+    "created_at": "2025-07-07T19:46:34.332328",
+    "updated_at": "2025-07-07T19:46:34.332329",
     "version": "1.0.0"
   }
 }

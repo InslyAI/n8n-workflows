@@ -190,16 +190,16 @@
       "department": "",
       "nodes_count": 6,
       "integrations": [
+        "set",
         "strapi",
-        "manualTrigger",
-        "set"
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.091099",
-    "updated_at": "2025-07-07T19:41:49.091100",
+    "created_at": "2025-07-07T19:46:34.756428",
+    "updated_at": "2025-07-07T19:46:34.756432",
     "version": "1.0.0"
   }
 }

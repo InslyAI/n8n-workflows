@@ -95,16 +95,16 @@
       "department": "",
       "nodes_count": 4,
       "integrations": [
+        "errorTrigger",
         "gmail",
-        "stickyNote",
-        "errorTrigger"
+        "stickyNote"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.019257",
-    "updated_at": "2025-07-07T19:41:49.019257",
+    "created_at": "2025-07-07T19:46:34.635339",
+    "updated_at": "2025-07-07T19:46:34.635340",
     "version": "1.0.0"
   }
 }

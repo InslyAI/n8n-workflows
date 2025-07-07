@@ -520,23 +520,23 @@
       "department": "",
       "nodes_count": 13,
       "integrations": [
-        "googleDrive",
-        "if",
+        "gmailTrigger",
         "splitOut",
+        "if",
         "noOp",
         "stickyNote",
-        "httpRequest",
         "html",
-        "gmailTrigger",
-        "filter",
-        "set"
+        "googleDrive",
+        "httpRequest",
+        "set",
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.124529",
-    "updated_at": "2025-07-07T19:41:49.124529",
+    "created_at": "2025-07-07T19:46:34.811907",
+    "updated_at": "2025-07-07T19:46:34.811908",
     "version": "1.0.0"
   }
 }

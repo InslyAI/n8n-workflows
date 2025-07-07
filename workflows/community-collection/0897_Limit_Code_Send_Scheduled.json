@@ -781,27 +781,27 @@
       "department": "",
       "nodes_count": 29,
       "integrations": [
-        "googleDrive",
-        "executeWorkflowTrigger",
         "if",
-        "splitInBatches",
         "stickyNote",
-        "limit",
-        "n8n",
+        "gmail",
+        "discord",
+        "splitInBatches",
+        "set",
         "executionData",
+        "executeWorkflowTrigger",
+        "code",
+        "googleDrive",
         "scheduleTrigger",
         "executeWorkflow",
-        "discord",
-        "gmail",
-        "code",
-        "set"
+        "n8n",
+        "limit"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.356837",
-    "updated_at": "2025-07-07T19:41:49.356837",
+    "created_at": "2025-07-07T19:46:35.121178",
+    "updated_at": "2025-07-07T19:46:35.121179",
     "version": "1.0.0"
   }
 }

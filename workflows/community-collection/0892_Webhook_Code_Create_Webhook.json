@@ -675,25 +675,25 @@
       "department": "",
       "nodes_count": 20,
       "integrations": [
-        "googleDrive",
-        "if",
-        "merge",
         "noOp",
-        "readPDF",
+        "if",
         "stickyNote",
-        "respondToWebhook",
-        "webhook",
         "gmail",
-        "filter",
+        "respondToWebhook",
+        "merge",
+        "googleDrive",
         "code",
-        "set"
+        "set",
+        "webhook",
+        "filter",
+        "readPDF"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.170536",
-    "updated_at": "2025-07-07T19:41:49.170537",
+    "created_at": "2025-07-07T19:46:34.864154",
+    "updated_at": "2025-07-07T19:46:34.864155",
     "version": "1.0.0"
   }
 }

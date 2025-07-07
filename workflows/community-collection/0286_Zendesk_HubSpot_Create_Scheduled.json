@@ -454,19 +454,19 @@
       "nodes_count": 13,
       "integrations": [
         "if",
-        "merge",
-        "hubspot",
-        "zendesk",
-        "functionItem",
         "cron",
-        "set"
+        "merge",
+        "zendesk",
+        "set",
+        "hubspot",
+        "functionItem"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.959848",
-    "updated_at": "2025-07-07T19:41:48.959849",
+    "created_at": "2025-07-07T19:46:34.573991",
+    "updated_at": "2025-07-07T19:46:34.573991",
     "version": "1.0.0"
   }
 }

@@ -456,22 +456,22 @@
       "department": "",
       "nodes_count": 15,
       "integrations": [
-        "slack",
-        "stickyNote",
         "splitOut",
+        "stickyNote",
         "httpRequest",
-        "scheduleTrigger",
-        "filter",
+        "slack",
         "code",
+        "set",
+        "scheduleTrigger",
         "emailSend",
-        "set"
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.174367",
-    "updated_at": "2025-07-07T19:41:49.174368",
+    "created_at": "2025-07-07T19:46:34.870237",
+    "updated_at": "2025-07-07T19:46:34.870239",
     "version": "1.0.0"
   }
 }

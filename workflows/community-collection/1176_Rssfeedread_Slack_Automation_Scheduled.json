@@ -180,19 +180,19 @@
       "department": "",
       "nodes_count": 6,
       "integrations": [
-        "slack",
-        "if",
         "function",
-        "dateTime",
+        "if",
         "cron",
+        "dateTime",
+        "slack",
         "rssFeedRead"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.551469",
-    "updated_at": "2025-07-07T19:41:49.551470",
+    "created_at": "2025-07-07T19:46:35.329981",
+    "updated_at": "2025-07-07T19:46:35.329982",
     "version": "1.0.0"
   }
 }

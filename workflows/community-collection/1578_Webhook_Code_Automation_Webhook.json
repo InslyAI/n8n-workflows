@@ -805,22 +805,22 @@
       "department": "",
       "nodes_count": 23,
       "integrations": [
-        "googleSheets",
-        "set",
         "stickyNote",
-        "merge",
-        "httpRequest",
-        "respondToWebhook",
-        "webhook",
         "code",
-        "aggregate"
+        "respondToWebhook",
+        "googleSheets",
+        "merge",
+        "aggregate",
+        "httpRequest",
+        "set",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.775484",
-    "updated_at": "2025-07-07T19:41:48.775485",
+    "created_at": "2025-07-07T19:46:34.393051",
+    "updated_at": "2025-07-07T19:46:34.393052",
     "version": "1.0.0"
   }
 }

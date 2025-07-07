@@ -395,21 +395,21 @@
       "department": "",
       "nodes_count": 13,
       "integrations": [
-        "manualTrigger",
-        "writeBinaryFile",
         "itemLists",
-        "mySql",
-        "moveBinaryData",
         "stickyNote",
+        "manualTrigger",
+        "moveBinaryData",
+        "mySql",
         "xml",
-        "set"
+        "set",
+        "writeBinaryFile"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.488666",
-    "updated_at": "2025-07-07T19:41:49.488667",
+    "created_at": "2025-07-07T19:46:35.266677",
+    "updated_at": "2025-07-07T19:46:35.266678",
     "version": "1.0.0"
   }
 }

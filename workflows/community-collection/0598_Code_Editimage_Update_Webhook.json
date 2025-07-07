@@ -402,20 +402,20 @@
       "department": "",
       "nodes_count": 16,
       "integrations": [
-        "manualTrigger",
         "stickyNote",
-        "editImage",
+        "manualTrigger",
+        "code",
         "merge",
         "httpRequest",
-        "code",
-        "set"
+        "set",
+        "editImage"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.737233",
-    "updated_at": "2025-07-07T19:41:48.737234",
+    "created_at": "2025-07-07T19:46:34.358274",
+    "updated_at": "2025-07-07T19:46:34.358274",
     "version": "1.0.0"
   }
 }

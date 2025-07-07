@@ -722,22 +722,22 @@
       "department": "",
       "nodes_count": 23,
       "integrations": [
-        "googleDocsTool",
-        "switch",
-        "stickyNote",
         "if",
-        "merge",
-        "googleDocs",
+        "stickyNote",
+        "switch",
         "telegram",
+        "merge",
+        "set",
+        "googleDocsTool",
         "webhook",
-        "set"
+        "googleDocs"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.189797",
-    "updated_at": "2025-07-07T19:41:49.189798",
+    "created_at": "2025-07-07T19:46:34.886652",
+    "updated_at": "2025-07-07T19:46:34.886653",
     "version": "1.0.0"
   }
 }

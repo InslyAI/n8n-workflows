@@ -1174,14 +1174,14 @@
       "department": "",
       "nodes_count": 46,
       "integrations": [
-        "stickyNote",
-        "merge",
         "noOp",
+        "stickyNote",
         "httpRequest",
-        "postgres",
-        "scheduleTrigger",
+        "merge",
         "code",
-        "set"
+        "set",
+        "scheduleTrigger",
+        "postgres"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -1194,8 +1194,8 @@
         "updatedAt": "2025-02-26T04:04:38.319Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.047285",
-    "updated_at": "2025-07-07T19:41:49.047285",
+    "created_at": "2025-07-07T19:46:34.668377",
+    "updated_at": "2025-07-07T19:46:34.668378",
     "version": "1.0.0"
   }
 }

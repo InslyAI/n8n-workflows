@@ -561,21 +561,21 @@
       "department": "",
       "nodes_count": 18,
       "integrations": [
-        "executeWorkflowTrigger",
-        "stickyNote",
         "splitOut",
+        "stickyNote",
         "googleCalendarTool",
-        "httpRequest",
         "airtable",
+        "httpRequest",
+        "gmailTool",
         "webhook",
-        "gmailTool"
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.232596",
-    "updated_at": "2025-07-07T19:41:49.232597",
+    "created_at": "2025-07-07T19:46:34.929581",
+    "updated_at": "2025-07-07T19:46:34.929582",
     "version": "1.0.0"
   }
 }

@@ -749,22 +749,22 @@
       "department": "",
       "nodes_count": 25,
       "integrations": [
-        "executeWorkflowTrigger",
         "if",
-        "stickyNote",
         "form",
-        "googleCalendar",
+        "stickyNote",
         "formTrigger",
-        "executeWorkflow",
+        "googleCalendar",
         "gmail",
-        "set"
+        "set",
+        "executeWorkflow",
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.423896",
-    "updated_at": "2025-07-07T19:41:49.423897",
+    "created_at": "2025-07-07T19:46:35.196674",
+    "updated_at": "2025-07-07T19:46:35.196675",
     "version": "1.0.0"
   }
 }

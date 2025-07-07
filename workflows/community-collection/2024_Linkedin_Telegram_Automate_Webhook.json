@@ -576,22 +576,22 @@
       "department": "",
       "nodes_count": 15,
       "integrations": [
-        "stickyNote",
         "if",
-        "linkedIn",
+        "stickyNote",
         "httpRequest",
         "telegram",
         "airtable",
+        "linkedIn",
+        "code",
         "scheduleTrigger",
-        "filter",
-        "code"
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.183926",
-    "updated_at": "2025-07-07T19:41:49.183927",
+    "created_at": "2025-07-07T19:46:34.880278",
+    "updated_at": "2025-07-07T19:46:34.880279",
     "version": "1.0.0"
   }
 }

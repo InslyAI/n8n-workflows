@@ -799,22 +799,22 @@
       "department": "",
       "nodes_count": 25,
       "integrations": [
-        "manualTrigger",
         "if",
-        "merge",
         "noOp",
         "stickyNote",
+        "manualTrigger",
+        "gmail",
         "emailReadImap",
+        "merge",
         "scheduleTrigger",
-        "todoist",
-        "gmail"
+        "todoist"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.581875",
-    "updated_at": "2025-07-07T19:41:49.581876",
+    "created_at": "2025-07-07T19:46:35.363664",
+    "updated_at": "2025-07-07T19:46:35.363665",
     "version": "1.0.0"
   }
 }

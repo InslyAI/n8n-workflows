@@ -945,24 +945,24 @@
       "department": "",
       "nodes_count": 27,
       "integrations": [
-        "manualTrigger",
-        "slack",
-        "set",
-        "stickyNote",
-        "if",
         "noOp",
-        "nocoDb",
-        "scheduleTrigger",
+        "if",
+        "stickyNote",
+        "manualTrigger",
         "formTrigger",
+        "aggregate",
+        "slack",
+        "nocoDb",
         "emailSend",
-        "aggregate"
+        "set",
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.440637",
-    "updated_at": "2025-07-07T19:41:49.440637",
+    "created_at": "2025-07-07T19:46:35.215019",
+    "updated_at": "2025-07-07T19:46:35.215020",
     "version": "1.0.0"
   }
 }

@@ -1203,22 +1203,22 @@
       "department": "",
       "nodes_count": 29,
       "integrations": [
-        "googleSheets",
         "if",
         "stickyNote",
-        "httpRequest",
-        "respondToWebhook",
-        "webhook",
         "formTrigger",
+        "respondToWebhook",
+        "googleSheets",
         "emailSend",
-        "set"
+        "httpRequest",
+        "set",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.113111",
-    "updated_at": "2025-07-07T19:41:49.113111",
+    "created_at": "2025-07-07T19:46:34.796281",
+    "updated_at": "2025-07-07T19:46:34.796284",
     "version": "1.0.0"
   }
 }

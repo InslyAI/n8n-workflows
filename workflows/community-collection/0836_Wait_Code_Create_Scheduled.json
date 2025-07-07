@@ -765,22 +765,22 @@
       "department": "",
       "nodes_count": 23,
       "integrations": [
-        "googleSheets",
         "stickyNote",
         "splitInBatches",
+        "googleSheets",
         "wait",
+        "code",
+        "set",
         "scheduleTrigger",
         "rssFeedRead",
-        "code",
-        "markdown",
-        "set"
+        "markdown"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.076200",
-    "updated_at": "2025-07-07T19:41:49.076201",
+    "created_at": "2025-07-07T19:46:34.704895",
+    "updated_at": "2025-07-07T19:46:34.704897",
     "version": "1.0.0"
   }
 }

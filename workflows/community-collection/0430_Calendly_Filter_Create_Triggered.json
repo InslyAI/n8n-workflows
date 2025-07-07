@@ -588,19 +588,19 @@
       "nodes_count": 16,
       "integrations": [
         "clearbit",
-        "stickyNote",
-        "if",
         "noOp",
-        "hubspot",
+        "if",
+        "stickyNote",
         "calendlyTrigger",
+        "hubspot",
         "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.003078",
-    "updated_at": "2025-07-07T19:41:49.003079",
+    "created_at": "2025-07-07T19:46:34.617943",
+    "updated_at": "2025-07-07T19:46:34.617944",
     "version": "1.0.0"
   }
 }

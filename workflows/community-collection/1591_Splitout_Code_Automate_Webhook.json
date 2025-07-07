@@ -1227,29 +1227,29 @@
       "department": "",
       "nodes_count": 40,
       "integrations": [
-        "if",
-        "splitInBatches",
         "splitOut",
-        "merge",
+        "if",
         "stickyNote",
         "httpRequest",
-        "quickChart",
-        "aggregate",
-        "n8n",
-        "webhook",
-        "scheduleTrigger",
         "respondToWebhook",
-        "filter",
-        "code",
+        "splitInBatches",
+        "merge",
+        "aggregate",
+        "quickChart",
         "n8nTrigger",
-        "set"
+        "code",
+        "set",
+        "scheduleTrigger",
+        "webhook",
+        "filter",
+        "n8n"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.812916",
-    "updated_at": "2025-07-07T19:41:48.812917",
+    "created_at": "2025-07-07T19:46:34.429531",
+    "updated_at": "2025-07-07T19:46:34.429532",
     "version": "1.0.0"
   }
 }

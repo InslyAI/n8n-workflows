@@ -451,20 +451,20 @@
       "department": "",
       "nodes_count": 15,
       "integrations": [
-        "executeWorkflowTrigger",
-        "stickyNote",
         "if",
+        "stickyNote",
         "merge",
-        "summarize",
         "code",
-        "set"
+        "set",
+        "summarize",
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.307796",
-    "updated_at": "2025-07-07T19:41:49.307796",
+    "created_at": "2025-07-07T19:46:35.058668",
+    "updated_at": "2025-07-07T19:46:35.058669",
     "version": "1.0.0"
   }
 }

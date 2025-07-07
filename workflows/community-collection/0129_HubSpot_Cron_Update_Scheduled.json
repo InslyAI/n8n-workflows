@@ -215,16 +215,16 @@
       "nodes_count": 7,
       "integrations": [
         "hubspot",
-        "cron",
         "pipedrive",
+        "cron",
         "merge"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.079435",
-    "updated_at": "2025-07-07T19:41:49.079436",
+    "created_at": "2025-07-07T19:46:34.719715",
+    "updated_at": "2025-07-07T19:46:34.719722",
     "version": "1.0.0"
   }
 }

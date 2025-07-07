@@ -512,13 +512,13 @@
       "department": "",
       "nodes_count": 13,
       "integrations": [
-        "manualTrigger",
-        "slack",
-        "moveBinaryData",
         "if",
         "stickyNote",
-        "emailReadImap",
+        "manualTrigger",
         "httpRequest",
+        "moveBinaryData",
+        "emailReadImap",
+        "slack",
         "code",
         "set"
       ],
@@ -539,8 +539,8 @@
         "updatedAt": "2023-10-31T02:15:11.396Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:48.636380",
-    "updated_at": "2025-07-07T19:41:48.636381",
+    "created_at": "2025-07-07T19:46:34.249826",
+    "updated_at": "2025-07-07T19:46:34.249828",
     "version": "1.0.0"
   }
 }

@@ -144,16 +144,16 @@
       "nodes_count": 5,
       "integrations": [
         "openAi",
+        "if",
         "twitter",
-        "googleSheets",
-        "if"
+        "googleSheets"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.115569",
-    "updated_at": "2025-07-07T19:41:49.115570",
+    "created_at": "2025-07-07T19:46:34.799509",
+    "updated_at": "2025-07-07T19:46:34.799511",
     "version": "1.0.0"
   }
 }

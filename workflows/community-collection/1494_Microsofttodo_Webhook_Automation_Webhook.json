@@ -1366,14 +1366,14 @@
       "department": "",
       "nodes_count": 45,
       "integrations": [
-        "switch",
-        "stickyNote",
-        "microsoftToDo",
         "if",
-        "httpRequest",
+        "stickyNote",
+        "switch",
         "microsoftOneDrive",
+        "httpRequest",
+        "microsoftTeams",
         "webhook",
-        "microsoftTeams"
+        "microsoftToDo"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -1404,8 +1404,8 @@
         "updatedAt": "2025-03-12T06:24:40.268Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.160793",
-    "updated_at": "2025-07-07T19:41:49.160794",
+    "created_at": "2025-07-07T19:46:34.853368",
+    "updated_at": "2025-07-07T19:46:34.853373",
     "version": "1.0.0"
   }
 }

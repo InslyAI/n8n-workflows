@@ -572,20 +572,20 @@
       "nodes_count": 17,
       "integrations": [
         "if",
+        "cron",
+        "zendesk",
         "merge",
         "httpRequest",
-        "zendesk",
-        "functionItem",
-        "cron",
+        "set",
         "pipedrive",
-        "set"
+        "functionItem"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.296168",
-    "updated_at": "2025-07-07T19:41:49.296169",
+    "created_at": "2025-07-07T19:46:35.034280",
+    "updated_at": "2025-07-07T19:46:35.034282",
     "version": "1.0.0"
   }
 }

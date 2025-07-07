@@ -213,11 +213,11 @@
       "department": "",
       "nodes_count": 7,
       "integrations": [
-        "mailjet",
-        "stickyNote",
-        "splitOut",
         "gmailTrigger",
-        "set"
+        "splitOut",
+        "stickyNote",
+        "set",
+        "mailjet"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -230,8 +230,8 @@
         "updatedAt": "2024-02-14T20:01:44.966Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.580432",
-    "updated_at": "2025-07-07T19:41:49.580433",
+    "created_at": "2025-07-07T19:46:35.362096",
+    "updated_at": "2025-07-07T19:46:35.362097",
     "version": "1.0.0"
   }
 }

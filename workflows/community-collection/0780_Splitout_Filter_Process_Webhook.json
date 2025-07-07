@@ -1857,25 +1857,25 @@
       "department": "",
       "nodes_count": 51,
       "integrations": [
-        "manualTrigger",
-        "executeWorkflowTrigger",
-        "stickyNote",
         "splitOut",
-        "merge",
+        "stickyNote",
+        "manualTrigger",
         "xml",
         "html",
-        "httpRequest",
         "airtable",
+        "merge",
+        "httpRequest",
+        "set",
         "executeWorkflow",
         "filter",
-        "set"
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.338081",
-    "updated_at": "2025-07-07T19:41:49.338081",
+    "created_at": "2025-07-07T19:46:35.098656",
+    "updated_at": "2025-07-07T19:46:35.098657",
     "version": "1.0.0"
   }
 }

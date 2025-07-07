@@ -692,15 +692,15 @@
       "department": "",
       "nodes_count": 17,
       "integrations": [
-        "executeWorkflowTrigger",
-        "stickyNote"
+        "stickyNote",
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.421073",
-    "updated_at": "2025-07-07T19:41:49.421074",
+    "created_at": "2025-07-07T19:46:35.193576",
+    "updated_at": "2025-07-07T19:46:35.193577",
     "version": "1.0.0"
   }
 }

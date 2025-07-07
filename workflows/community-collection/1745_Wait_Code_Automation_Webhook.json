@@ -1080,21 +1080,21 @@
       "department": "",
       "nodes_count": 33,
       "integrations": [
+        "convertToFile",
         "stickyNote",
+        "formTrigger",
+        "code",
         "splitInBatches",
         "wait",
         "httpRequest",
-        "convertToFile",
-        "formTrigger",
-        "code",
         "set"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.436069",
-    "updated_at": "2025-07-07T19:41:49.436070",
+    "created_at": "2025-07-07T19:46:35.210175",
+    "updated_at": "2025-07-07T19:46:35.210177",
     "version": "1.0.0"
   }
 }

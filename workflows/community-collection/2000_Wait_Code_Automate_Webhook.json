@@ -983,17 +983,17 @@
       "department": "",
       "nodes_count": 33,
       "integrations": [
-        "manualTrigger",
-        "stickyNote",
-        "splitInBatches",
-        "removeDuplicates",
-        "wait",
         "if",
-        "code",
+        "stickyNote",
+        "manualTrigger",
         "httpRequest",
+        "splitInBatches",
+        "wait",
+        "code",
+        "set",
         "scheduleTrigger",
         "youTube",
-        "set"
+        "removeDuplicates"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -1012,8 +1012,8 @@
         "updatedAt": "2025-02-23T15:20:47.262Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.182999",
-    "updated_at": "2025-07-07T19:41:49.183000",
+    "created_at": "2025-07-07T19:46:34.879463",
+    "updated_at": "2025-07-07T19:46:34.879464",
     "version": "1.0.0"
   }
 }

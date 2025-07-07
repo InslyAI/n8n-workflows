@@ -556,22 +556,22 @@
       "department": "",
       "nodes_count": 15,
       "integrations": [
-        "googleDrive",
-        "writeBinaryFile",
         "if",
         "stickyNote",
-        "httpRequest",
-        "telegram",
-        "readBinaryFile",
         "errorTrigger",
+        "telegram",
+        "httpRequest",
+        "googleDrive",
+        "readBinaryFile",
+        "writeBinaryFile",
         "googleDriveTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.164046",
-    "updated_at": "2025-07-07T19:41:49.164047",
+    "created_at": "2025-07-07T19:46:34.857159",
+    "updated_at": "2025-07-07T19:46:34.857161",
     "version": "1.0.0"
   }
 }

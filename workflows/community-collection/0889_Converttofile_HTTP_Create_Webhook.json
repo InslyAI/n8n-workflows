@@ -636,20 +636,20 @@
       "department": "",
       "nodes_count": 18,
       "integrations": [
-        "manualTrigger",
-        "googleDrive",
-        "googleSheets",
+        "convertToFile",
         "stickyNote",
+        "manualTrigger",
+        "googleSheets",
         "merge",
         "httpRequest",
-        "convertToFile"
+        "googleDrive"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.376691",
-    "updated_at": "2025-07-07T19:41:49.376692",
+    "created_at": "2025-07-07T19:46:35.145668",
+    "updated_at": "2025-07-07T19:46:35.145669",
     "version": "1.0.0"
   }
 }

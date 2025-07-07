@@ -772,20 +772,20 @@
       "department": "",
       "nodes_count": 24,
       "integrations": [
+        "gmailTrigger",
         "if",
         "stickyNote",
-        "telegram",
-        "gmailTrigger",
         "telegramTrigger",
         "gmail",
+        "telegram",
         "set"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.742387",
-    "updated_at": "2025-07-07T19:41:48.742387",
+    "created_at": "2025-07-07T19:46:34.363229",
+    "updated_at": "2025-07-07T19:46:34.363230",
     "version": "1.0.0"
   }
 }

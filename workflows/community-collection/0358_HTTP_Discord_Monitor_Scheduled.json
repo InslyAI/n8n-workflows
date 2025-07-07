@@ -136,17 +136,17 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
-        "cron",
-        "httpRequest",
+        "if",
         "discord",
-        "if"
+        "cron",
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.559494",
-    "updated_at": "2025-07-07T19:41:49.559495",
+    "created_at": "2025-07-07T19:46:35.338809",
+    "updated_at": "2025-07-07T19:46:35.338810",
     "version": "1.0.0"
   }
 }

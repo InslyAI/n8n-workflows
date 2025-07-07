@@ -1048,19 +1048,19 @@
       "department": "",
       "nodes_count": 23,
       "integrations": [
-        "extractFromFile",
-        "stickyNote",
         "form",
-        "httpRequest",
+        "stickyNote",
+        "formTrigger",
         "airtable",
-        "formTrigger"
+        "extractFromFile",
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.040611",
-    "updated_at": "2025-07-07T19:41:49.040611",
+    "created_at": "2025-07-07T19:46:34.660352",
+    "updated_at": "2025-07-07T19:46:34.660353",
     "version": "1.0.0"
   }
 }

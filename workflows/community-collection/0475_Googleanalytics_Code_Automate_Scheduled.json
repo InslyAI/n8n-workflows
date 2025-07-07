@@ -933,13 +933,13 @@
       "department": "",
       "nodes_count": 23,
       "integrations": [
-        "manualTrigger",
         "stickyNote",
-        "googleAnalytics",
-        "scheduleTrigger",
+        "manualTrigger",
         "gmail",
+        "googleAnalytics",
         "code",
-        "set"
+        "set",
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -958,8 +958,8 @@
         "updatedAt": "2024-11-13T18:08:08.207Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:48.981761",
-    "updated_at": "2025-07-07T19:41:48.981762",
+    "created_at": "2025-07-07T19:46:34.595526",
+    "updated_at": "2025-07-07T19:46:34.595526",
     "version": "1.0.0"
   }
 }

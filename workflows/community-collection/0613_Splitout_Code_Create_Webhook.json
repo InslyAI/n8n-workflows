@@ -820,26 +820,26 @@
       "department": "",
       "nodes_count": 33,
       "integrations": [
-        "manualTrigger",
-        "slack",
-        "googleSheets",
-        "stickyNote",
-        "merge",
         "splitOut",
+        "stickyNote",
+        "manualTrigger",
         "httpRequest",
-        "nocoDb",
         "html",
         "airtable",
-        "scheduleTrigger",
+        "googleSheets",
+        "merge",
+        "slack",
+        "nocoDb",
         "code",
-        "set"
+        "set",
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.421806",
-    "updated_at": "2025-07-07T19:41:49.421807",
+    "created_at": "2025-07-07T19:46:35.194380",
+    "updated_at": "2025-07-07T19:46:35.194380",
     "version": "1.0.0"
   }
 }

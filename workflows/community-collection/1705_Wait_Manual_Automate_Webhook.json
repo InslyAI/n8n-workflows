@@ -427,10 +427,10 @@
       "department": "",
       "nodes_count": 12,
       "integrations": [
-        "manualTrigger",
         "if",
-        "stickyNote",
         "noOp",
+        "stickyNote",
+        "manualTrigger",
         "wait",
         "httpRequest",
         "set"
@@ -439,8 +439,8 @@
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.831345",
-    "updated_at": "2025-07-07T19:41:48.831346",
+    "created_at": "2025-07-07T19:46:34.448773",
+    "updated_at": "2025-07-07T19:46:34.448774",
     "version": "1.0.0"
   }
 }

@@ -1192,21 +1192,21 @@
       "department": "",
       "nodes_count": 37,
       "integrations": [
-        "manualTrigger",
-        "googleSheets",
         "stickyNote",
-        "googleDocs",
-        "splitInBatches",
-        "httpRequest",
+        "manualTrigger",
         "convertToFile",
-        "code"
+        "httpRequest",
+        "splitInBatches",
+        "googleSheets",
+        "code",
+        "googleDocs"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.881706",
-    "updated_at": "2025-07-07T19:41:48.881706",
+    "created_at": "2025-07-07T19:46:34.497712",
+    "updated_at": "2025-07-07T19:46:34.497713",
     "version": "1.0.0"
   }
 }

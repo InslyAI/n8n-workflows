@@ -307,21 +307,21 @@
       "department": "",
       "nodes_count": 11,
       "integrations": [
-        "if",
-        "spreadsheetFile",
         "noOp",
+        "if",
         "stickyNote",
-        "telegram",
         "telegramTrigger",
+        "telegram",
         "facebookGraphApi",
-        "code"
+        "code",
+        "spreadsheetFile"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.752932",
-    "updated_at": "2025-07-07T19:41:48.752933",
+    "created_at": "2025-07-07T19:46:34.373310",
+    "updated_at": "2025-07-07T19:46:34.373311",
     "version": "1.0.0"
   }
 }

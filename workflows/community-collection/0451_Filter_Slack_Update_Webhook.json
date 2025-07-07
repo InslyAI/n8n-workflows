@@ -549,22 +549,22 @@
       "department": "",
       "nodes_count": 12,
       "integrations": [
-        "slack",
-        "stickyNote",
         "if",
+        "stickyNote",
+        "linear",
+        "slack",
         "merge",
         "httpRequest",
-        "linearTrigger",
-        "filter",
         "set",
-        "linear"
+        "linearTrigger",
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.272932",
-    "updated_at": "2025-07-07T19:41:49.272933",
+    "created_at": "2025-07-07T19:46:34.973847",
+    "updated_at": "2025-07-07T19:46:34.973849",
     "version": "1.0.0"
   }
 }

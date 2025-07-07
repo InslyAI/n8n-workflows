@@ -396,19 +396,19 @@
       "department": "",
       "nodes_count": 10,
       "integrations": [
+        "splitOut",
+        "stickyNote",
         "googleSheets",
         "compareDatasets",
-        "stickyNote",
-        "splitOut",
-        "postgres",
-        "scheduleTrigger"
+        "scheduleTrigger",
+        "postgres"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.936930",
-    "updated_at": "2025-07-07T19:41:48.936930",
+    "created_at": "2025-07-07T19:46:34.550976",
+    "updated_at": "2025-07-07T19:46:34.550976",
     "version": "1.0.0"
   }
 }

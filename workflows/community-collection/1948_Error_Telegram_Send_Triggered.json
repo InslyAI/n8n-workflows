@@ -128,17 +128,17 @@
       "department": "",
       "nodes_count": 4,
       "integrations": [
-        "telegram",
-        "stickyNote",
         "errorTrigger",
-        "set"
+        "set",
+        "telegram",
+        "stickyNote"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.006113",
-    "updated_at": "2025-07-07T19:41:49.006114",
+    "created_at": "2025-07-07T19:46:34.621729",
+    "updated_at": "2025-07-07T19:46:34.621730",
     "version": "1.0.0"
   }
 }

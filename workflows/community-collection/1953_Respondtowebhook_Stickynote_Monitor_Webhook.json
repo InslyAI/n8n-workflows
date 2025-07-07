@@ -1180,20 +1180,20 @@
       "department": "",
       "nodes_count": 30,
       "integrations": [
-        "switch",
         "if",
-        "notion",
         "stickyNote",
+        "switch",
+        "notion",
         "respondToWebhook",
-        "webhook",
-        "set"
+        "set",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.093047",
-    "updated_at": "2025-07-07T19:41:49.093047",
+    "created_at": "2025-07-07T19:46:34.761198",
+    "updated_at": "2025-07-07T19:46:34.761202",
     "version": "1.0.0"
   }
 }

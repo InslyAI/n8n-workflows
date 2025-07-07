@@ -1046,27 +1046,27 @@
       "department": "",
       "nodes_count": 32,
       "integrations": [
+        "if",
+        "noOp",
+        "stickyNote",
         "manualTrigger",
         "wordpress",
+        "dateTime",
+        "splitInBatches",
         "googleSheets",
         "slack",
-        "if",
-        "splitInBatches",
-        "stickyNote",
-        "noOp",
         "httpRequest",
-        "webhook",
+        "set",
         "scheduleTrigger",
-        "dateTime",
-        "markdown",
-        "set"
+        "webhook",
+        "markdown"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.498501",
-    "updated_at": "2025-07-07T19:41:49.498502",
+    "created_at": "2025-07-07T19:46:35.277623",
+    "updated_at": "2025-07-07T19:46:35.277624",
     "version": "1.0.0"
   }
 }

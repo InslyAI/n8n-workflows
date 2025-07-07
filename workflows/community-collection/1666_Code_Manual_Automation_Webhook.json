@@ -1862,13 +1862,13 @@
       "department": "",
       "nodes_count": 38,
       "integrations": [
-        "manualTrigger",
         "stickyNote",
-        "merge",
-        "html",
-        "httpRequest",
-        "quickChart",
+        "manualTrigger",
         "code",
+        "html",
+        "merge",
+        "quickChart",
+        "httpRequest",
         "set"
       ],
       "estimated_cost": "medium",
@@ -1888,8 +1888,8 @@
         "updatedAt": "2024-12-23T07:10:13.400Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:48.826722",
-    "updated_at": "2025-07-07T19:41:48.826723",
+    "created_at": "2025-07-07T19:46:34.444246",
+    "updated_at": "2025-07-07T19:46:34.444247",
     "version": "1.0.0"
   }
 }

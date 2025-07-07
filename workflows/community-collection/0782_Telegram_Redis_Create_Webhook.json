@@ -1838,23 +1838,23 @@
       "department": "",
       "nodes_count": 40,
       "integrations": [
-        "googleSheets",
-        "switch",
         "if",
+        "switch",
         "stickyNote",
-        "httpRequest",
-        "telegram",
         "telegramTrigger",
-        "executionData",
         "redis",
+        "telegram",
+        "googleSheets",
+        "executionData",
+        "httpRequest",
         "set"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.923898",
-    "updated_at": "2025-07-07T19:41:48.923899",
+    "created_at": "2025-07-07T19:46:34.538119",
+    "updated_at": "2025-07-07T19:46:34.538120",
     "version": "1.0.0"
   }
 }

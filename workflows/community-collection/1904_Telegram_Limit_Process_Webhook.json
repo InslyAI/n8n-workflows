@@ -2029,27 +2029,27 @@
       "department": "",
       "nodes_count": 54,
       "integrations": [
-        "googleSheets",
-        "googleDrive",
-        "stickyNote",
-        "if",
-        "merge",
-        "noOp",
-        "httpRequest",
-        "telegram",
-        "limit",
         "gmailTrigger",
-        "aggregate",
-        "webhook",
+        "if",
+        "noOp",
+        "stickyNote",
         "gmail",
-        "set"
+        "telegram",
+        "googleSheets",
+        "set",
+        "merge",
+        "aggregate",
+        "httpRequest",
+        "googleDrive",
+        "limit",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.819695",
-    "updated_at": "2025-07-07T19:41:48.819696",
+    "created_at": "2025-07-07T19:46:34.437973",
+    "updated_at": "2025-07-07T19:46:34.437974",
     "version": "1.0.0"
   }
 }

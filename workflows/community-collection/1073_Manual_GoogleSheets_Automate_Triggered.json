@@ -124,16 +124,16 @@
       "department": "",
       "nodes_count": 4,
       "integrations": [
+        "set",
         "manualTrigger",
-        "googleSheets",
-        "set"
+        "googleSheets"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.118385",
-    "updated_at": "2025-07-07T19:41:49.118386",
+    "created_at": "2025-07-07T19:46:34.804486",
+    "updated_at": "2025-07-07T19:46:34.804487",
     "version": "1.0.0"
   }
 }

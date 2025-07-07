@@ -768,24 +768,24 @@
       "department": "",
       "nodes_count": 21,
       "integrations": [
-        "googleSheets",
-        "slack",
         "if",
-        "merge",
         "stickyNote",
+        "googleSheets",
+        "merge",
+        "slack",
         "wait",
-        "summarize",
-        "limit",
-        "webhook",
+        "set",
         "scheduleTrigger",
-        "set"
+        "webhook",
+        "summarize",
+        "limit"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.545521",
-    "updated_at": "2025-07-07T19:41:49.545522",
+    "created_at": "2025-07-07T19:46:35.323589",
+    "updated_at": "2025-07-07T19:46:35.323590",
     "version": "1.0.0"
   }
 }

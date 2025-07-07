@@ -1171,22 +1171,22 @@
       "department": "",
       "nodes_count": 33,
       "integrations": [
-        "googleSheets",
-        "stickyNote",
         "if",
+        "stickyNote",
         "googleCalendar",
-        "httpRequest",
         "respondToWebhook",
-        "webhook",
         "airtable",
-        "set"
+        "googleSheets",
+        "httpRequest",
+        "set",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.204635",
-    "updated_at": "2025-07-07T19:41:49.204636",
+    "created_at": "2025-07-07T19:46:34.905586",
+    "updated_at": "2025-07-07T19:46:34.905587",
     "version": "1.0.0"
   }
 }

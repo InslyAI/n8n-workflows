@@ -84,16 +84,16 @@
       "department": "",
       "nodes_count": 3,
       "integrations": [
-        "httpRequest",
+        "editImage",
         "webhook",
-        "editImage"
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.167645",
-    "updated_at": "2025-07-07T19:41:49.167646",
+    "created_at": "2025-07-07T19:46:34.861012",
+    "updated_at": "2025-07-07T19:46:34.861013",
     "version": "1.0.0"
   }
 }

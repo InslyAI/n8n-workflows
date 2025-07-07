@@ -82,16 +82,16 @@
       "department": "",
       "nodes_count": 3,
       "integrations": [
-        "manualTrigger",
+        "moveBinaryData",
         "readBinaryFile",
-        "moveBinaryData"
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.385039",
-    "updated_at": "2025-07-07T19:41:49.385040",
+    "created_at": "2025-07-07T19:46:35.155001",
+    "updated_at": "2025-07-07T19:46:35.155002",
     "version": "1.0.0"
   }
 }

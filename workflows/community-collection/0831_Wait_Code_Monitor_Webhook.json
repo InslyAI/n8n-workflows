@@ -595,22 +595,22 @@
       "department": "",
       "nodes_count": 18,
       "integrations": [
-        "switch",
+        "noOp",
         "if",
         "stickyNote",
-        "noOp",
-        "wait",
-        "webhook",
+        "switch",
         "redis",
+        "wait",
         "code",
-        "set"
+        "set",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.997190",
-    "updated_at": "2025-07-07T19:41:48.997190",
+    "created_at": "2025-07-07T19:46:34.610989",
+    "updated_at": "2025-07-07T19:46:34.610990",
     "version": "1.0.0"
   }
 }

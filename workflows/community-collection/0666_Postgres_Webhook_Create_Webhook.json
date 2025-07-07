@@ -592,21 +592,21 @@
       "department": "",
       "nodes_count": 19,
       "integrations": [
-        "supabase",
-        "stickyNote",
         "if",
-        "httpRequest",
-        "postgres",
+        "stickyNote",
         "postgresTool",
+        "httpRequest",
+        "set",
+        "supabase",
         "webhook",
-        "set"
+        "postgres"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.729734",
-    "updated_at": "2025-07-07T19:41:48.729734",
+    "created_at": "2025-07-07T19:46:34.350879",
+    "updated_at": "2025-07-07T19:46:34.350881",
     "version": "1.0.0"
   }
 }

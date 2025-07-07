@@ -346,19 +346,19 @@
       "department": "",
       "nodes_count": 12,
       "integrations": [
-        "manualTrigger",
-        "stickyNote",
         "if",
+        "stickyNote",
+        "manualTrigger",
         "twitter",
-        "scheduleTrigger",
-        "set"
+        "set",
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.724376",
-    "updated_at": "2025-07-07T19:41:48.724376",
+    "created_at": "2025-07-07T19:46:34.345873",
+    "updated_at": "2025-07-07T19:46:34.345874",
     "version": "1.0.0"
   }
 }

@@ -98,16 +98,16 @@
       "department": "",
       "nodes_count": 3,
       "integrations": [
-        "cron",
         "nasa",
-        "telegram"
+        "telegram",
+        "cron"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.883453",
-    "updated_at": "2025-07-07T19:41:48.883454",
+    "created_at": "2025-07-07T19:46:34.499224",
+    "updated_at": "2025-07-07T19:46:34.499225",
     "version": "1.0.0"
   }
 }

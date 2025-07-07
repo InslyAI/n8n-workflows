@@ -107,16 +107,16 @@
       "department": "",
       "nodes_count": 4,
       "integrations": [
-        "manualTrigger",
         "ftp",
+        "manualTrigger",
         "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.528061",
-    "updated_at": "2025-07-07T19:41:49.528061",
+    "created_at": "2025-07-07T19:46:35.305826",
+    "updated_at": "2025-07-07T19:46:35.305827",
     "version": "1.0.0"
   }
 }

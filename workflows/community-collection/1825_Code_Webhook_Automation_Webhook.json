@@ -1838,21 +1838,21 @@
       "department": "",
       "nodes_count": 34,
       "integrations": [
-        "switch",
         "if",
+        "switch",
         "stickyNote",
-        "ssh",
         "respondToWebhook",
-        "webhook",
         "code",
-        "set"
+        "set",
+        "webhook",
+        "ssh"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.719371",
-    "updated_at": "2025-07-07T19:41:48.719371",
+    "created_at": "2025-07-07T19:46:34.341168",
+    "updated_at": "2025-07-07T19:46:34.341168",
     "version": "1.0.0"
   }
 }

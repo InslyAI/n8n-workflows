@@ -524,13 +524,13 @@
       "department": "",
       "nodes_count": 10,
       "integrations": [
-        "stickyNote",
         "splitOut",
-        "httpRequest",
+        "stickyNote",
         "airtable",
+        "httpRequest",
+        "set",
         "scheduleTrigger",
-        "filter",
-        "set"
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -549,8 +549,8 @@
         "updatedAt": "2025-04-11T17:35:46.605Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.428746",
-    "updated_at": "2025-07-07T19:41:49.428747",
+    "created_at": "2025-07-07T19:46:35.202277",
+    "updated_at": "2025-07-07T19:46:35.202278",
     "version": "1.0.0"
   }
 }

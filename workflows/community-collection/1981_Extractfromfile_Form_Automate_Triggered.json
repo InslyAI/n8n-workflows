@@ -682,20 +682,20 @@
       "department": "",
       "nodes_count": 18,
       "integrations": [
-        "extractFromFile",
-        "googleSheets",
-        "googleDrive",
         "stickyNote",
-        "merge",
         "formTrigger",
+        "googleSheets",
+        "merge",
+        "extractFromFile",
+        "googleDrive",
         "set"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.060439",
-    "updated_at": "2025-07-07T19:41:49.060440",
+    "created_at": "2025-07-07T19:46:34.681833",
+    "updated_at": "2025-07-07T19:46:34.681833",
     "version": "1.0.0"
   }
 }

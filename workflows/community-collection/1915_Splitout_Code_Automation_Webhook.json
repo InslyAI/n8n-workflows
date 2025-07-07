@@ -1262,11 +1262,11 @@
       "department": "",
       "nodes_count": 48,
       "integrations": [
-        "manualTrigger",
-        "stickyNote",
         "splitOut",
-        "merge",
+        "stickyNote",
+        "manualTrigger",
         "httpRequest",
+        "merge",
         "code",
         "set"
       ],
@@ -1281,8 +1281,8 @@
         "updatedAt": "2024-12-09T12:50:19.287Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:48.809873",
-    "updated_at": "2025-07-07T19:41:48.809874",
+    "created_at": "2025-07-07T19:46:34.426823",
+    "updated_at": "2025-07-07T19:46:34.426824",
     "version": "1.0.0"
   }
 }

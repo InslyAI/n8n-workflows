@@ -1303,26 +1303,26 @@
       "department": "",
       "nodes_count": 36,
       "integrations": [
-        "manualTrigger",
-        "extractFromFile",
-        "googleSheets",
-        "stickyNote",
         "splitOut",
-        "merge",
         "if",
-        "form",
-        "httpRequest",
+        "stickyNote",
+        "manualTrigger",
         "formTrigger",
-        "filter",
+        "httpRequest",
+        "form",
+        "googleSheets",
+        "merge",
+        "extractFromFile",
         "code",
-        "set"
+        "set",
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.079885",
-    "updated_at": "2025-07-07T19:41:49.079885",
+    "created_at": "2025-07-07T19:46:34.727488",
+    "updated_at": "2025-07-07T19:46:34.727492",
     "version": "1.0.0"
   }
 }

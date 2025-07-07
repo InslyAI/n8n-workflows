@@ -76,15 +76,15 @@
       "department": "",
       "nodes_count": 2,
       "integrations": [
-        "airtableTrigger",
-        "mattermost"
+        "mattermost",
+        "airtableTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.855398",
-    "updated_at": "2025-07-07T19:41:48.855399",
+    "created_at": "2025-07-07T19:46:34.471766",
+    "updated_at": "2025-07-07T19:46:34.471767",
     "version": "1.0.0"
   }
 }

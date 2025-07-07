@@ -105,16 +105,16 @@
       "department": "",
       "nodes_count": 3,
       "integrations": [
-        "airtable",
+        "set",
         "netlifyTrigger",
-        "set"
+        "airtable"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.266776",
-    "updated_at": "2025-07-07T19:41:49.266777",
+    "created_at": "2025-07-07T19:46:34.965593",
+    "updated_at": "2025-07-07T19:46:34.965594",
     "version": "1.0.0"
   }
 }

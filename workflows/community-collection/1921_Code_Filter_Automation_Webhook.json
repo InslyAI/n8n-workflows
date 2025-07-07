@@ -1188,23 +1188,23 @@
       "department": "",
       "nodes_count": 38,
       "integrations": [
-        "manualTrigger",
-        "stickyNote",
-        "noOp",
-        "httpRequest",
         "gmailTrigger",
-        "airtable",
+        "noOp",
+        "stickyNote",
+        "manualTrigger",
         "gmail",
-        "filter",
         "code",
-        "set"
+        "airtable",
+        "httpRequest",
+        "set",
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.046375",
-    "updated_at": "2025-07-07T19:41:49.046376",
+    "created_at": "2025-07-07T19:46:34.667457",
+    "updated_at": "2025-07-07T19:46:34.667457",
     "version": "1.0.0"
   }
 }

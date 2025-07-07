@@ -1070,22 +1070,22 @@
       "department": "",
       "nodes_count": 32,
       "integrations": [
-        "switch",
         "if",
-        "stickyNote",
-        "readWriteFile",
+        "switch",
         "convertToFile",
+        "stickyNote",
         "respondToWebhook",
-        "webhook",
         "code",
-        "set"
+        "set",
+        "webhook",
+        "readWriteFile"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.224216",
-    "updated_at": "2025-07-07T19:41:49.224217",
+    "created_at": "2025-07-07T19:46:34.922426",
+    "updated_at": "2025-07-07T19:46:34.922426",
     "version": "1.0.0"
   }
 }

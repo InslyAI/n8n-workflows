@@ -153,10 +153,10 @@
       "department": "",
       "nodes_count": 4,
       "integrations": [
-        "httpRequest",
+        "code",
         "webhook",
         "stickyNote",
-        "code"
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -193,8 +193,8 @@
         "updatedAt": "2025-03-30T09:38:04.286Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.507865",
-    "updated_at": "2025-07-07T19:41:49.507866",
+    "created_at": "2025-07-07T19:46:35.287299",
+    "updated_at": "2025-07-07T19:46:35.287301",
     "version": "1.0.0"
   }
 }

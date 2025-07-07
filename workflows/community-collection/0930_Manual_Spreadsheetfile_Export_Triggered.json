@@ -214,17 +214,17 @@
       "department": "",
       "nodes_count": 4,
       "integrations": [
-        "manualTrigger",
-        "postgres",
+        "set",
         "spreadsheetFile",
-        "set"
+        "manualTrigger",
+        "postgres"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.432588",
-    "updated_at": "2025-07-07T19:41:49.432588",
+    "created_at": "2025-07-07T19:46:35.206137",
+    "updated_at": "2025-07-07T19:46:35.206138",
     "version": "1.0.0"
   }
 }

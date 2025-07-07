@@ -198,19 +198,19 @@
       "department": "",
       "nodes_count": 6,
       "integrations": [
-        "set",
-        "strava",
         "if",
         "noOp",
         "cron",
-        "emailSend"
+        "emailSend",
+        "set",
+        "strava"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.966576",
-    "updated_at": "2025-07-07T19:41:48.966577",
+    "created_at": "2025-07-07T19:46:34.580936",
+    "updated_at": "2025-07-07T19:46:34.580937",
     "version": "1.0.0"
   }
 }

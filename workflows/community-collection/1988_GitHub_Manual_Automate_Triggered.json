@@ -517,21 +517,21 @@
       "department": "",
       "nodes_count": 17,
       "integrations": [
-        "manualTrigger",
+        "noOp",
         "if",
         "stickyNote",
-        "noOp",
-        "merge",
-        "n8n",
+        "manualTrigger",
         "github",
-        "set"
+        "merge",
+        "set",
+        "n8n"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.269505",
-    "updated_at": "2025-07-07T19:41:49.269506",
+    "created_at": "2025-07-07T19:46:34.969026",
+    "updated_at": "2025-07-07T19:46:34.969027",
     "version": "1.0.0"
   }
 }

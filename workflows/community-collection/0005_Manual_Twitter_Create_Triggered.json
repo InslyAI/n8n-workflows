@@ -268,17 +268,17 @@
       "nodes_count": 7,
       "integrations": [
         "manualTrigger",
-        "merge",
-        "twitter",
         "airtable",
+        "twitter",
+        "merge",
         "set"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.766527",
-    "updated_at": "2025-07-07T19:41:48.766528",
+    "created_at": "2025-07-07T19:46:34.383333",
+    "updated_at": "2025-07-07T19:46:34.383334",
     "version": "1.0.0"
   }
 }

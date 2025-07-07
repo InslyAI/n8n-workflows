@@ -1113,25 +1113,25 @@
       "department": "",
       "nodes_count": 34,
       "integrations": [
-        "slack",
-        "switch",
-        "stickyNote",
         "if",
-        "merge",
-        "executeWorkflowTrigger",
-        "httpRequest",
-        "postgres",
-        "webhook",
-        "executeWorkflow",
+        "stickyNote",
+        "switch",
         "code",
-        "set"
+        "webhook",
+        "merge",
+        "slack",
+        "httpRequest",
+        "set",
+        "executeWorkflow",
+        "executeWorkflowTrigger",
+        "postgres"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.739839",
-    "updated_at": "2025-07-07T19:41:48.739840",
+    "created_at": "2025-07-07T19:46:34.360758",
+    "updated_at": "2025-07-07T19:46:34.360758",
     "version": "1.0.0"
   }
 }

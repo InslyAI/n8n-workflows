@@ -63,15 +63,15 @@
       "department": "",
       "nodes_count": 2,
       "integrations": [
-        "manualTrigger",
-        "clickUp"
+        "clickUp",
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.153958",
-    "updated_at": "2025-07-07T19:41:49.153959",
+    "created_at": "2025-07-07T19:46:34.845876",
+    "updated_at": "2025-07-07T19:46:34.845877",
     "version": "1.0.0"
   }
 }

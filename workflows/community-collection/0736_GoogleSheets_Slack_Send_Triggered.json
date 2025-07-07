@@ -146,18 +146,18 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
-        "googleSheets",
-        "slack",
         "if",
         "typeformTrigger",
+        "googleSheets",
+        "slack",
         "emailSend"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.055281",
-    "updated_at": "2025-07-07T19:41:49.055282",
+    "created_at": "2025-07-07T19:46:34.676358",
+    "updated_at": "2025-07-07T19:46:34.676359",
     "version": "1.0.0"
   }
 }

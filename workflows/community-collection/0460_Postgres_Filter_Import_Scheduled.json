@@ -377,18 +377,18 @@
       "nodes_count": 6,
       "integrations": [
         "manualTrigger",
-        "postgres",
-        "n8n",
+        "set",
         "scheduleTrigger",
         "filter",
-        "set"
+        "n8n",
+        "postgres"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.883012",
-    "updated_at": "2025-07-07T19:41:48.883013",
+    "created_at": "2025-07-07T19:46:34.498894",
+    "updated_at": "2025-07-07T19:46:34.498895",
     "version": "1.0.0"
   }
 }

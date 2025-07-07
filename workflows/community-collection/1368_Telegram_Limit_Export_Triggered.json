@@ -1130,23 +1130,23 @@
       "department": "",
       "nodes_count": 33,
       "integrations": [
-        "manualTrigger",
-        "googleDrive",
         "stickyNote",
-        "merge",
-        "telegram",
-        "limit",
-        "googleDriveTrigger",
+        "manualTrigger",
         "gmail",
+        "telegram",
+        "merge",
+        "googleDrive",
+        "set",
+        "limit",
         "filter",
-        "set"
+        "googleDriveTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.668303",
-    "updated_at": "2025-07-07T19:41:48.668304",
+    "created_at": "2025-07-07T19:46:34.280968",
+    "updated_at": "2025-07-07T19:46:34.280969",
     "version": "1.0.0"
   }
 }

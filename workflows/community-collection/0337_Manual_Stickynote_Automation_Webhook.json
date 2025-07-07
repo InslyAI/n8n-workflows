@@ -552,12 +552,12 @@
       "department": "",
       "nodes_count": 18,
       "integrations": [
-        "manualTrigger",
-        "stickyNote",
         "function",
-        "readWriteFile",
+        "stickyNote",
+        "manualTrigger",
         "httpRequest",
-        "set"
+        "set",
+        "readWriteFile"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -576,8 +576,8 @@
         "updatedAt": "2025-04-13T05:38:08.053Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.440016",
-    "updated_at": "2025-07-07T19:41:49.440017",
+    "created_at": "2025-07-07T19:46:35.214393",
+    "updated_at": "2025-07-07T19:46:35.214394",
     "version": "1.0.0"
   }
 }

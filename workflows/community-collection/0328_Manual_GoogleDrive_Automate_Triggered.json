@@ -179,15 +179,15 @@
       "department": "",
       "nodes_count": 6,
       "integrations": [
-        "manualTrigger",
-        "googleDrive"
+        "googleDrive",
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.863860",
-    "updated_at": "2025-07-07T19:41:48.863861",
+    "created_at": "2025-07-07T19:46:34.479773",
+    "updated_at": "2025-07-07T19:46:34.479774",
     "version": "1.0.0"
   }
 }

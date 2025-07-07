@@ -592,15 +592,15 @@
       "department": "",
       "nodes_count": 20,
       "integrations": [
-        "manualTrigger",
-        "stickyNote",
-        "merge",
         "function",
-        "readWriteFile",
+        "stickyNote",
+        "manualTrigger",
         "httpRequest",
+        "merge",
         "aggregate",
         "code",
-        "set"
+        "set",
+        "readWriteFile"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -619,8 +619,8 @@
         "updatedAt": "2025-04-13T05:38:08.053Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.524643",
-    "updated_at": "2025-07-07T19:41:49.524643",
+    "created_at": "2025-07-07T19:46:35.302238",
+    "updated_at": "2025-07-07T19:46:35.302239",
     "version": "1.0.0"
   }
 }

@@ -379,11 +379,11 @@
       "department": "",
       "nodes_count": 9,
       "integrations": [
-        "googleSheets",
         "stickyNote",
-        "merge",
         "googleSheetsTrigger",
+        "googleSheets",
         "openAi",
+        "merge",
         "set"
       ],
       "estimated_cost": "medium",
@@ -397,8 +397,8 @@
         "updatedAt": "2023-08-15T22:12:34.260Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.263884",
-    "updated_at": "2025-07-07T19:41:49.263884",
+    "created_at": "2025-07-07T19:46:34.962302",
+    "updated_at": "2025-07-07T19:46:34.962304",
     "version": "1.0.0"
   }
 }

@@ -1289,14 +1289,14 @@
       "department": "",
       "nodes_count": 35,
       "integrations": [
-        "slack",
-        "stickyNote",
         "splitOut",
-        "splitInBatches",
-        "httpRequest",
+        "stickyNote",
         "snowflake",
-        "scheduleTrigger",
-        "set"
+        "splitInBatches",
+        "slack",
+        "httpRequest",
+        "set",
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -1321,8 +1321,8 @@
         "updatedAt": "2023-09-18T17:05:02.756Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.007320",
-    "updated_at": "2025-07-07T19:41:49.007321",
+    "created_at": "2025-07-07T19:46:34.623088",
+    "updated_at": "2025-07-07T19:46:34.623089",
     "version": "1.0.0"
   }
 }

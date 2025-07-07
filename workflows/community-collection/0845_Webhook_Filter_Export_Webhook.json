@@ -3447,20 +3447,20 @@
       "department": "",
       "nodes_count": 14,
       "integrations": [
-        "googleSheets",
         "stickyNote",
         "notion",
         "airtable",
+        "googleSheets",
+        "set",
         "webhook",
-        "filter",
-        "set"
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.491711",
-    "updated_at": "2025-07-07T19:41:49.491712",
+    "created_at": "2025-07-07T19:46:35.270036",
+    "updated_at": "2025-07-07T19:46:35.270037",
     "version": "1.0.0"
   }
 }

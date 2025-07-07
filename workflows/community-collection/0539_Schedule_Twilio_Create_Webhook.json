@@ -1676,19 +1676,19 @@
       "department": "",
       "nodes_count": 36,
       "integrations": [
-        "switch",
+        "twilio",
         "stickyNote",
-        "twilioTrigger",
+        "switch",
         "airtable",
-        "scheduleTrigger",
-        "twilio"
+        "twilioTrigger",
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.198325",
-    "updated_at": "2025-07-07T19:41:49.198326",
+    "created_at": "2025-07-07T19:46:34.896703",
+    "updated_at": "2025-07-07T19:46:34.896704",
     "version": "1.0.0"
   }
 }

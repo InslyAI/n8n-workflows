@@ -256,16 +256,16 @@
       "nodes_count": 10,
       "integrations": [
         "telegram",
-        "executeWorkflowTrigger",
         "stickyNote",
+        "executeWorkflowTrigger",
         "code"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.467296",
-    "updated_at": "2025-07-07T19:41:49.467297",
+    "created_at": "2025-07-07T19:46:35.243677",
+    "updated_at": "2025-07-07T19:46:35.243679",
     "version": "1.0.0"
   }
 }

@@ -834,19 +834,19 @@
       "department": "",
       "nodes_count": 18,
       "integrations": [
-        "googleSheets",
-        "stickyNote",
         "if",
+        "stickyNote",
+        "code",
+        "googleSheets",
         "wait",
-        "httpRequest",
-        "code"
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.670702",
-    "updated_at": "2025-07-07T19:41:48.670703",
+    "created_at": "2025-07-07T19:46:34.283255",
+    "updated_at": "2025-07-07T19:46:34.283256",
     "version": "1.0.0"
   }
 }

@@ -216,19 +216,19 @@
       "department": "",
       "nodes_count": 6,
       "integrations": [
+        "twilio",
+        "telegramTrigger",
+        "telegram",
         "googleSheets",
         "httpRequest",
-        "telegram",
-        "telegramTrigger",
-        "twilio",
         "set"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.512568",
-    "updated_at": "2025-07-07T19:41:49.512569",
+    "created_at": "2025-07-07T19:46:35.292299",
+    "updated_at": "2025-07-07T19:46:35.292300",
     "version": "1.0.0"
   }
 }

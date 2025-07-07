@@ -264,20 +264,20 @@
       "department": "",
       "nodes_count": 9,
       "integrations": [
-        "manualTrigger",
-        "switch",
-        "slack",
         "function",
         "googleCalendarTrigger",
+        "switch",
+        "manualTrigger",
         "googleCalendar",
+        "slack",
         "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.298559",
-    "updated_at": "2025-07-07T19:41:49.298560",
+    "created_at": "2025-07-07T19:46:35.038617",
+    "updated_at": "2025-07-07T19:46:35.038618",
     "version": "1.0.0"
   }
 }

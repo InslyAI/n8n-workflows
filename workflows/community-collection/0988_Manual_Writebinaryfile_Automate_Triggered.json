@@ -79,16 +79,16 @@
       "department": "",
       "nodes_count": 3,
       "integrations": [
-        "manualTrigger",
         "googleDrive",
-        "writeBinaryFile"
+        "writeBinaryFile",
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.485824",
-    "updated_at": "2025-07-07T19:41:49.485825",
+    "created_at": "2025-07-07T19:46:35.263675",
+    "updated_at": "2025-07-07T19:46:35.263676",
     "version": "1.0.0"
   }
 }

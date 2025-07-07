@@ -1025,19 +1025,19 @@
       "nodes_count": 32,
       "integrations": [
         "switch",
-        "executeWorkflowTrigger",
-        "stickyNote",
         "googleCalendarTool",
-        "httpRequest",
+        "stickyNote",
         "debugHelper",
-        "set"
+        "httpRequest",
+        "set",
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.341824",
-    "updated_at": "2025-07-07T19:41:49.341825",
+    "created_at": "2025-07-07T19:46:35.103116",
+    "updated_at": "2025-07-07T19:46:35.103119",
     "version": "1.0.0"
   }
 }

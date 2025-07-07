@@ -2786,15 +2786,15 @@
       "department": "",
       "nodes_count": 18,
       "integrations": [
-        "slack",
         "itemLists",
-        "splitInBatches",
         "stickyNote",
+        "splitInBatches",
+        "jira",
+        "slack",
         "wait",
         "httpRequest",
-        "jira",
-        "scheduleTrigger",
-        "set"
+        "set",
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -2813,8 +2813,8 @@
         "updatedAt": "2023-10-31T02:15:11.396Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.288999",
-    "updated_at": "2025-07-07T19:41:49.289000",
+    "created_at": "2025-07-07T19:46:35.012964",
+    "updated_at": "2025-07-07T19:46:35.012971",
     "version": "1.0.0"
   }
 }

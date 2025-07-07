@@ -144,18 +144,18 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
+        "dateTime",
         "slack",
-        "wait",
         "calendlyTrigger",
-        "pipedrive",
-        "dateTime"
+        "wait",
+        "pipedrive"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.315563",
-    "updated_at": "2025-07-07T19:41:49.315563",
+    "created_at": "2025-07-07T19:46:35.068596",
+    "updated_at": "2025-07-07T19:46:35.068597",
     "version": "1.0.0"
   }
 }

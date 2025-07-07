@@ -1000,14 +1000,14 @@
       "department": "",
       "nodes_count": 37,
       "integrations": [
-        "wordpress",
-        "stickyNote",
         "splitOut",
         "if",
-        "merge",
+        "stickyNote",
+        "formTrigger",
+        "wordpress",
         "httpRequest",
         "respondToWebhook",
-        "formTrigger",
+        "merge",
         "code",
         "set"
       ],
@@ -1015,8 +1015,8 @@
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.504507",
-    "updated_at": "2025-07-07T19:41:49.504508",
+    "created_at": "2025-07-07T19:46:35.283733",
+    "updated_at": "2025-07-07T19:46:35.283734",
     "version": "1.0.0"
   }
 }

@@ -88,16 +88,16 @@
       "department": "",
       "nodes_count": 3,
       "integrations": [
+        "functionItem",
         "telegramTrigger",
-        "googleSheets",
-        "functionItem"
+        "googleSheets"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.527882",
-    "updated_at": "2025-07-07T19:41:49.527883",
+    "created_at": "2025-07-07T19:46:35.305641",
+    "updated_at": "2025-07-07T19:46:35.305642",
     "version": "1.0.0"
   }
 }

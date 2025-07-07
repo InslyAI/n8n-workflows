@@ -119,15 +119,15 @@
       "department": "",
       "nodes_count": 4,
       "integrations": [
-        "manualTrigger",
-        "mattermost"
+        "mattermost",
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.084901",
-    "updated_at": "2025-07-07T19:41:49.084902",
+    "created_at": "2025-07-07T19:46:34.742467",
+    "updated_at": "2025-07-07T19:46:34.742474",
     "version": "1.0.0"
   }
 }

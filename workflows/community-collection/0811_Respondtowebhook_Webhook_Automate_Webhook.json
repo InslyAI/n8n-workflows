@@ -94,15 +94,15 @@
       "department": "",
       "nodes_count": 3,
       "integrations": [
-        "respondToWebhook",
-        "webhook"
+        "webhook",
+        "respondToWebhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.338960",
-    "updated_at": "2025-07-07T19:41:49.338961",
+    "created_at": "2025-07-07T19:46:35.099661",
+    "updated_at": "2025-07-07T19:46:35.099662",
     "version": "1.0.0"
   }
 }

@@ -952,21 +952,21 @@
       "department": "",
       "nodes_count": 29,
       "integrations": [
+        "if",
+        "stickyNote",
         "manualTrigger",
         "switch",
-        "stickyNote",
-        "if",
-        "readWriteFile",
-        "httpRequest",
         "localFileTrigger",
-        "set"
+        "httpRequest",
+        "set",
+        "readWriteFile"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.287424",
-    "updated_at": "2025-07-07T19:41:49.287425",
+    "created_at": "2025-07-07T19:46:35.008293",
+    "updated_at": "2025-07-07T19:46:35.008295",
     "version": "1.0.0"
   }
 }

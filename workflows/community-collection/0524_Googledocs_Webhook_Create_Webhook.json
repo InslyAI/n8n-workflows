@@ -575,21 +575,21 @@
       "department": "",
       "nodes_count": 23,
       "integrations": [
+        "stickyNote",
+        "gmail",
+        "splitInBatches",
         "extractFromFile",
         "slack",
-        "stickyNote",
-        "googleDocs",
-        "splitInBatches",
+        "set",
         "webhook",
-        "gmail",
-        "set"
+        "googleDocs"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.052018",
-    "updated_at": "2025-07-07T19:41:49.052019",
+    "created_at": "2025-07-07T19:46:34.673007",
+    "updated_at": "2025-07-07T19:46:34.673008",
     "version": "1.0.0"
   }
 }

@@ -344,17 +344,17 @@
       "department": "",
       "nodes_count": 14,
       "integrations": [
-        "code",
-        "stickyNote",
+        "httpRequest",
         "aggregate",
-        "httpRequest"
+        "stickyNote",
+        "code"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.932430",
-    "updated_at": "2025-07-07T19:41:48.932431",
+    "created_at": "2025-07-07T19:46:34.546479",
+    "updated_at": "2025-07-07T19:46:34.546480",
     "version": "1.0.0"
   }
 }

@@ -244,12 +244,12 @@
       "department": "",
       "nodes_count": 8,
       "integrations": [
-        "stickyNote",
         "function",
+        "stickyNote",
         "googleCalendar",
         "telegram",
-        "scheduleTrigger",
-        "set"
+        "set",
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -268,8 +268,8 @@
         "updatedAt": "2024-03-01T11:11:36.214Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.577933",
-    "updated_at": "2025-07-07T19:41:49.577934",
+    "created_at": "2025-07-07T19:46:35.359053",
+    "updated_at": "2025-07-07T19:46:35.359054",
     "version": "1.0.0"
   }
 }

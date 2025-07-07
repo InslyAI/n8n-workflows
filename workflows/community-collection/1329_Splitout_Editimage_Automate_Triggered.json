@@ -296,19 +296,19 @@
       "department": "",
       "nodes_count": 11,
       "integrations": [
+        "splitOut",
+        "stickyNote",
         "manualTrigger",
         "googleDrive",
-        "stickyNote",
-        "splitOut",
-        "editImage",
-        "set"
+        "set",
+        "editImage"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.757122",
-    "updated_at": "2025-07-07T19:41:48.757123",
+    "created_at": "2025-07-07T19:46:34.377108",
+    "updated_at": "2025-07-07T19:46:34.377109",
     "version": "1.0.0"
   }
 }

@@ -1343,22 +1343,22 @@
       "nodes_count": 38,
       "integrations": [
         "googleTasksTool",
-        "switch",
         "stickyNote",
-        "telegramTool",
-        "telegram",
+        "switch",
         "telegramTrigger",
+        "telegramTool",
         "convertToFile",
-        "webhook",
+        "telegram",
+        "set",
         "scheduleTrigger",
-        "set"
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.685924",
-    "updated_at": "2025-07-07T19:41:48.685925",
+    "created_at": "2025-07-07T19:46:34.298861",
+    "updated_at": "2025-07-07T19:46:34.298862",
     "version": "1.0.0"
   }
 }

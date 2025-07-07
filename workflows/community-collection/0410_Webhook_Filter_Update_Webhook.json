@@ -575,24 +575,24 @@
       "department": "",
       "nodes_count": 16,
       "integrations": [
-        "manualTrigger",
-        "googleSheets",
-        "if",
-        "merge",
         "noOp",
+        "if",
         "stickyNote",
-        "respondToWebhook",
+        "manualTrigger",
         "discord",
+        "respondToWebhook",
+        "googleSheets",
+        "merge",
+        "set",
         "webhook",
-        "filter",
-        "set"
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.949170",
-    "updated_at": "2025-07-07T19:41:48.949171",
+    "created_at": "2025-07-07T19:46:34.563132",
+    "updated_at": "2025-07-07T19:46:34.563133",
     "version": "1.0.0"
   }
 }

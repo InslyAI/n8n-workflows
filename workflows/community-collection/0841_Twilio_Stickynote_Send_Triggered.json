@@ -514,19 +514,19 @@
       "department": "",
       "nodes_count": 12,
       "integrations": [
-        "stickyNote",
-        "twilioTrigger",
-        "airtableTool",
-        "airtable",
         "twilio",
-        "set"
+        "stickyNote",
+        "airtable",
+        "twilioTrigger",
+        "set",
+        "airtableTool"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.968503",
-    "updated_at": "2025-07-07T19:41:48.968504",
+    "created_at": "2025-07-07T19:46:34.582819",
+    "updated_at": "2025-07-07T19:46:34.582820",
     "version": "1.0.0"
   }
 }

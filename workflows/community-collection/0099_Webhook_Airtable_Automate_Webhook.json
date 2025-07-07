@@ -326,19 +326,19 @@
       "department": "",
       "nodes_count": 11,
       "integrations": [
-        "if",
         "function",
-        "airtable",
-        "webhook",
+        "if",
         "redis",
-        "set"
+        "airtable",
+        "set",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.410790",
-    "updated_at": "2025-07-07T19:41:49.410791",
+    "created_at": "2025-07-07T19:46:35.182432",
+    "updated_at": "2025-07-07T19:46:35.182433",
     "version": "1.0.0"
   }
 }

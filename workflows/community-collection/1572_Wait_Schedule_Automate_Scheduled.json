@@ -683,23 +683,23 @@
       "department": "",
       "nodes_count": 15,
       "integrations": [
-        "googleSheets",
         "if",
-        "splitInBatches",
         "stickyNote",
-        "wait",
-        "whatsApp",
         "googleSheetsTrigger",
-        "whatsAppTrigger",
+        "whatsApp",
+        "splitInBatches",
+        "googleSheets",
+        "wait",
         "scheduleTrigger",
+        "whatsAppTrigger",
         "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.302974",
-    "updated_at": "2025-07-07T19:41:49.302975",
+    "created_at": "2025-07-07T19:46:35.048809",
+    "updated_at": "2025-07-07T19:46:35.048810",
     "version": "1.0.0"
   }
 }

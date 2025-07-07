@@ -413,17 +413,17 @@
       "department": "",
       "nodes_count": 14,
       "integrations": [
-        "stickyNote",
-        "telegram",
+        "set",
         "scheduleTrigger",
-        "set"
+        "telegram",
+        "stickyNote"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.851615",
-    "updated_at": "2025-07-07T19:41:48.851616",
+    "created_at": "2025-07-07T19:46:34.467936",
+    "updated_at": "2025-07-07T19:46:34.467937",
     "version": "1.0.0"
   }
 }

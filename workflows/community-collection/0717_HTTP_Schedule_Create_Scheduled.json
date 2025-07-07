@@ -430,15 +430,15 @@
         "splitInBatches",
         "wait",
         "httpRequest",
-        "scheduleTrigger",
-        "set"
+        "set",
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.583865",
-    "updated_at": "2025-07-07T19:41:49.583866",
+    "created_at": "2025-07-07T19:46:35.365855",
+    "updated_at": "2025-07-07T19:46:35.365857",
     "version": "1.0.0"
   }
 }

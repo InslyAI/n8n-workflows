@@ -576,17 +576,17 @@
       "department": "",
       "nodes_count": 15,
       "integrations": [
-        "telegramTrigger",
-        "switch",
+        "set",
         "telegram",
-        "set"
+        "switch",
+        "telegramTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.784019",
-    "updated_at": "2025-07-07T19:41:48.784020",
+    "created_at": "2025-07-07T19:46:34.401725",
+    "updated_at": "2025-07-07T19:46:34.401725",
     "version": "1.0.0"
   }
 }

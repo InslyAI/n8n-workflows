@@ -90,16 +90,16 @@
       "department": "",
       "nodes_count": 3,
       "integrations": [
+        "set",
         "manualTrigger",
-        "n8nTrainingCustomerDatastore",
-        "set"
+        "n8nTrainingCustomerDatastore"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.028563",
-    "updated_at": "2025-07-07T19:41:49.028564",
+    "created_at": "2025-07-07T19:46:34.643872",
+    "updated_at": "2025-07-07T19:46:34.643873",
     "version": "1.0.0"
   }
 }

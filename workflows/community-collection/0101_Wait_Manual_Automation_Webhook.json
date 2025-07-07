@@ -164,19 +164,19 @@
       "department": "",
       "nodes_count": 6,
       "integrations": [
+        "noOp",
         "manualTrigger",
         "splitInBatches",
-        "noOp",
+        "n8nTrainingCustomerDatastore",
         "wait",
-        "httpRequest",
-        "n8nTrainingCustomerDatastore"
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.023691",
-    "updated_at": "2025-07-07T19:41:49.023692",
+    "created_at": "2025-07-07T19:46:34.641009",
+    "updated_at": "2025-07-07T19:46:34.641012",
     "version": "1.0.0"
   }
 }

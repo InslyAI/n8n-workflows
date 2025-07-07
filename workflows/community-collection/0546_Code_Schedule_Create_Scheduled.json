@@ -195,19 +195,19 @@
       "department": "",
       "nodes_count": 7,
       "integrations": [
-        "slack",
-        "stickyNote",
         "if",
+        "stickyNote",
         "httpRequest",
-        "scheduleTrigger",
-        "code"
+        "slack",
+        "code",
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.496379",
-    "updated_at": "2025-07-07T19:41:49.496380",
+    "created_at": "2025-07-07T19:46:35.275378",
+    "updated_at": "2025-07-07T19:46:35.275379",
     "version": "1.0.0"
   }
 }

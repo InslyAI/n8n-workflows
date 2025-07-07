@@ -424,18 +424,18 @@
       "department": "",
       "nodes_count": 17,
       "integrations": [
-        "slack",
-        "executeWorkflowTrigger",
-        "stickyNote",
         "if",
-        "code"
+        "stickyNote",
+        "slack",
+        "code",
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.482677",
-    "updated_at": "2025-07-07T19:41:49.482678",
+    "created_at": "2025-07-07T19:46:35.260352",
+    "updated_at": "2025-07-07T19:46:35.260353",
     "version": "1.0.0"
   }
 }

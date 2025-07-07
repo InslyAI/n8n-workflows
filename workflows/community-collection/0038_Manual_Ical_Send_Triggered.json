@@ -83,16 +83,16 @@
       "department": "",
       "nodes_count": 3,
       "integrations": [
-        "manualTrigger",
         "iCal",
+        "manualTrigger",
         "emailSend"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.287034",
-    "updated_at": "2025-07-07T19:41:49.287035",
+    "created_at": "2025-07-07T19:46:35.006432",
+    "updated_at": "2025-07-07T19:46:35.006434",
     "version": "1.0.0"
   }
 }

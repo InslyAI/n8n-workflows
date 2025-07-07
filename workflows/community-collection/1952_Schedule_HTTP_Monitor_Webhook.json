@@ -335,18 +335,18 @@
       "department": "",
       "nodes_count": 7,
       "integrations": [
-        "googleSheets",
         "stickyNote",
+        "gmail",
+        "googleSheets",
         "httpRequest",
-        "scheduleTrigger",
-        "gmail"
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.030725",
-    "updated_at": "2025-07-07T19:41:49.030726",
+    "created_at": "2025-07-07T19:46:34.646338",
+    "updated_at": "2025-07-07T19:46:34.646339",
     "version": "1.0.0"
   }
 }

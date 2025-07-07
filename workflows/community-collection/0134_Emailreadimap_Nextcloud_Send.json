@@ -82,16 +82,16 @@
       "department": "",
       "nodes_count": 3,
       "integrations": [
-        "emailReadImap",
+        "function",
         "nextCloud",
-        "function"
+        "emailReadImap"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.453732",
-    "updated_at": "2025-07-07T19:41:49.453733",
+    "created_at": "2025-07-07T19:46:35.229211",
+    "updated_at": "2025-07-07T19:46:35.229212",
     "version": "1.0.0"
   }
 }

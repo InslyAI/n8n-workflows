@@ -476,17 +476,17 @@
       "department": "",
       "nodes_count": 15,
       "integrations": [
+        "sort",
         "stickyNote",
+        "gmail",
+        "trello",
         "merge",
         "code",
-        "filter",
-        "trello",
-        "limit",
+        "set",
         "scheduleTrigger",
-        "gmail",
         "rssFeedRead",
-        "sort",
-        "set"
+        "filter",
+        "limit"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -499,8 +499,8 @@
         "updatedAt": "2024-12-26T13:41:03.811Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.101667",
-    "updated_at": "2025-07-07T19:41:49.101668",
+    "created_at": "2025-07-07T19:46:34.780113",
+    "updated_at": "2025-07-07T19:46:34.780114",
     "version": "1.0.0"
   }
 }

@@ -322,21 +322,21 @@
       "department": "",
       "nodes_count": 9,
       "integrations": [
-        "shopifyTrigger",
-        "harvest",
         "if",
-        "trello",
-        "zohoCrm",
-        "gmail",
         "mailchimp",
-        "set"
+        "harvest",
+        "gmail",
+        "zohoCrm",
+        "trello",
+        "set",
+        "shopifyTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.786031",
-    "updated_at": "2025-07-07T19:41:48.786032",
+    "created_at": "2025-07-07T19:46:34.403672",
+    "updated_at": "2025-07-07T19:46:34.403673",
     "version": "1.0.0"
   }
 }

@@ -1920,24 +1920,24 @@
       "department": "",
       "nodes_count": 23,
       "integrations": [
-        "googleSheets",
         "if",
-        "merge",
-        "splitInBatches",
-        "hubspot",
         "stickyNote",
         "httpRequest",
-        "postgres",
-        "scheduleTrigger",
+        "splitInBatches",
+        "googleSheets",
+        "merge",
         "code",
-        "set"
+        "set",
+        "scheduleTrigger",
+        "hubspot",
+        "postgres"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.228921",
-    "updated_at": "2025-07-07T19:41:49.228921",
+    "created_at": "2025-07-07T19:46:34.927354",
+    "updated_at": "2025-07-07T19:46:34.927355",
     "version": "1.0.0"
   }
 }

@@ -1770,25 +1770,25 @@
       "department": "",
       "nodes_count": 35,
       "integrations": [
-        "googleSheets",
-        "slack",
-        "if",
-        "splitInBatches",
-        "stickyNote",
         "splitOut",
-        "merge",
-        "httpRequest",
+        "if",
+        "stickyNote",
         "googleSheetsTrigger",
+        "httpRequest",
+        "splitInBatches",
+        "googleSheets",
+        "merge",
+        "slack",
+        "code",
         "scheduleTrigger",
-        "filter",
-        "code"
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.814223",
-    "updated_at": "2025-07-07T19:41:48.814224",
+    "created_at": "2025-07-07T19:46:34.430584",
+    "updated_at": "2025-07-07T19:46:34.430584",
     "version": "1.0.0"
   }
 }

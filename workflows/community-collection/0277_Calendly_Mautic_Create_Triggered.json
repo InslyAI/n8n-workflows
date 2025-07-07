@@ -91,16 +91,16 @@
       "department": "",
       "nodes_count": 3,
       "integrations": [
-        "calendlyTrigger",
         "stickyNote",
+        "calendlyTrigger",
         "mautic"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.482985",
-    "updated_at": "2025-07-07T19:41:49.482985",
+    "created_at": "2025-07-07T19:46:35.260737",
+    "updated_at": "2025-07-07T19:46:35.260739",
     "version": "1.0.0"
   }
 }

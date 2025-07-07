@@ -297,19 +297,19 @@
       "department": "",
       "nodes_count": 9,
       "integrations": [
+        "stickyNote",
         "manualTrigger",
         "googleSheets",
-        "stickyNote",
+        "code",
         "postgresTrigger",
-        "filter",
-        "code"
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.417393",
-    "updated_at": "2025-07-07T19:41:49.417394",
+    "created_at": "2025-07-07T19:46:35.189581",
+    "updated_at": "2025-07-07T19:46:35.189582",
     "version": "1.0.0"
   }
 }

@@ -143,18 +143,18 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
-        "executeCommand",
+        "twilio",
         "if",
         "noOp",
         "cron",
-        "twilio"
+        "executeCommand"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.190348",
-    "updated_at": "2025-07-07T19:41:49.190349",
+    "created_at": "2025-07-07T19:46:34.887274",
+    "updated_at": "2025-07-07T19:46:34.887275",
     "version": "1.0.0"
   }
 }

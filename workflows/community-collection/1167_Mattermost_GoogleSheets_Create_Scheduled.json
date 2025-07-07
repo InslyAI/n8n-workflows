@@ -109,17 +109,17 @@
       "department": "",
       "nodes_count": 4,
       "integrations": [
-        "googleSheets",
+        "function",
         "interval",
         "mattermost",
-        "function"
+        "googleSheets"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.238405",
-    "updated_at": "2025-07-07T19:41:49.238405",
+    "created_at": "2025-07-07T19:46:34.935388",
+    "updated_at": "2025-07-07T19:46:34.935389",
     "version": "1.0.0"
   }
 }

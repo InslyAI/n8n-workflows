@@ -216,19 +216,19 @@
       "department": "",
       "nodes_count": 9,
       "integrations": [
-        "set",
         "stickyNote",
         "respondToWebhook",
-        "webhook",
         "n8nTrainingCustomerDatastore",
-        "aggregate"
+        "aggregate",
+        "set",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.120431",
-    "updated_at": "2025-07-07T19:41:49.120432",
+    "created_at": "2025-07-07T19:46:34.806975",
+    "updated_at": "2025-07-07T19:46:34.806976",
     "version": "1.0.0"
   }
 }

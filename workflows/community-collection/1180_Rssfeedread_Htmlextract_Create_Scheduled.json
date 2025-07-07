@@ -182,16 +182,16 @@
       "integrations": [
         "function",
         "cron",
-        "htmlExtract",
+        "set",
         "rssFeedRead",
-        "set"
+        "htmlExtract"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.496118",
-    "updated_at": "2025-07-07T19:41:49.496119",
+    "created_at": "2025-07-07T19:46:35.275010",
+    "updated_at": "2025-07-07T19:46:35.275011",
     "version": "1.0.0"
   }
 }

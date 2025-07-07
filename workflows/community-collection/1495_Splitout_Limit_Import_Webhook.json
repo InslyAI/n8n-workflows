@@ -681,14 +681,14 @@
       "department": "",
       "nodes_count": 25,
       "integrations": [
-        "manualTrigger",
-        "stickyNote",
         "splitOut",
+        "stickyNote",
+        "manualTrigger",
+        "code",
         "html",
         "httpRequest",
-        "limit",
-        "code",
-        "set"
+        "set",
+        "limit"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -707,8 +707,8 @@
         "updatedAt": "2025-04-16T12:47:57.976Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.186222",
-    "updated_at": "2025-07-07T19:41:49.186223",
+    "created_at": "2025-07-07T19:46:34.882637",
+    "updated_at": "2025-07-07T19:46:34.882638",
     "version": "1.0.0"
   }
 }

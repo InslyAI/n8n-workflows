@@ -438,16 +438,16 @@
       "department": "",
       "nodes_count": 17,
       "integrations": [
+        "stickyNote",
         "manualTrigger",
-        "httpRequest",
-        "stickyNote"
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.960580",
-    "updated_at": "2025-07-07T19:41:48.960581",
+    "created_at": "2025-07-07T19:46:34.574742",
+    "updated_at": "2025-07-07T19:46:34.574743",
     "version": "1.0.0"
   }
 }

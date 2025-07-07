@@ -665,22 +665,22 @@
       "department": "",
       "nodes_count": 20,
       "integrations": [
-        "manualTrigger",
-        "dropbox",
-        "switch",
-        "executeWorkflowTrigger",
         "stickyNote",
+        "manualTrigger",
+        "switch",
+        "dropbox",
         "merge",
         "wait",
         "httpRequest",
-        "set"
+        "set",
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.861518",
-    "updated_at": "2025-07-07T19:41:48.861518",
+    "created_at": "2025-07-07T19:46:34.477507",
+    "updated_at": "2025-07-07T19:46:34.477508",
     "version": "1.0.0"
   }
 }

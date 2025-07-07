@@ -420,17 +420,17 @@
       "department": "",
       "nodes_count": 16,
       "integrations": [
-        "manualTrigger",
         "googleDrive",
+        "set",
         "stickyNote",
-        "set"
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.594779",
-    "updated_at": "2025-07-07T19:41:49.594780",
+    "created_at": "2025-07-07T19:46:35.378557",
+    "updated_at": "2025-07-07T19:46:35.378559",
     "version": "1.0.0"
   }
 }

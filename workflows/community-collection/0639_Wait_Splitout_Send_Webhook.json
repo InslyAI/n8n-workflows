@@ -759,26 +759,26 @@
       "department": "",
       "nodes_count": 26,
       "integrations": [
-        "manualTrigger",
-        "googleSheets",
-        "executeWorkflowTrigger",
-        "stickyNote",
-        "splitInBatches",
-        "removeDuplicates",
         "splitOut",
-        "wait",
+        "stickyNote",
+        "manualTrigger",
         "httpRequest",
+        "splitInBatches",
+        "googleSheets",
+        "aggregate",
+        "wait",
+        "code",
         "executeWorkflow",
         "filter",
-        "code",
-        "aggregate"
+        "executeWorkflowTrigger",
+        "removeDuplicates"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.273815",
-    "updated_at": "2025-07-07T19:41:49.273816",
+    "created_at": "2025-07-07T19:46:34.975539",
+    "updated_at": "2025-07-07T19:46:34.975541",
     "version": "1.0.0"
   }
 }

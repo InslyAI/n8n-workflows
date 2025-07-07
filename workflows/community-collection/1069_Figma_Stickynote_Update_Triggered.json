@@ -149,16 +149,16 @@
       "department": "",
       "nodes_count": 4,
       "integrations": [
-        "figmaTrigger",
         "stickyNote",
+        "figmaTrigger",
         "jira"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.513258",
-    "updated_at": "2025-07-07T19:41:49.513259",
+    "created_at": "2025-07-07T19:46:35.292973",
+    "updated_at": "2025-07-07T19:46:35.292974",
     "version": "1.0.0"
   }
 }

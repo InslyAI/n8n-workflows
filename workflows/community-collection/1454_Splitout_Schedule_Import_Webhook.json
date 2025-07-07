@@ -351,10 +351,10 @@
       "department": "",
       "nodes_count": 7,
       "integrations": [
+        "splitOut",
+        "stickyNote",
         "manualTrigger",
         "googleSheets",
-        "stickyNote",
-        "splitOut",
         "httpRequest",
         "scheduleTrigger"
       ],
@@ -369,8 +369,8 @@
         "updatedAt": "2025-03-06T05:49:51.612Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.415770",
-    "updated_at": "2025-07-07T19:41:49.415771",
+    "created_at": "2025-07-07T19:46:35.187817",
+    "updated_at": "2025-07-07T19:46:35.187817",
     "version": "1.0.0"
   }
 }

@@ -732,23 +732,23 @@
       "department": "",
       "nodes_count": 19,
       "integrations": [
-        "if",
         "splitOut",
-        "merge",
+        "if",
         "form",
-        "html",
-        "limit",
         "formTrigger",
-        "filter",
+        "html",
+        "merge",
         "emailSend",
-        "set"
+        "set",
+        "limit",
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.716056",
-    "updated_at": "2025-07-07T19:41:48.716056",
+    "created_at": "2025-07-07T19:46:34.337971",
+    "updated_at": "2025-07-07T19:46:34.337971",
     "version": "1.0.0"
   }
 }

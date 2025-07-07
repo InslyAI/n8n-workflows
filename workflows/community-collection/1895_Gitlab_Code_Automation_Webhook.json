@@ -623,12 +623,12 @@
       "department": "",
       "nodes_count": 23,
       "integrations": [
-        "stickyNote",
         "if",
-        "merge",
+        "stickyNote",
         "httpRequest",
-        "gitlabTrigger",
         "gmail",
+        "gitlabTrigger",
+        "merge",
         "code"
       ],
       "estimated_cost": "medium",
@@ -672,8 +672,8 @@
         "updatedAt": "2025-01-03T12:19:34.273Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.485286",
-    "updated_at": "2025-07-07T19:41:49.485287",
+    "created_at": "2025-07-07T19:46:35.263173",
+    "updated_at": "2025-07-07T19:46:35.263174",
     "version": "1.0.0"
   }
 }

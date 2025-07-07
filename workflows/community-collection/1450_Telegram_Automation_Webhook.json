@@ -262,16 +262,16 @@
       "department": "",
       "nodes_count": 7,
       "integrations": [
-        "telegramTrigger",
+        "set",
         "telegram",
-        "set"
+        "telegramTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.408538",
-    "updated_at": "2025-07-07T19:41:49.408539",
+    "created_at": "2025-07-07T19:46:35.180009",
+    "updated_at": "2025-07-07T19:46:35.180010",
     "version": "1.0.0"
   }
 }

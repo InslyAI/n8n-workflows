@@ -1312,24 +1312,24 @@
       "department": "",
       "nodes_count": 45,
       "integrations": [
-        "extractFromFile",
+        "splitOut",
+        "noOp",
         "switch",
         "stickyNote",
-        "splitInBatches",
-        "noOp",
-        "splitOut",
         "httpRequest",
-        "webhook",
-        "filter",
+        "splitInBatches",
+        "extractFromFile",
         "code",
-        "set"
+        "set",
+        "webhook",
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.738838",
-    "updated_at": "2025-07-07T19:41:48.738839",
+    "created_at": "2025-07-07T19:46:34.359778",
+    "updated_at": "2025-07-07T19:46:34.359779",
     "version": "1.0.0"
   }
 }

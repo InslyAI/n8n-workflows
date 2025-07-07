@@ -512,20 +512,20 @@
       "department": "",
       "nodes_count": 16,
       "integrations": [
-        "extractFromFile",
         "switch",
-        "googleDrive",
-        "stickyNote",
-        "httpRequest",
         "convertToFile",
+        "stickyNote",
+        "extractFromFile",
+        "httpRequest",
+        "googleDrive",
         "googleDriveTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.204073",
-    "updated_at": "2025-07-07T19:41:49.204074",
+    "created_at": "2025-07-07T19:46:34.904941",
+    "updated_at": "2025-07-07T19:46:34.904942",
     "version": "1.0.0"
   }
 }

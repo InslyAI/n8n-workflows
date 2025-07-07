@@ -552,14 +552,14 @@
       "department": "",
       "nodes_count": 12,
       "integrations": [
-        "switch",
-        "executeWorkflowTrigger",
         "if",
-        "set",
-        "wait",
+        "switch",
         "httpRequest",
+        "stopAndError",
+        "wait",
         "code",
-        "stopAndError"
+        "set",
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -572,8 +572,8 @@
         "updatedAt": "2025-02-25T04:17:21.943Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:48.711960",
-    "updated_at": "2025-07-07T19:41:48.711961",
+    "created_at": "2025-07-07T19:46:34.334019",
+    "updated_at": "2025-07-07T19:46:34.334020",
     "version": "1.0.0"
   }
 }

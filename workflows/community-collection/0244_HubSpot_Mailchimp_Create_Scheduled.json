@@ -159,17 +159,17 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
+        "mailchimp",
         "hubspot",
         "cron",
-        "mailchimp",
         "functionItem"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.326891",
-    "updated_at": "2025-07-07T19:41:49.326891",
+    "created_at": "2025-07-07T19:46:35.084588",
+    "updated_at": "2025-07-07T19:46:35.084589",
     "version": "1.0.0"
   }
 }

@@ -670,23 +670,23 @@
       "department": "",
       "nodes_count": 16,
       "integrations": [
-        "manualTrigger",
-        "googleDrive",
-        "googleSheets",
-        "stickyNote",
         "splitOut",
-        "splitInBatches",
-        "httpRequest",
-        "aggregate",
         "convertToFile",
-        "set"
+        "manualTrigger",
+        "stickyNote",
+        "splitInBatches",
+        "googleSheets",
+        "set",
+        "aggregate",
+        "httpRequest",
+        "googleDrive"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.939261",
-    "updated_at": "2025-07-07T19:41:48.939262",
+    "created_at": "2025-07-07T19:46:34.553198",
+    "updated_at": "2025-07-07T19:46:34.553199",
     "version": "1.0.0"
   }
 }

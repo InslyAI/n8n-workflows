@@ -835,28 +835,28 @@
       "department": "",
       "nodes_count": 25,
       "integrations": [
+        "if",
+        "noOp",
+        "stickyNote",
         "manualTrigger",
         "switch",
-        "executeWorkflowTrigger",
-        "stickyNote",
-        "if",
-        "merge",
-        "noOp",
-        "splitInBatches",
-        "httpRequest",
-        "n8n",
-        "scheduleTrigger",
         "github",
-        "executeWorkflow",
         "code",
-        "set"
+        "splitInBatches",
+        "merge",
+        "executeWorkflowTrigger",
+        "httpRequest",
+        "set",
+        "scheduleTrigger",
+        "executeWorkflow",
+        "n8n"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.811474",
-    "updated_at": "2025-07-07T19:41:48.811475",
+    "created_at": "2025-07-07T19:46:34.428062",
+    "updated_at": "2025-07-07T19:46:34.428063",
     "version": "1.0.0"
   }
 }

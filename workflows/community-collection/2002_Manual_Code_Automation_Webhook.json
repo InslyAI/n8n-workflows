@@ -901,20 +901,20 @@
       "department": "",
       "nodes_count": 26,
       "integrations": [
-        "manualTrigger",
-        "switch",
-        "stickyNote",
         "if",
-        "httpRequest",
+        "stickyNote",
+        "switch",
+        "manualTrigger",
         "code",
+        "httpRequest",
         "set"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.358362",
-    "updated_at": "2025-07-07T19:41:49.358363",
+    "created_at": "2025-07-07T19:46:35.123903",
+    "updated_at": "2025-07-07T19:46:35.123906",
     "version": "1.0.0"
   }
 }

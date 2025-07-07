@@ -172,17 +172,17 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
-        "manualTrigger",
-        "httpRequest",
         "stickyNote",
-        "readWriteFile"
+        "readWriteFile",
+        "manualTrigger",
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.035790",
-    "updated_at": "2025-07-07T19:41:49.035791",
+    "created_at": "2025-07-07T19:46:34.651966",
+    "updated_at": "2025-07-07T19:46:34.651968",
     "version": "1.0.0"
   }
 }

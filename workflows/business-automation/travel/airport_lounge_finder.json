@@ -311,16 +311,16 @@
       "department": "General",
       "nodes_count": 11,
       "integrations": [
-        "googleSheets",
         "webhook",
-        "stickyNote"
+        "stickyNote",
+        "googleSheets"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.671937",
-    "updated_at": "2025-07-07T19:41:49.671938",
+    "created_at": "2025-07-07T19:46:35.463010",
+    "updated_at": "2025-07-07T19:46:35.463011",
     "version": "1.0.0"
   }
 }

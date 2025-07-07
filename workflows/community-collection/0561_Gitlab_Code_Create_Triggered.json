@@ -764,23 +764,23 @@
       "department": "",
       "nodes_count": 21,
       "integrations": [
-        "manualTrigger",
-        "extractFromFile",
+        "noOp",
         "switch",
+        "manualTrigger",
         "stickyNote",
         "splitInBatches",
-        "noOp",
-        "n8n",
-        "gitlab",
+        "extractFromFile",
         "code",
-        "set"
+        "set",
+        "gitlab",
+        "n8n"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.505186",
-    "updated_at": "2025-07-07T19:41:49.505187",
+    "created_at": "2025-07-07T19:46:35.284459",
+    "updated_at": "2025-07-07T19:46:35.284460",
     "version": "1.0.0"
   }
 }

@@ -234,19 +234,19 @@
       "department": "",
       "nodes_count": 7,
       "integrations": [
-        "slack",
         "if",
         "cron",
-        "twitter",
         "dateTime",
+        "twitter",
+        "slack",
         "set"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.217082",
-    "updated_at": "2025-07-07T19:41:49.217083",
+    "created_at": "2025-07-07T19:46:34.915447",
+    "updated_at": "2025-07-07T19:46:34.915448",
     "version": "1.0.0"
   }
 }

@@ -176,16 +176,16 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
-        "wooCommerceTrigger",
         "if",
+        "wooCommerceTrigger",
         "mautic"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.645106",
-    "updated_at": "2025-07-07T19:41:48.645107",
+    "created_at": "2025-07-07T19:46:34.258603",
+    "updated_at": "2025-07-07T19:46:34.258604",
     "version": "1.0.0"
   }
 }

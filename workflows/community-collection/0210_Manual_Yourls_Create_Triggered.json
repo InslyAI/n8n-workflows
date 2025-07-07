@@ -88,15 +88,15 @@
       "department": "",
       "nodes_count": 3,
       "integrations": [
-        "manualTrigger",
-        "yourls"
+        "yourls",
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.095526",
-    "updated_at": "2025-07-07T19:41:49.095527",
+    "created_at": "2025-07-07T19:46:34.769293",
+    "updated_at": "2025-07-07T19:46:34.769296",
     "version": "1.0.0"
   }
 }

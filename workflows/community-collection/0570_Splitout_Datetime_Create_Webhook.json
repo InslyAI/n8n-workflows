@@ -928,22 +928,22 @@
       "department": "",
       "nodes_count": 29,
       "integrations": [
-        "manualTrigger",
-        "stickyNote",
         "splitOut",
-        "merge",
         "if",
-        "httpRequest",
-        "scheduleTrigger",
+        "stickyNote",
+        "manualTrigger",
         "dateTime",
-        "set"
+        "merge",
+        "httpRequest",
+        "set",
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.886257",
-    "updated_at": "2025-07-07T19:41:48.886258",
+    "created_at": "2025-07-07T19:46:34.502335",
+    "updated_at": "2025-07-07T19:46:34.502339",
     "version": "1.0.0"
   }
 }

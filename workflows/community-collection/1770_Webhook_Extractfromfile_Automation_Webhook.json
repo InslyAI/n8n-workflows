@@ -241,19 +241,19 @@
       "department": "",
       "nodes_count": 9,
       "integrations": [
-        "extractFromFile",
         "stickyNote",
-        "httpRequest",
         "respondToWebhook",
-        "webhook",
-        "set"
+        "extractFromFile",
+        "httpRequest",
+        "set",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.708826",
-    "updated_at": "2025-07-07T19:41:48.708827",
+    "created_at": "2025-07-07T19:46:34.330834",
+    "updated_at": "2025-07-07T19:46:34.330834",
     "version": "1.0.0"
   }
 }

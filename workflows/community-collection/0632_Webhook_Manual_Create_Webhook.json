@@ -11021,20 +11021,20 @@
       "department": "",
       "nodes_count": 21,
       "integrations": [
-        "manualTrigger",
-        "supabase",
-        "stickyNote",
         "if",
+        "stickyNote",
+        "manualTrigger",
         "httpRequest",
-        "webhook",
-        "set"
+        "set",
+        "supabase",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.344402",
-    "updated_at": "2025-07-07T19:41:49.344403",
+    "created_at": "2025-07-07T19:46:35.106195",
+    "updated_at": "2025-07-07T19:46:35.106199",
     "version": "1.0.0"
   }
 }

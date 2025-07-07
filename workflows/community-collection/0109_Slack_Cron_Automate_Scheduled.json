@@ -381,21 +381,21 @@
       "department": "",
       "nodes_count": 12,
       "integrations": [
-        "slack",
-        "if",
         "function",
-        "merge",
-        "googleCalendar",
+        "if",
         "cron",
+        "googleCalendar",
         "dateTime",
+        "merge",
+        "slack",
         "set"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.483969",
-    "updated_at": "2025-07-07T19:41:49.483970",
+    "created_at": "2025-07-07T19:46:35.261697",
+    "updated_at": "2025-07-07T19:46:35.261698",
     "version": "1.0.0"
   }
 }

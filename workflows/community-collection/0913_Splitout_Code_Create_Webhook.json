@@ -364,20 +364,20 @@
       "department": "",
       "nodes_count": 11,
       "integrations": [
-        "manualTrigger",
-        "googleSheets",
-        "stickyNote",
-        "splitInBatches",
         "splitOut",
-        "httpRequest",
-        "code"
+        "stickyNote",
+        "manualTrigger",
+        "code",
+        "splitInBatches",
+        "googleSheets",
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.451390",
-    "updated_at": "2025-07-07T19:41:49.451390",
+    "created_at": "2025-07-07T19:46:35.226754",
+    "updated_at": "2025-07-07T19:46:35.226755",
     "version": "1.0.0"
   }
 }

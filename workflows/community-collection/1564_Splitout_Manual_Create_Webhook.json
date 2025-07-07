@@ -899,21 +899,21 @@
       "department": "",
       "nodes_count": 16,
       "integrations": [
-        "manualTrigger",
-        "if",
-        "splitInBatches",
-        "stickyNote",
         "splitOut",
-        "httpRequest",
+        "if",
+        "stickyNote",
+        "manualTrigger",
         "airtable",
+        "splitInBatches",
+        "httpRequest",
         "set"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.461743",
-    "updated_at": "2025-07-07T19:41:49.461744",
+    "created_at": "2025-07-07T19:46:35.237943",
+    "updated_at": "2025-07-07T19:46:35.237944",
     "version": "1.0.0"
   }
 }

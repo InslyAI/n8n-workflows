@@ -256,20 +256,20 @@
       "department": "",
       "nodes_count": 9,
       "integrations": [
-        "stickyNote",
-        "if",
         "noOp",
+        "if",
+        "stickyNote",
         "httpRequest",
-        "webhook",
+        "code",
         "scheduleTrigger",
-        "code"
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.252406",
-    "updated_at": "2025-07-07T19:41:49.252406",
+    "created_at": "2025-07-07T19:46:34.950200",
+    "updated_at": "2025-07-07T19:46:34.950201",
     "version": "1.0.0"
   }
 }

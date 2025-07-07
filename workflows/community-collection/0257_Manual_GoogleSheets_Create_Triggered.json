@@ -394,21 +394,21 @@
       "department": "",
       "nodes_count": 12,
       "integrations": [
-        "manualTrigger",
-        "googleSheets",
         "if",
-        "merge",
-        "itemLists",
+        "manualTrigger",
         "salesforce",
         "renameKeys",
+        "googleSheets",
+        "merge",
+        "itemLists",
         "set"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.962995",
-    "updated_at": "2025-07-07T19:41:48.962996",
+    "created_at": "2025-07-07T19:46:34.577203",
+    "updated_at": "2025-07-07T19:46:34.577203",
     "version": "1.0.0"
   }
 }

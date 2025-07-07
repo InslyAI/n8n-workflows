@@ -486,23 +486,23 @@
       "department": "",
       "nodes_count": 14,
       "integrations": [
-        "notionTrigger",
         "if",
-        "notion",
         "noOp",
-        "merge",
         "stickyNote",
-        "httpRequest",
-        "scheduleTrigger",
+        "notion",
         "gmail",
-        "dateTime"
+        "dateTime",
+        "notionTrigger",
+        "merge",
+        "httpRequest",
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.057369",
-    "updated_at": "2025-07-07T19:41:49.057370",
+    "created_at": "2025-07-07T19:46:34.678700",
+    "updated_at": "2025-07-07T19:46:34.678701",
     "version": "1.0.0"
   }
 }

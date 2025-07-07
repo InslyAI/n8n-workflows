@@ -309,15 +309,15 @@
         "stickyNote",
         "notion",
         "httpRequest",
-        "webhook",
-        "set"
+        "set",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.541978",
-    "updated_at": "2025-07-07T19:41:49.541979",
+    "created_at": "2025-07-07T19:46:35.319750",
+    "updated_at": "2025-07-07T19:46:35.319751",
     "version": "1.0.0"
   }
 }

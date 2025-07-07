@@ -514,18 +514,18 @@
       "nodes_count": 17,
       "integrations": [
         "stickyNote",
-        "httpRequest",
-        "wordpressTool",
-        "gmailTool",
         "formTrigger",
-        "set"
+        "wordpressTool",
+        "httpRequest",
+        "set",
+        "gmailTool"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.475522",
-    "updated_at": "2025-07-07T19:41:49.475523",
+    "created_at": "2025-07-07T19:46:35.252992",
+    "updated_at": "2025-07-07T19:46:35.252993",
     "version": "1.0.0"
   }
 }

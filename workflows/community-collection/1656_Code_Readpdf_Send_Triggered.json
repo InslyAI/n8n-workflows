@@ -499,23 +499,23 @@
       "department": "",
       "nodes_count": 18,
       "integrations": [
-        "googleDrive",
-        "stickyNote",
-        "if",
-        "noOp",
-        "readPDF",
-        "merge",
         "gmailTrigger",
+        "noOp",
+        "if",
+        "stickyNote",
         "openAi",
+        "merge",
+        "googleDrive",
         "code",
-        "set"
+        "set",
+        "readPDF"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.894821",
-    "updated_at": "2025-07-07T19:41:48.894822",
+    "created_at": "2025-07-07T19:46:34.510641",
+    "updated_at": "2025-07-07T19:46:34.510642",
     "version": "1.0.0"
   }
 }

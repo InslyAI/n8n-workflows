@@ -209,11 +209,11 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
-        "slack",
         "if",
+        "slack",
         "airtop",
-        "scheduleTrigger",
-        "set"
+        "set",
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -226,8 +226,8 @@
         "updatedAt": "2025-04-04T15:38:37.785Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:48.909025",
-    "updated_at": "2025-07-07T19:41:48.909026",
+    "created_at": "2025-07-07T19:46:34.524430",
+    "updated_at": "2025-07-07T19:46:34.524431",
     "version": "1.0.0"
   }
 }

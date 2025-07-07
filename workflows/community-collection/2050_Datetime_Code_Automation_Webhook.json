@@ -690,11 +690,11 @@
       "department": "",
       "nodes_count": 21,
       "integrations": [
-        "googleSheets",
-        "stickyNote",
         "splitOut",
+        "stickyNote",
         "httpRequest",
         "dateTime",
+        "googleSheets",
         "code",
         "set"
       ],
@@ -715,8 +715,8 @@
         "updatedAt": "2024-06-18T22:15:34.874Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.208751",
-    "updated_at": "2025-07-07T19:41:49.208756",
+    "created_at": "2025-07-07T19:46:34.909901",
+    "updated_at": "2025-07-07T19:46:34.909902",
     "version": "1.0.0"
   }
 }

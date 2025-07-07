@@ -612,20 +612,20 @@
       "department": "",
       "nodes_count": 18,
       "integrations": [
+        "gmailTrigger",
         "stickyNote",
         "httpRequest",
-        "gmailTrigger",
         "jira",
         "code",
-        "microsoftOutlookTrigger",
-        "set"
+        "set",
+        "microsoftOutlookTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.883795",
-    "updated_at": "2025-07-07T19:41:48.883796",
+    "created_at": "2025-07-07T19:46:34.499560",
+    "updated_at": "2025-07-07T19:46:34.499561",
     "version": "1.0.0"
   }
 }

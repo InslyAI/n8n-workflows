@@ -1871,28 +1871,28 @@
       "department": "",
       "nodes_count": 61,
       "integrations": [
-        "switch",
-        "executeWorkflowTrigger",
-        "stickyNote",
-        "if",
         "splitOut",
-        "merge",
-        "googleCalendar",
-        "html",
-        "httpRequest",
+        "if",
+        "stickyNote",
+        "switch",
         "whatsApp",
+        "googleCalendar",
+        "gmail",
+        "html",
+        "merge",
         "aggregate",
+        "httpRequest",
+        "set",
         "scheduleTrigger",
         "executeWorkflow",
-        "gmail",
-        "set"
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.840053",
-    "updated_at": "2025-07-07T19:41:48.840053",
+    "created_at": "2025-07-07T19:46:34.456514",
+    "updated_at": "2025-07-07T19:46:34.456515",
     "version": "1.0.0"
   }
 }

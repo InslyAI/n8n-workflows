@@ -859,23 +859,23 @@
       "department": "",
       "nodes_count": 26,
       "integrations": [
-        "extractFromFile",
-        "manualTrigger",
-        "executeWorkflowTrigger",
-        "stickyNote",
         "if",
-        "readWriteFile",
-        "merge",
-        "postgres",
         "convertToFile",
-        "set"
+        "stickyNote",
+        "manualTrigger",
+        "merge",
+        "extractFromFile",
+        "set",
+        "readWriteFile",
+        "executeWorkflowTrigger",
+        "postgres"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.134707",
-    "updated_at": "2025-07-07T19:41:49.134708",
+    "created_at": "2025-07-07T19:46:34.823288",
+    "updated_at": "2025-07-07T19:46:34.823289",
     "version": "1.0.0"
   }
 }

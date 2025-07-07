@@ -118,15 +118,15 @@
       "integrations": [
         "spreadsheetFile",
         "webhook",
-        "itemLists",
-        "respondToWebhook"
+        "respondToWebhook",
+        "itemLists"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.552117",
-    "updated_at": "2025-07-07T19:41:49.552118",
+    "created_at": "2025-07-07T19:46:35.330612",
+    "updated_at": "2025-07-07T19:46:35.330613",
     "version": "1.0.0"
   }
 }

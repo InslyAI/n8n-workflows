@@ -140,18 +140,18 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
-        "if",
+        "mattermost",
         "noOp",
-        "googleCloudNaturalLanguage",
+        "if",
         "typeformTrigger",
-        "mattermost"
+        "googleCloudNaturalLanguage"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.830588",
-    "updated_at": "2025-07-07T19:41:48.830589",
+    "created_at": "2025-07-07T19:46:34.447964",
+    "updated_at": "2025-07-07T19:46:34.447965",
     "version": "1.0.0"
   }
 }

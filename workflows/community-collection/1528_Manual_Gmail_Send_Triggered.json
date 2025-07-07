@@ -184,9 +184,9 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
-        "manualTrigger",
         "googleDrive",
-        "gmail"
+        "gmail",
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -199,8 +199,8 @@
         "updatedAt": "2025-03-09T00:24:01.723Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.225985",
-    "updated_at": "2025-07-07T19:41:49.225987",
+    "created_at": "2025-07-07T19:46:34.924192",
+    "updated_at": "2025-07-07T19:46:34.924193",
     "version": "1.0.0"
   }
 }

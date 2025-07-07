@@ -2505,22 +2505,22 @@
       "department": "",
       "nodes_count": 44,
       "integrations": [
-        "switch",
         "if",
+        "switch",
         "stickyNote",
-        "ssh",
         "httpRequest",
         "respondToWebhook",
-        "webhook",
         "code",
-        "set"
+        "set",
+        "webhook",
+        "ssh"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.721625",
-    "updated_at": "2025-07-07T19:41:48.721626",
+    "created_at": "2025-07-07T19:46:34.343197",
+    "updated_at": "2025-07-07T19:46:34.343198",
     "version": "1.0.0"
   }
 }

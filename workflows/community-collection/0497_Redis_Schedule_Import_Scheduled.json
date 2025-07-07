@@ -438,12 +438,12 @@
       "department": "",
       "nodes_count": 17,
       "integrations": [
-        "manualTrigger",
         "if",
-        "stickyNote",
         "noOp",
-        "scheduleTrigger",
+        "stickyNote",
+        "manualTrigger",
         "redis",
+        "scheduleTrigger",
         "executeWorkflow",
         "filter"
       ],
@@ -451,8 +451,8 @@
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.129548",
-    "updated_at": "2025-07-07T19:41:49.129549",
+    "created_at": "2025-07-07T19:46:34.817542",
+    "updated_at": "2025-07-07T19:46:34.817543",
     "version": "1.0.0"
   }
 }

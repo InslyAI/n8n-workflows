@@ -215,19 +215,19 @@
       "department": "",
       "nodes_count": 7,
       "integrations": [
-        "if",
         "function",
-        "httpRequest",
+        "if",
         "cron",
-        "htmlExtract",
-        "emailSend"
+        "httpRequest",
+        "emailSend",
+        "htmlExtract"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.566547",
-    "updated_at": "2025-07-07T19:41:49.566547",
+    "created_at": "2025-07-07T19:46:35.346146",
+    "updated_at": "2025-07-07T19:46:35.346147",
     "version": "1.0.0"
   }
 }

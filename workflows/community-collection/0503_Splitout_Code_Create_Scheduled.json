@@ -684,23 +684,23 @@
       "department": "",
       "nodes_count": 23,
       "integrations": [
-        "spotify",
-        "set",
-        "if",
         "splitOut",
-        "splitInBatches",
+        "if",
         "stickyNote",
-        "scheduleTrigger",
-        "filter",
+        "spotify",
+        "splitInBatches",
+        "aggregate",
         "code",
-        "aggregate"
+        "set",
+        "scheduleTrigger",
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.800377",
-    "updated_at": "2025-07-07T19:41:48.800378",
+    "created_at": "2025-07-07T19:46:34.417819",
+    "updated_at": "2025-07-07T19:46:34.417819",
     "version": "1.0.0"
   }
 }

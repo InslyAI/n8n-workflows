@@ -459,24 +459,24 @@
       "department": "",
       "nodes_count": 14,
       "integrations": [
-        "googleSheets",
-        "googleDrive",
         "stickyNote",
-        "removeDuplicates",
-        "httpRequest",
-        "html",
-        "scheduleTrigger",
         "crypto",
         "gmail",
+        "html",
+        "googleSheets",
+        "googleDrive",
+        "httpRequest",
+        "set",
+        "scheduleTrigger",
         "markdown",
-        "set"
+        "removeDuplicates"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.148215",
-    "updated_at": "2025-07-07T19:41:49.148215",
+    "created_at": "2025-07-07T19:46:34.839037",
+    "updated_at": "2025-07-07T19:46:34.839040",
     "version": "1.0.0"
   }
 }

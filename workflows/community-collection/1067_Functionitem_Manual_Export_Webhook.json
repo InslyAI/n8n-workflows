@@ -239,21 +239,21 @@
       "department": "",
       "nodes_count": 9,
       "integrations": [
+        "function",
+        "cron",
         "manualTrigger",
         "moveBinaryData",
-        "merge",
-        "function",
         "nextCloud",
+        "merge",
         "httpRequest",
-        "functionItem",
-        "cron"
+        "functionItem"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.565566",
-    "updated_at": "2025-07-07T19:41:49.565567",
+    "created_at": "2025-07-07T19:46:35.345086",
+    "updated_at": "2025-07-07T19:46:35.345087",
     "version": "1.0.0"
   }
 }

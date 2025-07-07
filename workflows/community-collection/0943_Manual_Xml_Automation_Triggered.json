@@ -91,16 +91,16 @@
       "department": "",
       "nodes_count": 3,
       "integrations": [
+        "set",
         "manualTrigger",
-        "xml",
-        "set"
+        "xml"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.351676",
-    "updated_at": "2025-07-07T19:41:49.351676",
+    "created_at": "2025-07-07T19:46:35.114940",
+    "updated_at": "2025-07-07T19:46:35.114943",
     "version": "1.0.0"
   }
 }

@@ -2004,15 +2004,15 @@
       "department": "",
       "nodes_count": 44,
       "integrations": [
-        "stickyNote",
-        "merge",
-        "splitInBatches",
         "splitOut",
         "noOp",
-        "html",
-        "airtable",
-        "crypto",
+        "stickyNote",
         "formTrigger",
+        "crypto",
+        "airtable",
+        "splitInBatches",
+        "html",
+        "merge",
         "code",
         "set"
       ],
@@ -2020,8 +2020,8 @@
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.691182",
-    "updated_at": "2025-07-07T19:41:48.691183",
+    "created_at": "2025-07-07T19:46:34.304180",
+    "updated_at": "2025-07-07T19:46:34.304182",
     "version": "1.0.0"
   }
 }

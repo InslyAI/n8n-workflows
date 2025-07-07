@@ -504,15 +504,15 @@
       "department": "",
       "nodes_count": 12,
       "integrations": [
-        "executeWorkflowTrigger",
-        "stickyNote"
+        "stickyNote",
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.888310",
-    "updated_at": "2025-07-07T19:41:48.888311",
+    "created_at": "2025-07-07T19:46:34.504651",
+    "updated_at": "2025-07-07T19:46:34.504652",
     "version": "1.0.0"
   }
 }

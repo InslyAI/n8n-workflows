@@ -298,17 +298,17 @@
       "department": "",
       "nodes_count": 7,
       "integrations": [
+        "gmailTrigger",
         "extractFromFile",
-        "googleSheets",
         "stickyNote",
-        "gmailTrigger"
+        "googleSheets"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.109031",
-    "updated_at": "2025-07-07T19:41:49.109031",
+    "created_at": "2025-07-07T19:46:34.789072",
+    "updated_at": "2025-07-07T19:46:34.789073",
     "version": "1.0.0"
   }
 }

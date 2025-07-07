@@ -117,17 +117,17 @@
       "department": "",
       "nodes_count": 4,
       "integrations": [
-        "manualTrigger",
         "uproc",
         "if",
+        "manualTrigger",
         "functionItem"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.865131",
-    "updated_at": "2025-07-07T19:41:48.865131",
+    "created_at": "2025-07-07T19:46:34.480867",
+    "updated_at": "2025-07-07T19:46:34.480868",
     "version": "1.0.0"
   }
 }

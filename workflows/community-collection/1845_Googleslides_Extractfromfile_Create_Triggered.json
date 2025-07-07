@@ -897,13 +897,13 @@
       "department": "",
       "nodes_count": 14,
       "integrations": [
-        "extractFromFile",
-        "switch",
-        "googleSheets",
-        "googleDrive",
-        "merge",
         "googleSlides",
+        "switch",
         "stickyNote",
+        "googleSheets",
+        "merge",
+        "extractFromFile",
+        "googleDrive",
         "googleDriveTrigger"
       ],
       "estimated_cost": "medium",
@@ -923,8 +923,8 @@
         "updatedAt": "2025-02-23T15:28:28.561Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.377703",
-    "updated_at": "2025-07-07T19:41:49.377704",
+    "created_at": "2025-07-07T19:46:35.146710",
+    "updated_at": "2025-07-07T19:46:35.146711",
     "version": "1.0.0"
   }
 }

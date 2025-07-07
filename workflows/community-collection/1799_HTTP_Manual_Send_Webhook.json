@@ -241,19 +241,19 @@
       "department": "",
       "nodes_count": 8,
       "integrations": [
-        "manualTrigger",
-        "stickyNote",
         "if",
+        "stickyNote",
+        "manualTrigger",
         "httpRequest",
-        "webhook",
-        "set"
+        "set",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.140655",
-    "updated_at": "2025-07-07T19:41:49.140656",
+    "created_at": "2025-07-07T19:46:34.829910",
+    "updated_at": "2025-07-07T19:46:34.829911",
     "version": "1.0.0"
   }
 }

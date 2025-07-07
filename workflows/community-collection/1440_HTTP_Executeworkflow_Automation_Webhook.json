@@ -1207,17 +1207,17 @@
       "nodes_count": 29,
       "integrations": [
         "switch",
-        "executeWorkflowTrigger",
         "stickyNote",
         "httpRequest",
-        "set"
+        "set",
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.794978",
-    "updated_at": "2025-07-07T19:41:48.794978",
+    "created_at": "2025-07-07T19:46:34.412616",
+    "updated_at": "2025-07-07T19:46:34.412617",
     "version": "1.0.0"
   }
 }

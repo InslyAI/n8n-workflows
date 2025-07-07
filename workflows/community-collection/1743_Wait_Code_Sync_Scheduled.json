@@ -908,15 +908,15 @@
       "department": "",
       "nodes_count": 25,
       "integrations": [
-        "googleSheets",
-        "graphql",
-        "if",
         "noOp",
-        "wait",
+        "if",
         "stickyNote",
-        "scheduleTrigger",
+        "graphql",
+        "googleSheets",
+        "wait",
         "code",
-        "set"
+        "set",
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -929,8 +929,8 @@
         "updatedAt": "2023-12-20T00:14:27.348Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.415131",
-    "updated_at": "2025-07-07T19:41:49.415132",
+    "created_at": "2025-07-07T19:46:35.187091",
+    "updated_at": "2025-07-07T19:46:35.187092",
     "version": "1.0.0"
   }
 }

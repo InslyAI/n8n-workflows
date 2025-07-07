@@ -298,23 +298,23 @@
       "department": "",
       "nodes_count": 11,
       "integrations": [
-        "manualTrigger",
-        "writeBinaryFile",
-        "moveBinaryData",
         "function",
-        "httpRequest",
-        "telegram",
-        "functionItem",
         "cron",
+        "manualTrigger",
+        "moveBinaryData",
+        "telegram",
+        "httpRequest",
+        "set",
         "readBinaryFile",
-        "set"
+        "writeBinaryFile",
+        "functionItem"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.414186",
-    "updated_at": "2025-07-07T19:41:49.414187",
+    "created_at": "2025-07-07T19:46:35.186077",
+    "updated_at": "2025-07-07T19:46:35.186078",
     "version": "1.0.0"
   }
 }

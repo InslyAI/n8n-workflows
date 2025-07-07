@@ -737,21 +737,21 @@
       "department": "",
       "nodes_count": 28,
       "integrations": [
-        "manualTrigger",
-        "extractFromFile",
-        "stickyNote",
-        "splitInBatches",
         "splitOut",
+        "stickyNote",
+        "manualTrigger",
+        "splitInBatches",
+        "extractFromFile",
         "httpRequest",
-        "filter",
-        "set"
+        "set",
+        "filter"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.465148",
-    "updated_at": "2025-07-07T19:41:49.465150",
+    "created_at": "2025-07-07T19:46:35.241433",
+    "updated_at": "2025-07-07T19:46:35.241434",
     "version": "1.0.0"
   }
 }

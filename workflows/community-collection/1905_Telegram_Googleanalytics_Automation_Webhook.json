@@ -2054,24 +2054,24 @@
       "department": "",
       "nodes_count": 51,
       "integrations": [
-        "executeWorkflowTrigger",
         "stickyNote",
-        "summarize",
         "httpRequest",
         "telegram",
-        "googleAnalytics",
-        "scheduleTrigger",
         "facebookGraphApi",
+        "googleAnalytics",
         "code",
+        "set",
+        "scheduleTrigger",
         "emailSend",
-        "set"
+        "summarize",
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.359774",
-    "updated_at": "2025-07-07T19:41:49.359775",
+    "created_at": "2025-07-07T19:46:35.126000",
+    "updated_at": "2025-07-07T19:46:35.126002",
     "version": "1.0.0"
   }
 }

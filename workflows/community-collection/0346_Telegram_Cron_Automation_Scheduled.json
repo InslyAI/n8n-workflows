@@ -92,16 +92,16 @@
       "department": "",
       "nodes_count": 3,
       "integrations": [
-        "cron",
         "telegram",
+        "cron",
         "functionItem"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.842826",
-    "updated_at": "2025-07-07T19:41:48.842827",
+    "created_at": "2025-07-07T19:46:34.459108",
+    "updated_at": "2025-07-07T19:46:34.459109",
     "version": "1.0.0"
   }
 }

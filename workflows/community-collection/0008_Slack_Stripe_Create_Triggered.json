@@ -389,16 +389,16 @@
       "nodes_count": 8,
       "integrations": [
         "hubspot",
+        "stripeTrigger",
         "slack",
-        "if",
-        "stripeTrigger"
+        "if"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.856553",
-    "updated_at": "2025-07-07T19:41:48.856554",
+    "created_at": "2025-07-07T19:46:34.472857",
+    "updated_at": "2025-07-07T19:46:34.472858",
     "version": "1.0.0"
   }
 }

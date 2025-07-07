@@ -67,15 +67,15 @@
       "department": "",
       "nodes_count": 2,
       "integrations": [
-        "stravaTrigger",
-        "twitter"
+        "twitter",
+        "stravaTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.125773",
-    "updated_at": "2025-07-07T19:41:49.125774",
+    "created_at": "2025-07-07T19:46:34.813399",
+    "updated_at": "2025-07-07T19:46:34.813400",
     "version": "1.0.0"
   }
 }

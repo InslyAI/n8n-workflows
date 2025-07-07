@@ -416,19 +416,19 @@
       "department": "",
       "nodes_count": 10,
       "integrations": [
-        "slack",
         "if",
-        "dropcontact",
         "airtable",
         "typeformTrigger",
-        "set"
+        "slack",
+        "set",
+        "dropcontact"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.646113",
-    "updated_at": "2025-07-07T19:41:48.646114",
+    "created_at": "2025-07-07T19:46:34.259404",
+    "updated_at": "2025-07-07T19:46:34.259405",
     "version": "1.0.0"
   }
 }

@@ -808,23 +808,23 @@
       "department": "",
       "nodes_count": 24,
       "integrations": [
-        "switch",
-        "stickyNote",
-        "splitInBatches",
         "splitOut",
         "if",
+        "switch",
+        "stickyNote",
         "httpRequest",
         "respondToWebhook",
-        "webhook",
+        "splitInBatches",
         "code",
-        "set"
+        "set",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.565000",
-    "updated_at": "2025-07-07T19:41:49.565000",
+    "created_at": "2025-07-07T19:46:35.344475",
+    "updated_at": "2025-07-07T19:46:35.344476",
     "version": "1.0.0"
   }
 }

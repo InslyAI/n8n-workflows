@@ -868,19 +868,19 @@
       "department": "",
       "nodes_count": 27,
       "integrations": [
-        "executeWorkflowTrigger",
         "stickyNote",
         "merge",
         "aggregate",
+        "set",
         "executeWorkflow",
-        "set"
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.013019",
-    "updated_at": "2025-07-07T19:41:49.013020",
+    "created_at": "2025-07-07T19:46:34.628803",
+    "updated_at": "2025-07-07T19:46:34.628804",
     "version": "1.0.0"
   }
 }

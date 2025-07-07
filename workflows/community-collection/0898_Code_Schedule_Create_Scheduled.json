@@ -1372,23 +1372,23 @@
       "department": "",
       "nodes_count": 45,
       "integrations": [
-        "executeWorkflowTrigger",
         "stickyNote",
-        "merge",
-        "html",
-        "httpRequest",
-        "scheduleTrigger",
         "formTrigger",
+        "httpRequest",
+        "html",
+        "merge",
         "code",
+        "set",
+        "scheduleTrigger",
         "emailSend",
-        "set"
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.324705",
-    "updated_at": "2025-07-07T19:41:49.324705",
+    "created_at": "2025-07-07T19:46:35.079351",
+    "updated_at": "2025-07-07T19:46:35.079352",
     "version": "1.0.0"
   }
 }

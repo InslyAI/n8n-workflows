@@ -181,20 +181,20 @@
       "department": "",
       "nodes_count": 7,
       "integrations": [
-        "manualTrigger",
-        "executeCommand",
-        "moveBinaryData",
         "function",
         "if",
         "noOp",
+        "manualTrigger",
+        "moveBinaryData",
+        "executeCommand",
         "readBinaryFile"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.202407",
-    "updated_at": "2025-07-07T19:41:49.202408",
+    "created_at": "2025-07-07T19:46:34.903084",
+    "updated_at": "2025-07-07T19:46:34.903085",
     "version": "1.0.0"
   }
 }

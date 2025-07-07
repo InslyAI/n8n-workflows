@@ -100,16 +100,16 @@
       "department": "",
       "nodes_count": 3,
       "integrations": [
+        "mattermost",
         "cron",
-        "googleSheets",
-        "mattermost"
+        "googleSheets"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.655259",
-    "updated_at": "2025-07-07T19:41:48.655260",
+    "created_at": "2025-07-07T19:46:34.268310",
+    "updated_at": "2025-07-07T19:46:34.268311",
     "version": "1.0.0"
   }
 }

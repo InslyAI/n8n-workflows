@@ -1272,25 +1272,25 @@
       "department": "",
       "nodes_count": 42,
       "integrations": [
-        "extractFromFile",
+        "splitOut",
+        "convertToFile",
         "switch",
         "stickyNote",
-        "splitOut",
         "splitInBatches",
-        "merge",
-        "wait",
-        "readWriteFile",
         "localFileTrigger",
+        "merge",
         "aggregate",
-        "convertToFile",
-        "set"
+        "extractFromFile",
+        "wait",
+        "set",
+        "readWriteFile"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.579661",
-    "updated_at": "2025-07-07T19:41:49.579662",
+    "created_at": "2025-07-07T19:46:35.361208",
+    "updated_at": "2025-07-07T19:46:35.361209",
     "version": "1.0.0"
   }
 }

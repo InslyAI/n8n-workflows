@@ -801,19 +801,19 @@
       "nodes_count": 30,
       "integrations": [
         "stickyNote",
-        "merge",
-        "telegram",
         "telegramTrigger",
-        "rssFeedRead",
+        "telegram",
+        "merge",
         "code",
-        "set"
+        "set",
+        "rssFeedRead"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.857273",
-    "updated_at": "2025-07-07T19:41:48.857274",
+    "created_at": "2025-07-07T19:46:34.473563",
+    "updated_at": "2025-07-07T19:46:34.473564",
     "version": "1.0.0"
   }
 }

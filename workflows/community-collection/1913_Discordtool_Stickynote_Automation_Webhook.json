@@ -507,16 +507,16 @@
       "department": "",
       "nodes_count": 16,
       "integrations": [
-        "httpRequestTool",
         "discordTool",
-        "stickyNote"
+        "stickyNote",
+        "httpRequestTool"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.158071",
-    "updated_at": "2025-07-07T19:41:49.158072",
+    "created_at": "2025-07-07T19:46:34.850458",
+    "updated_at": "2025-07-07T19:46:34.850458",
     "version": "1.0.0"
   }
 }

@@ -338,20 +338,20 @@
       "department": "",
       "nodes_count": 12,
       "integrations": [
-        "manualTrigger",
         "stickyNote",
+        "manualTrigger",
         "googleCalendar",
-        "httpRequest",
-        "scheduleTrigger",
         "gmail",
-        "code"
+        "code",
+        "httpRequest",
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.235032",
-    "updated_at": "2025-07-07T19:41:49.235033",
+    "created_at": "2025-07-07T19:46:34.931885",
+    "updated_at": "2025-07-07T19:46:34.931886",
     "version": "1.0.0"
   }
 }

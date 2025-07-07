@@ -145,17 +145,17 @@
       "department": "",
       "nodes_count": 4,
       "integrations": [
-        "cron",
-        "httpRequest",
         "set",
-        "amqp"
+        "amqp",
+        "cron",
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.268920",
-    "updated_at": "2025-07-07T19:41:49.268920",
+    "created_at": "2025-07-07T19:46:34.968362",
+    "updated_at": "2025-07-07T19:46:34.968363",
     "version": "1.0.0"
   }
 }

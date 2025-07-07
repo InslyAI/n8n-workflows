@@ -378,16 +378,16 @@
       "nodes_count": 12,
       "integrations": [
         "slack",
-        "googleSheets",
         "webhook",
-        "stickyNote"
+        "stickyNote",
+        "googleSheets"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.624443",
-    "updated_at": "2025-07-07T19:41:49.624443",
+    "created_at": "2025-07-07T19:46:35.413233",
+    "updated_at": "2025-07-07T19:46:35.413235",
     "version": "1.0.0"
   }
 }

@@ -494,20 +494,20 @@
       "department": "",
       "nodes_count": 14,
       "integrations": [
-        "compareDatasets",
         "if",
-        "mySql",
-        "pipedrive",
-        "scheduleTrigger",
         "dateTime",
-        "set"
+        "mySql",
+        "compareDatasets",
+        "set",
+        "scheduleTrigger",
+        "pipedrive"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.086727",
-    "updated_at": "2025-07-07T19:41:49.086728",
+    "created_at": "2025-07-07T19:46:34.746699",
+    "updated_at": "2025-07-07T19:46:34.746701",
     "version": "1.0.0"
   }
 }

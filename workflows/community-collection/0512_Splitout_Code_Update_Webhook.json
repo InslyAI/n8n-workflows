@@ -472,23 +472,23 @@
       "department": "",
       "nodes_count": 15,
       "integrations": [
-        "manualTrigger",
-        "set",
-        "if",
         "splitOut",
+        "if",
         "stickyNote",
-        "httpRequest",
-        "summarize",
-        "n8n",
+        "manualTrigger",
         "code",
-        "aggregate"
+        "aggregate",
+        "httpRequest",
+        "set",
+        "summarize",
+        "n8n"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.201998",
-    "updated_at": "2025-07-07T19:41:49.201999",
+    "created_at": "2025-07-07T19:46:34.902691",
+    "updated_at": "2025-07-07T19:46:34.902692",
     "version": "1.0.0"
   }
 }

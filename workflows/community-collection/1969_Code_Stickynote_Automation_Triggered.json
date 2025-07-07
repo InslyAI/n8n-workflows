@@ -140,18 +140,18 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
-        "executeWorkflowTrigger",
         "stickyNote",
-        "compression",
         "code",
-        "set"
+        "set",
+        "executeWorkflowTrigger",
+        "compression"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.541389",
-    "updated_at": "2025-07-07T19:41:49.541390",
+    "created_at": "2025-07-07T19:46:35.319110",
+    "updated_at": "2025-07-07T19:46:35.319110",
     "version": "1.0.0"
   }
 }

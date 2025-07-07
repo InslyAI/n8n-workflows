@@ -687,23 +687,23 @@
       "department": "",
       "nodes_count": 25,
       "integrations": [
-        "executeCommand",
-        "writeBinaryFile",
-        "moveBinaryData",
         "if",
-        "httpRequest",
-        "functionItem",
         "cron",
-        "readBinaryFile",
+        "moveBinaryData",
+        "executeCommand",
+        "emailSend",
+        "httpRequest",
         "htmlExtract",
-        "emailSend"
+        "readBinaryFile",
+        "writeBinaryFile",
+        "functionItem"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.004929",
-    "updated_at": "2025-07-07T19:41:49.004930",
+    "created_at": "2025-07-07T19:46:34.620303",
+    "updated_at": "2025-07-07T19:46:34.620310",
     "version": "1.0.0"
   }
 }

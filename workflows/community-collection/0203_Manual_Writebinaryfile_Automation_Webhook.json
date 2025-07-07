@@ -80,16 +80,16 @@
       "department": "",
       "nodes_count": 3,
       "integrations": [
+        "writeBinaryFile",
         "manualTrigger",
-        "httpRequest",
-        "writeBinaryFile"
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.107376",
-    "updated_at": "2025-07-07T19:41:49.107377",
+    "created_at": "2025-07-07T19:46:34.787227",
+    "updated_at": "2025-07-07T19:46:34.787228",
     "version": "1.0.0"
   }
 }

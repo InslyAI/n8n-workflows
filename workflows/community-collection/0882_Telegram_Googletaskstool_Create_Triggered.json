@@ -715,16 +715,16 @@
         "googleTasksTool",
         "switch",
         "stickyNote",
-        "telegram",
         "telegramTrigger",
+        "telegram",
         "set"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.513627",
-    "updated_at": "2025-07-07T19:41:49.513628",
+    "created_at": "2025-07-07T19:46:35.293366",
+    "updated_at": "2025-07-07T19:46:35.293366",
     "version": "1.0.0"
   }
 }

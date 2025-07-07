@@ -144,17 +144,17 @@
       "department": "",
       "nodes_count": 4,
       "integrations": [
-        "cron",
-        "httpRequest",
         "set",
-        "googleBigQuery"
+        "googleBigQuery",
+        "cron",
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.525540",
-    "updated_at": "2025-07-07T19:41:49.525541",
+    "created_at": "2025-07-07T19:46:35.303200",
+    "updated_at": "2025-07-07T19:46:35.303201",
     "version": "1.0.0"
   }
 }

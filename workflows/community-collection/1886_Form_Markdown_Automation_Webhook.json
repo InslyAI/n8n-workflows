@@ -364,12 +364,12 @@
       "nodes_count": 12,
       "integrations": [
         "stickyNote",
-        "merge",
-        "httpRequest",
         "formTrigger",
         "gmail",
-        "markdown",
-        "aggregate"
+        "merge",
+        "aggregate",
+        "httpRequest",
+        "markdown"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -382,8 +382,8 @@
         "updatedAt": "2025-03-14T12:08:26.948Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.102144",
-    "updated_at": "2025-07-07T19:41:49.102145",
+    "created_at": "2025-07-07T19:46:34.780804",
+    "updated_at": "2025-07-07T19:46:34.780806",
     "version": "1.0.0"
   }
 }

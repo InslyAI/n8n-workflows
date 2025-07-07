@@ -468,8 +468,8 @@
       "department": "",
       "nodes_count": 8,
       "integrations": [
-        "manualTrigger",
         "stickyNote",
+        "manualTrigger",
         "httpRequest",
         "airtable",
         "executionData",
@@ -487,8 +487,8 @@
         "updatedAt": "2025-02-20T17:17:53.411Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:48.634040",
-    "updated_at": "2025-07-07T19:41:48.634041",
+    "created_at": "2025-07-07T19:46:34.247292",
+    "updated_at": "2025-07-07T19:46:34.247293",
     "version": "1.0.0"
   }
 }

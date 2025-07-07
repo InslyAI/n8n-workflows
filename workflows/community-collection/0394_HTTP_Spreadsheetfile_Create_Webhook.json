@@ -541,20 +541,20 @@
       "department": "",
       "nodes_count": 17,
       "integrations": [
-        "stickyNote",
         "if",
-        "spreadsheetFile",
-        "httpRequest",
+        "stickyNote",
         "airtable",
         "airtableTrigger",
-        "set"
+        "httpRequest",
+        "set",
+        "spreadsheetFile"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.468982",
-    "updated_at": "2025-07-07T19:41:49.468983",
+    "created_at": "2025-07-07T19:46:35.245463",
+    "updated_at": "2025-07-07T19:46:35.245464",
     "version": "1.0.0"
   }
 }

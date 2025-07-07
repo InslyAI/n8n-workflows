@@ -148,17 +148,17 @@
       "department": "",
       "nodes_count": 4,
       "integrations": [
+        "set",
         "googleAnalytics",
-        "manualTrigger",
         "airtable",
-        "set"
+        "manualTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.414473",
-    "updated_at": "2025-07-07T19:41:49.414474",
+    "created_at": "2025-07-07T19:46:35.186404",
+    "updated_at": "2025-07-07T19:46:35.186405",
     "version": "1.0.0"
   }
 }

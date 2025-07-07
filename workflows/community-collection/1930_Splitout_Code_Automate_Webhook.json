@@ -1032,15 +1032,15 @@
       "department": "",
       "nodes_count": 34,
       "integrations": [
-        "slack",
-        "set",
-        "stickyNote",
         "splitOut",
+        "stickyNote",
         "merge",
+        "aggregate",
+        "slack",
         "nocoDb",
-        "webhook",
         "code",
-        "aggregate"
+        "set",
+        "webhook"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -1053,8 +1053,8 @@
         "updatedAt": "2025-04-14T11:05:17.062Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:48.984177",
-    "updated_at": "2025-07-07T19:41:48.984178",
+    "created_at": "2025-07-07T19:46:34.597705",
+    "updated_at": "2025-07-07T19:46:34.597706",
     "version": "1.0.0"
   }
 }

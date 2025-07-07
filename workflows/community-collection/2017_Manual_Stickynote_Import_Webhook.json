@@ -164,17 +164,17 @@
       "department": "",
       "nodes_count": 5,
       "integrations": [
-        "manualTrigger",
-        "httpRequest",
+        "spreadsheetFile",
         "stickyNote",
-        "spreadsheetFile"
+        "manualTrigger",
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.041578",
-    "updated_at": "2025-07-07T19:41:49.041579",
+    "created_at": "2025-07-07T19:46:34.661412",
+    "updated_at": "2025-07-07T19:46:34.661413",
     "version": "1.0.0"
   }
 }

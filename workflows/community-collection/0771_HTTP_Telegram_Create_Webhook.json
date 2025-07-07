@@ -549,20 +549,20 @@
       "department": "",
       "nodes_count": 16,
       "integrations": [
-        "extractFromFile",
         "switch",
         "stickyNote",
-        "httpRequest",
-        "telegram",
         "telegramTrigger",
+        "telegram",
+        "extractFromFile",
+        "httpRequest",
         "set"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.790138",
-    "updated_at": "2025-07-07T19:41:48.790139",
+    "created_at": "2025-07-07T19:46:34.407689",
+    "updated_at": "2025-07-07T19:46:34.407690",
     "version": "1.0.0"
   }
 }

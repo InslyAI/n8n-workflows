@@ -409,22 +409,22 @@
       "department": "",
       "nodes_count": 14,
       "integrations": [
-        "agileCrm",
-        "manualTrigger",
-        "stickyNote",
-        "merge",
         "noOp",
+        "stickyNote",
+        "manualTrigger",
+        "agileCrm",
         "httpRequest",
-        "scheduleTrigger",
+        "merge",
         "code",
-        "set"
+        "set",
+        "scheduleTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.375043",
-    "updated_at": "2025-07-07T19:41:49.375044",
+    "created_at": "2025-07-07T19:46:35.143773",
+    "updated_at": "2025-07-07T19:46:35.143774",
     "version": "1.0.0"
   }
 }

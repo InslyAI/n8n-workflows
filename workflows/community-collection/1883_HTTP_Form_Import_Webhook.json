@@ -208,9 +208,9 @@
       "nodes_count": 5,
       "integrations": [
         "gmail",
-        "httpRequest",
         "stickyNote",
-        "formTrigger"
+        "formTrigger",
+        "httpRequest"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
@@ -235,8 +235,8 @@
         "updatedAt": "2024-05-03T13:40:34.380Z"
       }
     ],
-    "created_at": "2025-07-07T19:41:49.376291",
-    "updated_at": "2025-07-07T19:41:49.376292",
+    "created_at": "2025-07-07T19:46:35.145207",
+    "updated_at": "2025-07-07T19:46:35.145208",
     "version": "1.0.0"
   }
 }

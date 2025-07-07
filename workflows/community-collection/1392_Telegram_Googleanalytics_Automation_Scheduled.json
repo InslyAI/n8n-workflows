@@ -702,21 +702,21 @@
       "department": "",
       "nodes_count": 14,
       "integrations": [
-        "set",
         "stickyNote",
-        "summarize",
         "telegram",
-        "googleAnalytics",
-        "scheduleTrigger",
         "code",
-        "emailSend"
+        "googleAnalytics",
+        "emailSend",
+        "set",
+        "scheduleTrigger",
+        "summarize"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.495316",
-    "updated_at": "2025-07-07T19:41:49.495317",
+    "created_at": "2025-07-07T19:46:35.274140",
+    "updated_at": "2025-07-07T19:46:35.274141",
     "version": "1.0.0"
   }
 }

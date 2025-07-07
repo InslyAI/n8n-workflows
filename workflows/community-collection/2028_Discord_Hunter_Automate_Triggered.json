@@ -409,21 +409,21 @@
       "department": "",
       "nodes_count": 12,
       "integrations": [
-        "googleSheets",
-        "stickyNote",
         "if",
         "noOp",
-        "discord",
+        "stickyNote",
         "formTrigger",
         "gmail",
-        "hunter"
+        "discord",
+        "hunter",
+        "googleSheets"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.875917",
-    "updated_at": "2025-07-07T19:41:48.875918",
+    "created_at": "2025-07-07T19:46:34.491605",
+    "updated_at": "2025-07-07T19:46:34.491606",
     "version": "1.0.0"
   }
 }

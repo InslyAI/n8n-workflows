@@ -366,17 +366,17 @@
       "department": "",
       "nodes_count": 12,
       "integrations": [
-        "googleDriveTrigger",
-        "googleSheets",
+        "googleDocs",
         "stickyNote",
-        "googleDocs"
+        "googleDriveTrigger",
+        "googleSheets"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.056535",
-    "updated_at": "2025-07-07T19:41:49.056535",
+    "created_at": "2025-07-07T19:46:34.677836",
+    "updated_at": "2025-07-07T19:46:34.677837",
     "version": "1.0.0"
   }
 }

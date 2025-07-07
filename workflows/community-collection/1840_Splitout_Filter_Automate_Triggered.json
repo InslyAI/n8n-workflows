@@ -1395,21 +1395,21 @@
       "department": "",
       "nodes_count": 50,
       "integrations": [
-        "manualTrigger",
-        "executeWorkflowTrigger",
-        "stickyNote",
         "splitOut",
+        "stickyNote",
+        "manualTrigger",
         "bambooHr",
         "aggregate",
+        "set",
         "filter",
-        "set"
+        "executeWorkflowTrigger"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.884552",
-    "updated_at": "2025-07-07T19:41:48.884553",
+    "created_at": "2025-07-07T19:46:34.500351",
+    "updated_at": "2025-07-07T19:46:34.500353",
     "version": "1.0.0"
   }
 }

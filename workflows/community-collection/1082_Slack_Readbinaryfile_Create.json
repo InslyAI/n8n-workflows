@@ -245,21 +245,21 @@
       "department": "",
       "nodes_count": 9,
       "integrations": [
-        "switch",
-        "slack",
-        "spreadsheetFile",
         "function",
-        "merge",
+        "switch",
         "emailReadImap",
-        "readBinaryFile",
-        "emailSend"
+        "merge",
+        "slack",
+        "emailSend",
+        "spreadsheetFile",
+        "readBinaryFile"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:48.958159",
-    "updated_at": "2025-07-07T19:41:48.958160",
+    "created_at": "2025-07-07T19:46:34.572280",
+    "updated_at": "2025-07-07T19:46:34.572281",
     "version": "1.0.0"
   }
 }

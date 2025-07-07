@@ -547,23 +547,23 @@
       "department": "",
       "nodes_count": 24,
       "integrations": [
-        "manualTrigger",
-        "googleDrive",
-        "writeBinaryFile",
         "stickyNote",
-        "spreadsheetFile",
-        "httpRequest",
+        "manualTrigger",
         "ftp",
+        "set",
         "microsoftOneDrive",
+        "httpRequest",
+        "googleDrive",
+        "spreadsheetFile",
         "readBinaryFile",
-        "set"
+        "writeBinaryFile"
       ],
       "estimated_cost": "medium",
       "security_level": "public"
     },
     "tags": [],
-    "created_at": "2025-07-07T19:41:49.005591",
-    "updated_at": "2025-07-07T19:41:49.005592",
+    "created_at": "2025-07-07T19:46:34.621105",
+    "updated_at": "2025-07-07T19:46:34.621107",
     "version": "1.0.0"
   }
 }
