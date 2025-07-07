@@ -1,0 +1,73 @@
+{
+  "name": "",
+  "nodes": [
+    {
+      "name": "On clicking 'execute'",
+      "type": "n8n-nodes-base.manualTrigger",
+      "position": [
+        150,
+        300
+      ],
+      "parameters": {},
+      "typeVersion": 1
+    },
+    {
+      "name": "Contentful",
+      "type": "n8n-nodes-base.contentful",
+      "position": [
+        350,
+        300
+      ],
+      "parameters": {
+        "operation": "getAll",
+        "returnAll": true,
+        "additionalFields": {}
+      },
+      "credentials": {
+        "contentfulApi": "contentful"
+      },
+      "typeVersion": 1
+    }
+  ],
+  "active": false,
+  "settings": {},
+  "connections": {
+    "On clicking 'execute'": {
+      "main": [
+        [
+          {
+            "node": "Contentful",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "_metadata": {
+    "id": "",
+    "name": "",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 2,
+      "integrations": [
+        "manualTrigger",
+        "contentful"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:48.957878",
+    "updated_at": "2025-07-07T19:41:48.957879",
+    "version": "1.0.0"
+  }
+}

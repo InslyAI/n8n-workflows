@@ -1,0 +1,65 @@
+{
+  "nodes": [
+    {
+      "name": "On clicking 'execute'",
+      "type": "n8n-nodes-base.manualTrigger",
+      "position": [
+        270,
+        320
+      ],
+      "parameters": {},
+      "typeVersion": 1
+    },
+    {
+      "name": "Read Binary File",
+      "type": "n8n-nodes-base.readBinaryFile",
+      "position": [
+        470,
+        320
+      ],
+      "parameters": {
+        "filePath": "/data/picture.jpg"
+      },
+      "typeVersion": 1
+    }
+  ],
+  "connections": {
+    "On clicking 'execute'": {
+      "main": [
+        [
+          {
+            "node": "Read Binary File",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "_metadata": {
+    "id": "",
+    "name": "Untitled Workflow",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 2,
+      "integrations": [
+        "manualTrigger",
+        "readBinaryFile"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:49.058967",
+    "updated_at": "2025-07-07T19:41:49.058968",
+    "version": "1.0.0"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "112",
+  "name": "Receive updates when a new account is added by an admin in ActiveCampaign",
+  "nodes": [
+    {
+      "name": "ActiveCampaign Trigger",
+      "type": "n8n-nodes-base.activeCampaignTrigger",
+      "position": [
+        700,
+        250
+      ],
+      "parameters": {
+        "events": [
+          "account_add"
+        ],
+        "sources": [
+          "admin"
+        ]
+      },
+      "credentials": {
+        "activeCampaignApi": ""
+      },
+      "typeVersion": 1
+    }
+  ],
+  "active": false,
+  "settings": {},
+  "connections": {},
+  "_metadata": {
+    "id": "112",
+    "name": "Receive updates when a new account is added by an admin in ActiveCampaign",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 1,
+      "integrations": [
+        "activeCampaignTrigger"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:49.174047",
+    "updated_at": "2025-07-07T19:41:49.174047",
+    "version": "1.0.0"
+  }
+}

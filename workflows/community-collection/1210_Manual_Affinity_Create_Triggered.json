@@ -1,0 +1,74 @@
+{
+  "id": "95",
+  "name": "Create an organization in Affinity",
+  "nodes": [
+    {
+      "name": "On clicking 'execute'",
+      "type": "n8n-nodes-base.manualTrigger",
+      "position": [
+        400,
+        250
+      ],
+      "parameters": {},
+      "typeVersion": 1
+    },
+    {
+      "name": "Affinity",
+      "type": "n8n-nodes-base.affinity",
+      "position": [
+        600,
+        250
+      ],
+      "parameters": {
+        "name": "",
+        "domain": "",
+        "additionalFields": {}
+      },
+      "credentials": {
+        "affinityApi": ""
+      },
+      "typeVersion": 1
+    }
+  ],
+  "active": false,
+  "settings": {},
+  "connections": {
+    "On clicking 'execute'": {
+      "main": [
+        [
+          {
+            "node": "Affinity",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "_metadata": {
+    "id": "95",
+    "name": "Create an organization in Affinity",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 2,
+      "integrations": [
+        "manualTrigger",
+        "affinity"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:49.050393",
+    "updated_at": "2025-07-07T19:41:49.050393",
+    "version": "1.0.0"
+  }
+}

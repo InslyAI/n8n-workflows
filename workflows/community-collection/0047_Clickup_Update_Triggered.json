@@ -1,0 +1,53 @@
+{
+  "id": "110",
+  "name": "Receive updates for events in ClickUp",
+  "nodes": [
+    {
+      "name": "ClickUp Trigger",
+      "type": "n8n-nodes-base.clickUpTrigger",
+      "position": [
+        700,
+        250
+      ],
+      "parameters": {
+        "team": "",
+        "events": [
+          "*"
+        ],
+        "filters": {}
+      },
+      "credentials": {
+        "clickUpApi": ""
+      },
+      "typeVersion": 1
+    }
+  ],
+  "active": false,
+  "settings": {},
+  "connections": {},
+  "_metadata": {
+    "id": "110",
+    "name": "Receive updates for events in ClickUp",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 1,
+      "integrations": [
+        "clickUpTrigger"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:49.221059",
+    "updated_at": "2025-07-07T19:41:49.221060",
+    "version": "1.0.0"
+  }
+}

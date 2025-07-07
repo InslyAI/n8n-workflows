@@ -1,0 +1,79 @@
+{
+  "id": "83",
+  "name": "Creating a meeting with the Zoom node",
+  "nodes": [
+    {
+      "name": "On clicking 'execute'",
+      "type": "n8n-nodes-base.manualTrigger",
+      "position": [
+        250,
+        300
+      ],
+      "parameters": {},
+      "typeVersion": 1
+    },
+    {
+      "name": "Zoom",
+      "type": "n8n-nodes-base.zoom",
+      "position": [
+        450,
+        300
+      ],
+      "parameters": {
+        "topic": "Something",
+        "authentication": "",
+        "additionalFields": {}
+      },
+      "credentials": {
+        "zoomOAuth2Api": ""
+      },
+      "typeVersion": 1
+    }
+  ],
+  "active": false,
+  "settings": {},
+  "connections": {
+    "Zoom": {
+      "main": [
+        []
+      ]
+    },
+    "On clicking 'execute'": {
+      "main": [
+        [
+          {
+            "node": "Zoom",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "_metadata": {
+    "id": "83",
+    "name": "Creating a meeting with the Zoom node",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 2,
+      "integrations": [
+        "zoom",
+        "manualTrigger"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:49.606733",
+    "updated_at": "2025-07-07T19:41:49.606733",
+    "version": "1.0.0"
+  }
+}

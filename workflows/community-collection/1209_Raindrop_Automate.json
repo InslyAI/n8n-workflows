@@ -1,0 +1,138 @@
+{
+  "nodes": [
+    {
+      "name": "Raindrop",
+      "type": "n8n-nodes-base.raindrop",
+      "position": [
+        470,
+        320
+      ],
+      "parameters": {
+        "title": "n8n-docs",
+        "operation": "create",
+        "additionalFields": {}
+      },
+      "credentials": {
+        "raindropOAuth2Api": "Raindrop OAuth Credentials"
+      },
+      "typeVersion": 1
+    },
+    {
+      "name": "Raindrop1",
+      "type": "n8n-nodes-base.raindrop",
+      "position": [
+        670,
+        320
+      ],
+      "parameters": {
+        "link": "https://docs.n8n.io",
+        "resource": "bookmark",
+        "operation": "create",
+        "collectionId": "={{$json[\"_id\"]}}",
+        "additionalFields": {
+          "title": "Documentation"
+        }
+      },
+      "credentials": {
+        "raindropOAuth2Api": "Raindrop OAuth Credentials"
+      },
+      "typeVersion": 1
+    },
+    {
+      "name": "Raindrop2",
+      "type": "n8n-nodes-base.raindrop",
+      "position": [
+        870,
+        320
+      ],
+      "parameters": {
+        "resource": "bookmark",
+        "operation": "update",
+        "bookmarkId": "={{$json[\"_id\"]}}",
+        "updateFields": {
+          "title": "n8n Documentation"
+        }
+      },
+      "credentials": {
+        "raindropOAuth2Api": "Raindrop OAuth Credentials"
+      },
+      "typeVersion": 1
+    },
+    {
+      "name": "Raindrop3",
+      "type": "n8n-nodes-base.raindrop",
+      "position": [
+        1070,
+        320
+      ],
+      "parameters": {
+        "resource": "bookmark",
+        "bookmarkId": "={{$json[\"_id\"]}}"
+      },
+      "credentials": {
+        "raindropOAuth2Api": "Raindrop OAuth Credentials"
+      },
+      "typeVersion": 1
+    }
+  ],
+  "connections": {
+    "Raindrop": {
+      "main": [
+        [
+          {
+            "node": "Raindrop1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Raindrop1": {
+      "main": [
+        [
+          {
+            "node": "Raindrop2",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Raindrop2": {
+      "main": [
+        [
+          {
+            "node": "Raindrop3",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "_metadata": {
+    "id": "",
+    "name": "Untitled Workflow",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 4,
+      "integrations": [
+        "raindrop"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:49.569036",
+    "updated_at": "2025-07-07T19:41:49.569037",
+    "version": "1.0.0"
+  }
+}

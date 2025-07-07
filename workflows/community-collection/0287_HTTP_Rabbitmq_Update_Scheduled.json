@@ -1,0 +1,161 @@
+{
+  "id": "184",
+  "name": "Send updates about the position of the ISS every minute to a topic in RabbitMQ",
+  "nodes": [
+    {
+      "name": "RabbitMQ",
+      "type": "n8n-nodes-base.rabbitmq",
+      "position": [
+        1300,
+        540
+      ],
+      "parameters": {
+        "queue": "iss-position",
+        "options": {}
+      },
+      "credentials": {
+        "rabbitmq": "RabbitMQ Credentials"
+      },
+      "typeVersion": 1
+    },
+    {
+      "name": "Set",
+      "type": "n8n-nodes-base.set",
+      "position": [
+        1110,
+        540
+      ],
+      "parameters": {
+        "values": {
+          "number": [
+            {
+              "name": "Latitude",
+              "value": "={{$node[\"HTTP Request\"].json[\"0\"][\"latitude\"]}}"
+            },
+            {
+              "name": "Longitude",
+              "value": "={{$node[\"HTTP Request\"].json[\"0\"][\"longitude\"]}}"
+            },
+            {
+              "name": "Timestamp",
+              "value": "={{$node[\"HTTP Request\"].json[\"0\"][\"timestamp\"]}}"
+            }
+          ],
+          "string": [
+            {
+              "name": "Name",
+              "value": "={{$node[\"HTTP Request\"].json[\"0\"][\"name\"]}}"
+            }
+          ]
+        },
+        "options": {},
+        "keepOnlySet": true
+      },
+      "typeVersion": 1
+    },
+    {
+      "name": "HTTP Request",
+      "type": "n8n-nodes-base.httpRequest",
+      "position": [
+        910,
+        540
+      ],
+      "parameters": {
+        "url": "https://api.wheretheiss.at/v1/satellites/25544/positions",
+        "options": {},
+        "queryParametersUi": {
+          "parameter": [
+            {
+              "name": "timestamps",
+              "value": "={{Date.now();}}"
+            }
+          ]
+        }
+      },
+      "typeVersion": 1
+    },
+    {
+      "name": "Cron",
+      "type": "n8n-nodes-base.cron",
+      "position": [
+        710,
+        540
+      ],
+      "parameters": {
+        "triggerTimes": {
+          "item": [
+            {
+              "mode": "everyMinute"
+            }
+          ]
+        }
+      },
+      "typeVersion": 1
+    }
+  ],
+  "active": false,
+  "settings": {},
+  "connections": {
+    "Set": {
+      "main": [
+        [
+          {
+            "node": "RabbitMQ",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Cron": {
+      "main": [
+        [
+          {
+            "node": "HTTP Request",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "HTTP Request": {
+      "main": [
+        [
+          {
+            "node": "Set",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "_metadata": {
+    "id": "184",
+    "name": "Send updates about the position of the ISS every minute to a topic in RabbitMQ",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 4,
+      "integrations": [
+        "cron",
+        "httpRequest",
+        "rabbitmq",
+        "set"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:49.408238",
+    "updated_at": "2025-07-07T19:41:49.408239",
+    "version": "1.0.0"
+  }
+}

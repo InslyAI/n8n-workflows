@@ -1,0 +1,46 @@
+{
+  "nodes": [
+    {
+      "name": "Invoice Ninja Trigger",
+      "type": "n8n-nodes-base.invoiceNinjaTrigger",
+      "position": [
+        890,
+        400
+      ],
+      "webhookId": "97be21b3-ebf5-48cf-b291-5d954657a544",
+      "parameters": {
+        "event": "create_invoice"
+      },
+      "credentials": {
+        "invoiceNinjaApi": "invoice_ninja_creds"
+      },
+      "typeVersion": 1
+    }
+  ],
+  "connections": {},
+  "_metadata": {
+    "id": "",
+    "name": "Untitled Workflow",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 1,
+      "integrations": [
+        "invoiceNinjaTrigger"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:48.981056",
+    "updated_at": "2025-07-07T19:41:48.981057",
+    "version": "1.0.0"
+  }
+}

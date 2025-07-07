@@ -1,0 +1,103 @@
+{
+  "nodes": [
+    {
+      "name": "Plivo",
+      "type": "n8n-nodes-base.plivo",
+      "position": [
+        1030,
+        400
+      ],
+      "parameters": {
+        "message": "=Hey! The temperature outside is {{$node[\"OpenWeatherMap\"].json[\"main\"][\"temp\"]}}°C."
+      },
+      "credentials": {
+        "plivoApi": "Plivo API Credentials"
+      },
+      "typeVersion": 1
+    },
+    {
+      "name": "OpenWeatherMap",
+      "type": "n8n-nodes-base.openWeatherMap",
+      "position": [
+        830,
+        400
+      ],
+      "parameters": {
+        "cityName": "berlin"
+      },
+      "credentials": {
+        "openWeatherMapApi": "owm"
+      },
+      "typeVersion": 1
+    },
+    {
+      "name": "Cron",
+      "type": "n8n-nodes-base.cron",
+      "position": [
+        630,
+        400
+      ],
+      "parameters": {
+        "triggerTimes": {
+          "item": [
+            {
+              "hour": 9
+            }
+          ]
+        }
+      },
+      "typeVersion": 1
+    }
+  ],
+  "connections": {
+    "Cron": {
+      "main": [
+        [
+          {
+            "node": "OpenWeatherMap",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "OpenWeatherMap": {
+      "main": [
+        [
+          {
+            "node": "Plivo",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "_metadata": {
+    "id": "",
+    "name": "Untitled Workflow",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 3,
+      "integrations": [
+        "cron",
+        "openWeatherMap",
+        "plivo"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:48.888853",
+    "updated_at": "2025-07-07T19:41:48.888854",
+    "version": "1.0.0"
+  }
+}

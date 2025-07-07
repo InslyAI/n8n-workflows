@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "name": "Webhook",
+      "type": "n8n-nodes-base.webhook",
+      "position": [
+        700,
+        350
+      ],
+      "parameters": {
+        "path": "test",
+        "responseData": "firstEntryBinary",
+        "responseMode": "lastNode"
+      },
+      "typeVersion": 1
+    },
+    {
+      "name": "Edit Image",
+      "type": "n8n-nodes-base.editImage",
+      "position": [
+        1100,
+        350
+      ],
+      "parameters": {
+        "text": "=They found the killer it was {{$node[\"Webhook\"].data[\"query\"][\"name\"]}}!",
+        "fontSize": "=25",
+        "operation": "text",
+        "positionX": 150,
+        "positionY": 180,
+        "lineLength": 18
+      },
+      "typeVersion": 1
+    },
+    {
+      "name": "Read File URL",
+      "type": "n8n-nodes-base.httpRequest",
+      "position": [
+        900,
+        350
+      ],
+      "parameters": {
+        "url": "https://www.needpix.com/file_download.php?url=//storage.needpix.com/thumbs/newspaper-412809_1280.jpg",
+        "responseFormat": "file"
+      },
+      "typeVersion": 1
+    }
+  ],
+  "connections": {
+    "Webhook": {
+      "main": [
+        [
+          {
+            "node": "Read File URL",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Read File URL": {
+      "main": [
+        [
+          {
+            "node": "Edit Image",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "_metadata": {
+    "id": "",
+    "name": "Untitled Workflow",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 3,
+      "integrations": [
+        "httpRequest",
+        "webhook",
+        "editImage"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:49.167645",
+    "updated_at": "2025-07-07T19:41:49.167646",
+    "version": "1.0.0"
+  }
+}

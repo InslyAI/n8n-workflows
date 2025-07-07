@@ -1,0 +1,48 @@
+{
+  "id": "108",
+  "name": "Receive updates for events in Chargebee",
+  "nodes": [
+    {
+      "name": "Chargebee Trigger",
+      "type": "n8n-nodes-base.chargebeeTrigger",
+      "position": [
+        700,
+        250
+      ],
+      "parameters": {
+        "events": [
+          "*"
+        ]
+      },
+      "typeVersion": 1
+    }
+  ],
+  "active": false,
+  "settings": {},
+  "connections": {},
+  "_metadata": {
+    "id": "108",
+    "name": "Receive updates for events in Chargebee",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 1,
+      "integrations": [
+        "chargebeeTrigger"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:49.613365",
+    "updated_at": "2025-07-07T19:41:49.613366",
+    "version": "1.0.0"
+  }
+}

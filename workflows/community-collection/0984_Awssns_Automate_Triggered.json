@@ -1,0 +1,45 @@
+{
+  "nodes": [
+    {
+      "name": "AWS-SNS-Trigger",
+      "type": "n8n-nodes-base.awsSnsTrigger",
+      "position": [
+        440,
+        300
+      ],
+      "parameters": {
+        "topic": "arn:aws:sns:ap-south-1:100558637562:n8n-rocks"
+      },
+      "credentials": {
+        "aws": "amudhan-aws"
+      },
+      "typeVersion": 1
+    }
+  ],
+  "connections": {},
+  "_metadata": {
+    "id": "",
+    "name": "Untitled Workflow",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 1,
+      "integrations": [
+        "awsSnsTrigger"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:49.475185",
+    "updated_at": "2025-07-07T19:41:49.475186",
+    "version": "1.0.0"
+  }
+}

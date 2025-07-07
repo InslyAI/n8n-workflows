@@ -1,0 +1,60 @@
+{
+  "id": "48",
+  "name": "Receive updates when an email is bounced or opened",
+  "nodes": [
+    {
+      "name": "Postmark Trigger",
+      "type": "n8n-nodes-base.postmarkTrigger",
+      "position": [
+        690,
+        260
+      ],
+      "webhookId": "1422ac7a-62ba-4f7c-8e22-4e8ecb4950ce",
+      "parameters": {
+        "events": [
+          "bounce",
+          "open"
+        ],
+        "includeContent": true
+      },
+      "credentials": {
+        "postmarkApi": "postmark"
+      },
+      "typeVersion": 1
+    }
+  ],
+  "active": false,
+  "settings": {},
+  "connections": {
+    "Postmark Trigger": {
+      "main": [
+        []
+      ]
+    }
+  },
+  "_metadata": {
+    "id": "48",
+    "name": "Receive updates when an email is bounced or opened",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 1,
+      "integrations": [
+        "postmarkTrigger"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:48.893939",
+    "updated_at": "2025-07-07T19:41:48.893940",
+    "version": "1.0.0"
+  }
+}

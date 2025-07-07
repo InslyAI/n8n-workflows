@@ -1,0 +1,79 @@
+{
+  "name": "Create an Onfleet task when a file in Google Drive is updated",
+  "nodes": [
+    {
+      "name": "Google Drive Trigger",
+      "type": "n8n-nodes-base.googleDriveTrigger",
+      "position": [
+        460,
+        300
+      ],
+      "parameters": {
+        "pollTimes": {
+          "item": [
+            {
+              "mode": "everyMinute"
+            }
+          ]
+        },
+        "triggerOn": "specificFile",
+        "fileToWatch": "<some_id>"
+      },
+      "typeVersion": 1
+    },
+    {
+      "name": "Onfleet",
+      "type": "n8n-nodes-base.onfleet",
+      "position": [
+        680,
+        300
+      ],
+      "parameters": {
+        "operation": "create",
+        "additionalFields": {}
+      },
+      "typeVersion": 1
+    }
+  ],
+  "active": false,
+  "settings": {},
+  "connections": {
+    "Google Drive Trigger": {
+      "main": [
+        [
+          {
+            "node": "Onfleet",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "_metadata": {
+    "id": "",
+    "name": "Create an Onfleet task when a file in Google Drive is updated",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 2,
+      "integrations": [
+        "googleDriveTrigger",
+        "onfleet"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:49.304751",
+    "updated_at": "2025-07-07T19:41:49.304752",
+    "version": "1.0.0"
+  }
+}

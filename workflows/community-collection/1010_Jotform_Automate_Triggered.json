@@ -1,0 +1,46 @@
+{
+  "nodes": [
+    {
+      "name": "JotForm Trigger",
+      "type": "n8n-nodes-base.jotFormTrigger",
+      "position": [
+        870,
+        400
+      ],
+      "webhookId": "8ee760f3-f18a-4060-bf41-b583ef4d7bfe",
+      "parameters": {
+        "form": "202012795501445"
+      },
+      "credentials": {
+        "jotFormApi": "jotform_creds"
+      },
+      "typeVersion": 1
+    }
+  ],
+  "connections": {},
+  "_metadata": {
+    "id": "",
+    "name": "Untitled Workflow",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 1,
+      "integrations": [
+        "jotFormTrigger"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:48.673393",
+    "updated_at": "2025-07-07T19:41:48.673394",
+    "version": "1.0.0"
+  }
+}

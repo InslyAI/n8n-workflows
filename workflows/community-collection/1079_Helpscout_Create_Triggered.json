@@ -1,0 +1,52 @@
+{
+  "id": "61",
+  "name": "Receive updates when a customer is created in HelpScout",
+  "nodes": [
+    {
+      "name": "HelpScout Trigger",
+      "type": "n8n-nodes-base.helpScoutTrigger",
+      "position": [
+        690,
+        260
+      ],
+      "webhookId": "aaaf8b3f-8247-4d98-ae65-8c6626aade95",
+      "parameters": {
+        "events": [
+          "customer.created"
+        ]
+      },
+      "credentials": {
+        "helpScoutOAuth2Api": "helpscout"
+      },
+      "typeVersion": 1
+    }
+  ],
+  "active": false,
+  "settings": {},
+  "connections": {},
+  "_metadata": {
+    "id": "61",
+    "name": "Receive updates when a customer is created in HelpScout",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 1,
+      "integrations": [
+        "helpScoutTrigger"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:48.810865",
+    "updated_at": "2025-07-07T19:41:48.810866",
+    "version": "1.0.0"
+  }
+}

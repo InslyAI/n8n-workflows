@@ -1,0 +1,72 @@
+{
+  "id": "126",
+  "name": "Send a private message on Zulip",
+  "nodes": [
+    {
+      "name": "On clicking 'execute'",
+      "type": "n8n-nodes-base.manualTrigger",
+      "position": [
+        250,
+        300
+      ],
+      "parameters": {},
+      "typeVersion": 1
+    },
+    {
+      "name": "Zulip",
+      "type": "n8n-nodes-base.zulip",
+      "position": [
+        450,
+        300
+      ],
+      "parameters": {
+        "to": []
+      },
+      "credentials": {
+        "zulipApi": ""
+      },
+      "typeVersion": 1
+    }
+  ],
+  "active": false,
+  "settings": {},
+  "connections": {
+    "On clicking 'execute'": {
+      "main": [
+        [
+          {
+            "node": "Zulip",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "_metadata": {
+    "id": "126",
+    "name": "Send a private message on Zulip",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 2,
+      "integrations": [
+        "manualTrigger",
+        "zulip"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:49.400370",
+    "updated_at": "2025-07-07T19:41:49.400371",
+    "version": "1.0.0"
+  }
+}

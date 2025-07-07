@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "name": "PostHog",
+      "type": "n8n-nodes-base.postHog",
+      "position": [
+        640,
+        280
+      ],
+      "parameters": {
+        "eventName": "={{$json[\"query\"][\"event\"]}}",
+        "distinctId": "n8n",
+        "additionalFields": {}
+      },
+      "credentials": {
+        "postHogApi": "PostHog Credentials"
+      },
+      "typeVersion": 1
+    },
+    {
+      "name": "Webhook",
+      "type": "n8n-nodes-base.webhook",
+      "position": [
+        440,
+        280
+      ],
+      "webhookId": "f6d0071e-3cf9-49fd-8bbd-afdbea6b0c67",
+      "parameters": {
+        "path": "f6d0071e-3cf9-49fd-8bbd-afdbea6b0c67",
+        "options": {}
+      },
+      "typeVersion": 1
+    }
+  ],
+  "connections": {
+    "Webhook": {
+      "main": [
+        [
+          {
+            "node": "PostHog",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "_metadata": {
+    "id": "",
+    "name": "Untitled Workflow",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 2,
+      "integrations": [
+        "webhook",
+        "postHog"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:48.725970",
+    "updated_at": "2025-07-07T19:41:48.725971",
+    "version": "1.0.0"
+  }
+}

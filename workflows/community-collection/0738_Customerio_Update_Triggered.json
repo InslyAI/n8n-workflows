@@ -1,0 +1,52 @@
+{
+  "id": "29",
+  "name": "Receive updates when a subscriber unsubscribes in Customer.io",
+  "nodes": [
+    {
+      "name": "Customer.io Trigger",
+      "type": "n8n-nodes-base.customerIoTrigger",
+      "position": [
+        650,
+        260
+      ],
+      "webhookId": "88092579-1b8d-4d44-98d5-f24b3579cbc2",
+      "parameters": {
+        "events": [
+          "customer.unsubscribed"
+        ]
+      },
+      "credentials": {
+        "customerIoApi": "customerIO"
+      },
+      "typeVersion": 1
+    }
+  ],
+  "active": false,
+  "settings": {},
+  "connections": {},
+  "_metadata": {
+    "id": "29",
+    "name": "Receive updates when a subscriber unsubscribes in Customer.io",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 1,
+      "integrations": [
+        "customerIoTrigger"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:49.253897",
+    "updated_at": "2025-07-07T19:41:49.253897",
+    "version": "1.0.0"
+  }
+}

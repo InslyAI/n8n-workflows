@@ -1,0 +1,74 @@
+{
+  "id": "1",
+  "name": "Send a message on Twake",
+  "nodes": [
+    {
+      "name": "On clicking 'execute'",
+      "type": "n8n-nodes-base.manualTrigger",
+      "position": [
+        600,
+        300
+      ],
+      "parameters": {},
+      "typeVersion": 1
+    },
+    {
+      "name": "Twake",
+      "type": "n8n-nodes-base.twake",
+      "position": [
+        800,
+        300
+      ],
+      "parameters": {
+        "content": "",
+        "channelId": "",
+        "additionalFields": {}
+      },
+      "credentials": {
+        "twakeCloudApi": ""
+      },
+      "typeVersion": 1
+    }
+  ],
+  "active": false,
+  "settings": {},
+  "connections": {
+    "On clicking 'execute'": {
+      "main": [
+        [
+          {
+            "node": "Twake",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "_metadata": {
+    "id": "1",
+    "name": "Send a message on Twake",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 2,
+      "integrations": [
+        "twake",
+        "manualTrigger"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:49.366279",
+    "updated_at": "2025-07-07T19:41:49.366280",
+    "version": "1.0.0"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "135",
+  "name": "Receive messages for an ActiveMQ queue via AMQP Trigger",
+  "nodes": [
+    {
+      "name": "AMQP Trigger",
+      "type": "n8n-nodes-base.amqpTrigger",
+      "position": [
+        650,
+        200
+      ],
+      "parameters": {
+        "sink": ""
+      },
+      "credentials": {
+        "amqp": ""
+      },
+      "typeVersion": 1
+    }
+  ],
+  "active": false,
+  "settings": {},
+  "connections": {},
+  "_metadata": {
+    "id": "135",
+    "name": "Receive messages for an ActiveMQ queue via AMQP Trigger",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 1,
+      "integrations": [
+        "amqpTrigger"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:48.936660",
+    "updated_at": "2025-07-07T19:41:48.936661",
+    "version": "1.0.0"
+  }
+}

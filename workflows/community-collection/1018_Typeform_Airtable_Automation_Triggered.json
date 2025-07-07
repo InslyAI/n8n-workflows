@@ -1,0 +1,79 @@
+{
+  "id": "54",
+  "name": "CFP Selection 1",
+  "nodes": [
+    {
+      "name": "Typeform Trigger",
+      "type": "n8n-nodes-base.typeformTrigger",
+      "position": [
+        450,
+        250
+      ],
+      "parameters": {
+        "formId": ""
+      },
+      "credentials": {
+        "typeformApi": "Typeform"
+      },
+      "typeVersion": 1
+    },
+    {
+      "name": "Airtable",
+      "type": "n8n-nodes-base.airtable",
+      "position": [
+        660,
+        250
+      ],
+      "parameters": {
+        "table": "",
+        "operation": "append",
+        "application": ""
+      },
+      "credentials": {
+        "airtableApi": "Airtable"
+      },
+      "typeVersion": 1
+    }
+  ],
+  "active": false,
+  "settings": {},
+  "connections": {
+    "Typeform Trigger": {
+      "main": [
+        [
+          {
+            "node": "Airtable",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "_metadata": {
+    "id": "54",
+    "name": "CFP Selection 1",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 2,
+      "integrations": [
+        "airtable",
+        "typeformTrigger"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:49.408796",
+    "updated_at": "2025-07-07T19:41:49.408797",
+    "version": "1.0.0"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "138",
+  "name": "Get new time entries from Toggl",
+  "nodes": [
+    {
+      "name": "Toggl",
+      "type": "n8n-nodes-base.togglTrigger",
+      "position": [
+        650,
+        250
+      ],
+      "parameters": {
+        "pollTimes": {
+          "item": [
+            {}
+          ]
+        }
+      },
+      "credentials": {
+        "togglApi": ""
+      },
+      "typeVersion": 1
+    }
+  ],
+  "active": false,
+  "settings": {},
+  "connections": {},
+  "_metadata": {
+    "id": "138",
+    "name": "Get new time entries from Toggl",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 1,
+      "integrations": [
+        "togglTrigger"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:49.412311",
+    "updated_at": "2025-07-07T19:41:49.412312",
+    "version": "1.0.0"
+  }
+}

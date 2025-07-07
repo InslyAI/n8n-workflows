@@ -1,0 +1,75 @@
+{
+  "id": "89",
+  "name": "Create a new card in Trello",
+  "nodes": [
+    {
+      "name": "On clicking 'execute'",
+      "type": "n8n-nodes-base.manualTrigger",
+      "position": [
+        250,
+        300
+      ],
+      "parameters": {},
+      "typeVersion": 1
+    },
+    {
+      "name": "Trello",
+      "type": "n8n-nodes-base.trello",
+      "position": [
+        450,
+        300
+      ],
+      "parameters": {
+        "name": "Hello",
+        "listId": "",
+        "description": "Here are some details",
+        "additionalFields": {}
+      },
+      "credentials": {
+        "trelloApi": ""
+      },
+      "typeVersion": 1
+    }
+  ],
+  "active": false,
+  "settings": {},
+  "connections": {
+    "On clicking 'execute'": {
+      "main": [
+        [
+          {
+            "node": "Trello",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "_metadata": {
+    "id": "89",
+    "name": "Create a new card in Trello",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 2,
+      "integrations": [
+        "manualTrigger",
+        "trello"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:49.192000",
+    "updated_at": "2025-07-07T19:41:49.192001",
+    "version": "1.0.0"
+  }
+}

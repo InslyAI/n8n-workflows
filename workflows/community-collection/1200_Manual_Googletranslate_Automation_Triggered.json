@@ -1,0 +1,74 @@
+{
+  "id": "92",
+  "name": "Translate text from English to German",
+  "nodes": [
+    {
+      "name": "On clicking 'execute'",
+      "type": "n8n-nodes-base.manualTrigger",
+      "position": [
+        270,
+        300
+      ],
+      "parameters": {},
+      "typeVersion": 1
+    },
+    {
+      "name": "Google Translate",
+      "type": "n8n-nodes-base.googleTranslate",
+      "position": [
+        470,
+        300
+      ],
+      "parameters": {
+        "text": "Hello from n8n!",
+        "translateTo": "de",
+        "authentication": "oAuth2"
+      },
+      "credentials": {
+        "googleTranslateOAuth2Api": "google-translate"
+      },
+      "typeVersion": 1
+    }
+  ],
+  "active": false,
+  "settings": {},
+  "connections": {
+    "On clicking 'execute'": {
+      "main": [
+        [
+          {
+            "node": "Google Translate",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "_metadata": {
+    "id": "92",
+    "name": "Translate text from English to German",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 2,
+      "integrations": [
+        "manualTrigger",
+        "googleTranslate"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:48.745786",
+    "updated_at": "2025-07-07T19:41:48.745787",
+    "version": "1.0.0"
+  }
+}

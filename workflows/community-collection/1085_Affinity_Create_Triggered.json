@@ -1,0 +1,52 @@
+{
+  "id": "63",
+  "name": "Receive updates when a new list is created in Affinity",
+  "nodes": [
+    {
+      "name": "Affinity-Trigger",
+      "type": "n8n-nodes-base.affinityTrigger",
+      "position": [
+        690,
+        260
+      ],
+      "webhookId": "e9d2b8f0-9fa9-43c2-b45d-dc96c869bd20",
+      "parameters": {
+        "events": [
+          "list.created"
+        ]
+      },
+      "credentials": {
+        "affinityApi": "affinity"
+      },
+      "typeVersion": 1
+    }
+  ],
+  "active": false,
+  "settings": {},
+  "connections": {},
+  "_metadata": {
+    "id": "63",
+    "name": "Receive updates when a new list is created in Affinity",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 1,
+      "integrations": [
+        "affinityTrigger"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:49.528257",
+    "updated_at": "2025-07-07T19:41:49.528258",
+    "version": "1.0.0"
+  }
+}

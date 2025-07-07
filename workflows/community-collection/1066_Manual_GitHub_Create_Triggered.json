@@ -1,0 +1,75 @@
+{
+  "id": "5",
+  "name": "new",
+  "nodes": [
+    {
+      "name": "On clicking 'execute'",
+      "type": "n8n-nodes-base.manualTrigger",
+      "position": [
+        540,
+        350
+      ],
+      "parameters": {},
+      "typeVersion": 1
+    },
+    {
+      "name": "Github",
+      "type": "n8n-nodes-base.github",
+      "position": [
+        790,
+        350
+      ],
+      "parameters": {
+        "owner": "n8n-io",
+        "resource": "repository",
+        "operation": "getProfile",
+        "repository": "n8n"
+      },
+      "credentials": {
+        "githubApi": "shraddha"
+      },
+      "typeVersion": 1
+    }
+  ],
+  "active": false,
+  "settings": {},
+  "connections": {
+    "On clicking 'execute'": {
+      "main": [
+        [
+          {
+            "node": "Github",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "_metadata": {
+    "id": "5",
+    "name": "new",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 2,
+      "integrations": [
+        "github",
+        "manualTrigger"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:48.645757",
+    "updated_at": "2025-07-07T19:41:48.645758",
+    "version": "1.0.0"
+  }
+}

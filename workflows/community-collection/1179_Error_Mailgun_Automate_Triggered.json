@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "name": "Error Trigger",
+      "type": "n8n-nodes-base.errorTrigger",
+      "position": [
+        250,
+        500
+      ],
+      "parameters": {},
+      "typeVersion": 1
+    },
+    {
+      "name": "Mailgun",
+      "type": "n8n-nodes-base.mailgun",
+      "position": [
+        450,
+        500
+      ],
+      "parameters": {
+        "text": "=Error: {{$node[\"Error Trigger\"].data[\"execution\"][\"error\"][\"message\"]}}\n\nStack Trace:\n{{$node[\"Error Trigger\"].data[\"execution\"][\"error\"][\"stack\"]}}",
+        "subject": "=Workflow Error:  {{$node[\"Error Trigger\"].data[\"workflow\"][\"name\"]}}",
+        "toEmail": "",
+        "fromEmail": ""
+      },
+      "credentials": {
+        "mailgunApi": ""
+      },
+      "typeVersion": 1
+    }
+  ],
+  "connections": {
+    "Error Trigger": {
+      "main": [
+        [
+          {
+            "node": "Mailgun",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "_metadata": {
+    "id": "",
+    "name": "Untitled Workflow",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 2,
+      "integrations": [
+        "mailgun",
+        "errorTrigger"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:49.316310",
+    "updated_at": "2025-07-07T19:41:49.316311",
+    "version": "1.0.0"
+  }
+}

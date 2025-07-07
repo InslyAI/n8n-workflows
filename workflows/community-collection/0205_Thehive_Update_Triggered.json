@@ -1,0 +1,49 @@
+{
+  "id": "161",
+  "name": "Receive updates when an event occurs in TheHive",
+  "nodes": [
+    {
+      "name": "TheHive Trigger",
+      "type": "n8n-nodes-base.theHiveTrigger",
+      "position": [
+        690,
+        220
+      ],
+      "webhookId": "bef3fea8-2d68-43e8-9061-6c17c1059c86",
+      "parameters": {
+        "events": [
+          "*"
+        ]
+      },
+      "typeVersion": 1
+    }
+  ],
+  "active": false,
+  "settings": {},
+  "connections": {},
+  "_metadata": {
+    "id": "161",
+    "name": "Receive updates when an event occurs in TheHive",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 1,
+      "integrations": [
+        "theHiveTrigger"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:48.692433",
+    "updated_at": "2025-07-07T19:41:48.692434",
+    "version": "1.0.0"
+  }
+}

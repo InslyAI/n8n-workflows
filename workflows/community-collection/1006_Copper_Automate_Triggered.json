@@ -1,0 +1,47 @@
+{
+  "nodes": [
+    {
+      "name": "Copper Trigger",
+      "type": "n8n-nodes-base.copperTrigger",
+      "position": [
+        890,
+        400
+      ],
+      "webhookId": "493ce79a-6a08-4062-86d9-7f4618b6c1ea",
+      "parameters": {
+        "event": "new",
+        "resource": "project"
+      },
+      "credentials": {
+        "copperApi": "copper_creds"
+      },
+      "typeVersion": 1
+    }
+  ],
+  "connections": {},
+  "_metadata": {
+    "id": "",
+    "name": "Untitled Workflow",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 1,
+      "integrations": [
+        "copperTrigger"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:49.002795",
+    "updated_at": "2025-07-07T19:41:49.002796",
+    "version": "1.0.0"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "52",
+  "name": "Trigger a build using the TravisCI node",
+  "nodes": [
+    {
+      "name": "On clicking 'execute'",
+      "type": "n8n-nodes-base.manualTrigger",
+      "position": [
+        510,
+        350
+      ],
+      "parameters": {},
+      "typeVersion": 1
+    },
+    {
+      "name": "TravisCI",
+      "type": "n8n-nodes-base.travisCi",
+      "position": [
+        710,
+        350
+      ],
+      "parameters": {
+        "slug": "",
+        "branch": "",
+        "operation": "trigger",
+        "additionalFields": {}
+      },
+      "credentials": {
+        "travisCiApi": "travisCI"
+      },
+      "typeVersion": 1
+    }
+  ],
+  "active": false,
+  "settings": {},
+  "connections": {
+    "TravisCI": {
+      "main": [
+        []
+      ]
+    },
+    "On clicking 'execute'": {
+      "main": [
+        [
+          {
+            "node": "TravisCI",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "_metadata": {
+    "id": "52",
+    "name": "Trigger a build using the TravisCI node",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 2,
+      "integrations": [
+        "manualTrigger",
+        "travisCi"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:49.584165",
+    "updated_at": "2025-07-07T19:41:49.584166",
+    "version": "1.0.0"
+  }
+}

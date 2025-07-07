@@ -1,0 +1,50 @@
+{
+  "id": "34",
+  "name": "Receive updates when a sale is made in Gumroad",
+  "nodes": [
+    {
+      "name": "Gumroad Trigger",
+      "type": "n8n-nodes-base.gumroadTrigger",
+      "position": [
+        1310,
+        700
+      ],
+      "webhookId": "d72f9547-0530-4733-9e8b-3e3b1beec2eb",
+      "parameters": {
+        "resource": "sale"
+      },
+      "credentials": {
+        "gumroadApi": "gumroad"
+      },
+      "typeVersion": 1
+    }
+  ],
+  "active": false,
+  "settings": {},
+  "connections": {},
+  "_metadata": {
+    "id": "34",
+    "name": "Receive updates when a sale is made in Gumroad",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 1,
+      "integrations": [
+        "gumroadTrigger"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:49.129915",
+    "updated_at": "2025-07-07T19:41:49.129916",
+    "version": "1.0.0"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "117",
+  "name": "Receive updates for changes in the specified list in Trello",
+  "nodes": [
+    {
+      "name": "Trello Trigger",
+      "type": "n8n-nodes-base.trelloTrigger",
+      "position": [
+        700,
+        250
+      ],
+      "parameters": {
+        "id": ""
+      },
+      "credentials": {
+        "trelloApi": ""
+      },
+      "typeVersion": 1
+    }
+  ],
+  "active": false,
+  "settings": {},
+  "connections": {},
+  "_metadata": {
+    "id": "117",
+    "name": "Receive updates for changes in the specified list in Trello",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 1,
+      "integrations": [
+        "trelloTrigger"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:49.254461",
+    "updated_at": "2025-07-07T19:41:49.254462",
+    "version": "1.0.0"
+  }
+}

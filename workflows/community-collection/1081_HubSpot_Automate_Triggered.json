@@ -1,0 +1,49 @@
+{
+  "nodes": [
+    {
+      "name": "Hubspot Trigger",
+      "type": "n8n-nodes-base.hubspotTrigger",
+      "position": [
+        700,
+        260
+      ],
+      "webhookId": "9fe8c037-be4f-4809-a7c2-96e509bfc52e",
+      "parameters": {
+        "appId": "dghert3",
+        "additionalFields": {
+          "maxConcurrentRequests": 5
+        }
+      },
+      "credentials": {
+        "hubspotDeveloperApi": "hubspot_trigger"
+      },
+      "typeVersion": 1
+    }
+  ],
+  "connections": {},
+  "_metadata": {
+    "id": "",
+    "name": "Untitled Workflow",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 1,
+      "integrations": [
+        "hubspotTrigger"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:49.241935",
+    "updated_at": "2025-07-07T19:41:49.241936",
+    "version": "1.0.0"
+  }
+}

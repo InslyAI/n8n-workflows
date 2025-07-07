@@ -1,0 +1,50 @@
+{
+  "id": "78",
+  "name": "Receive updates when a form is submitted in Wufoo",
+  "nodes": [
+    {
+      "name": "Wufoo Trigger",
+      "type": "n8n-nodes-base.wufooTrigger",
+      "position": [
+        1290,
+        140
+      ],
+      "webhookId": "106376c5-b49c-412f-8463-4db23a23c057",
+      "parameters": {
+        "form": "n8n"
+      },
+      "credentials": {
+        "wufooApi": "wufoo"
+      },
+      "typeVersion": 1
+    }
+  ],
+  "active": false,
+  "settings": {},
+  "connections": {},
+  "_metadata": {
+    "id": "78",
+    "name": "Receive updates when a form is submitted in Wufoo",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 1,
+      "integrations": [
+        "wufooTrigger"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:49.032955",
+    "updated_at": "2025-07-07T19:41:49.032956",
+    "version": "1.0.0"
+  }
+}

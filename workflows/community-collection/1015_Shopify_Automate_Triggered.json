@@ -1,0 +1,46 @@
+{
+  "nodes": [
+    {
+      "name": "Shopify Trigger",
+      "type": "n8n-nodes-base.shopifyTrigger",
+      "position": [
+        450,
+        450
+      ],
+      "webhookId": "fd11b3d8-ff82-4902-89cc-c93b36ae38e7",
+      "parameters": {
+        "topic": "orders/create"
+      },
+      "credentials": {
+        "shopifyApi": "shopify_creds"
+      },
+      "typeVersion": 1
+    }
+  ],
+  "connections": {},
+  "_metadata": {
+    "id": "",
+    "name": "Untitled Workflow",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 1,
+      "integrations": [
+        "shopifyTrigger"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:49.502580",
+    "updated_at": "2025-07-07T19:41:49.502581",
+    "version": "1.0.0"
+  }
+}

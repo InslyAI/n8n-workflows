@@ -1,0 +1,49 @@
+{
+  "id": "51",
+  "name": "Receive messages for a MQTT queue",
+  "nodes": [
+    {
+      "name": "MQTT Trigger",
+      "type": "n8n-nodes-base.mqttTrigger",
+      "position": [
+        690,
+        260
+      ],
+      "parameters": {
+        "options": {}
+      },
+      "credentials": {
+        "mqtt": "mqtt"
+      },
+      "typeVersion": 1
+    }
+  ],
+  "active": false,
+  "settings": {},
+  "connections": {},
+  "_metadata": {
+    "id": "51",
+    "name": "Receive messages for a MQTT queue",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 1,
+      "integrations": [
+        "mqttTrigger"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:49.408015",
+    "updated_at": "2025-07-07T19:41:49.408016",
+    "version": "1.0.0"
+  }
+}

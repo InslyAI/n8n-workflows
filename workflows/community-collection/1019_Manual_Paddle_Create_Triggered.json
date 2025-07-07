@@ -1,0 +1,80 @@
+{
+  "id": "54",
+  "name": "Create a coupon on Paddle",
+  "nodes": [
+    {
+      "name": "On clicking 'execute'",
+      "type": "n8n-nodes-base.manualTrigger",
+      "position": [
+        550,
+        260
+      ],
+      "parameters": {},
+      "typeVersion": 1
+    },
+    {
+      "name": "Paddle",
+      "type": "n8n-nodes-base.paddle",
+      "position": [
+        750,
+        260
+      ],
+      "parameters": {
+        "discountAmount": 2,
+        "additionalFields": {
+          "couponCode": "n8n-docs"
+        }
+      },
+      "credentials": {
+        "paddleApi": "paddle"
+      },
+      "typeVersion": 1
+    }
+  ],
+  "active": false,
+  "settings": {},
+  "connections": {
+    "Paddle": {
+      "main": [
+        []
+      ]
+    },
+    "On clicking 'execute'": {
+      "main": [
+        [
+          {
+            "node": "Paddle",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "_metadata": {
+    "id": "54",
+    "name": "Create a coupon on Paddle",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 2,
+      "integrations": [
+        "paddle",
+        "manualTrigger"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:48.703224",
+    "updated_at": "2025-07-07T19:41:48.703225",
+    "version": "1.0.0"
+  }
+}

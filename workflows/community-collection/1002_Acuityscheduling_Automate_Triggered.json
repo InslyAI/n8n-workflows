@@ -1,0 +1,46 @@
+{
+  "nodes": [
+    {
+      "name": "Acuity Scheduling Trigger",
+      "type": "n8n-nodes-base.acuitySchedulingTrigger",
+      "position": [
+        880,
+        400
+      ],
+      "webhookId": "b326732d-9473-469f-a421-dd823d26b945",
+      "parameters": {
+        "event": "appointment.scheduled"
+      },
+      "credentials": {
+        "acuitySchedulingApi": "acuity_creds"
+      },
+      "typeVersion": 1
+    }
+  ],
+  "connections": {},
+  "_metadata": {
+    "id": "",
+    "name": "Untitled Workflow",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 1,
+      "integrations": [
+        "acuitySchedulingTrigger"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:48.695212",
+    "updated_at": "2025-07-07T19:41:48.695213",
+    "version": "1.0.0"
+  }
+}

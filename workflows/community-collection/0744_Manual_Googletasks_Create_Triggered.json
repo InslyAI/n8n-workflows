@@ -1,0 +1,73 @@
+{
+  "id": "2",
+  "name": "Add task to tasklist",
+  "nodes": [
+    {
+      "name": "On clicking 'execute'",
+      "type": "n8n-nodes-base.manualTrigger",
+      "position": [
+        500,
+        310
+      ],
+      "parameters": {},
+      "typeVersion": 1
+    },
+    {
+      "name": "Google Tasks",
+      "type": "n8n-nodes-base.googleTasks",
+      "position": [
+        920,
+        310
+      ],
+      "parameters": {
+        "task": "MDY3OTAyNjUyMDk5NDY5ODIzMzM6MDow",
+        "additionalFields": {}
+      },
+      "credentials": {
+        "googleTasksOAuth2Api": "shraddha"
+      },
+      "typeVersion": 1
+    }
+  ],
+  "active": false,
+  "settings": {},
+  "connections": {
+    "On clicking 'execute'": {
+      "main": [
+        [
+          {
+            "node": "Google Tasks",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "_metadata": {
+    "id": "2",
+    "name": "Add task to tasklist",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 2,
+      "integrations": [
+        "manualTrigger",
+        "googleTasks"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:48.676632",
+    "updated_at": "2025-07-07T19:41:48.676633",
+    "version": "1.0.0"
+  }
+}

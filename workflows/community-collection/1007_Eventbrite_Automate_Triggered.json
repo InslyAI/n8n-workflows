@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "name": "Eventbrite Trigger",
+      "type": "n8n-nodes-base.eventbriteTrigger",
+      "position": [
+        880,
+        400
+      ],
+      "webhookId": "90ebf00a-536b-4553-b879-2e2c3e35bd60",
+      "parameters": {
+        "event": "114095913950",
+        "actions": [
+          "order.placed",
+          "order.updated",
+          "order.refunded"
+        ],
+        "organization": "461207981776"
+      },
+      "credentials": {
+        "eventbriteApi": "eventbrite api"
+      },
+      "typeVersion": 1
+    }
+  ],
+  "connections": {},
+  "_metadata": {
+    "id": "",
+    "name": "Untitled Workflow",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 1,
+      "integrations": [
+        "eventbriteTrigger"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:48.789790",
+    "updated_at": "2025-07-07T19:41:48.789791",
+    "version": "1.0.0"
+  }
+}

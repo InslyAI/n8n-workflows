@@ -1,0 +1,77 @@
+{
+  "id": "7",
+  "name": "Publish post to a publication",
+  "nodes": [
+    {
+      "name": "On clicking 'execute'",
+      "type": "n8n-nodes-base.manualTrigger",
+      "position": [
+        600,
+        300
+      ],
+      "parameters": {},
+      "typeVersion": 1
+    },
+    {
+      "name": "Medium",
+      "type": "n8n-nodes-base.medium",
+      "position": [
+        800,
+        300
+      ],
+      "parameters": {
+        "title": "",
+        "content": "",
+        "publication": true,
+        "contentFormat": "",
+        "publicationId": "",
+        "additionalFields": {}
+      },
+      "credentials": {
+        "mediumApi": "medium"
+      },
+      "typeVersion": 1
+    }
+  ],
+  "active": false,
+  "settings": {},
+  "connections": {
+    "On clicking 'execute'": {
+      "main": [
+        [
+          {
+            "node": "Medium",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "_metadata": {
+    "id": "7",
+    "name": "Publish post to a publication",
+    "description": "",
+    "source": "community-collection",
+    "category": {
+      "business": "",
+      "platform": "",
+      "type": "automation"
+    },
+    "metadata": {
+      "complexity": "beginner",
+      "department": "",
+      "nodes_count": 2,
+      "integrations": [
+        "manualTrigger",
+        "medium"
+      ],
+      "estimated_cost": "medium",
+      "security_level": "public"
+    },
+    "tags": [],
+    "created_at": "2025-07-07T19:41:49.159380",
+    "updated_at": "2025-07-07T19:41:49.159380",
+    "version": "1.0.0"
+  }
+}
