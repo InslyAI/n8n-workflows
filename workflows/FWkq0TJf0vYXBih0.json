@@ -14,7 +14,7 @@
       "type": "n8n-nodes-base.stickyNote",
       "typeVersion": 1,
       "position": [
-        -1294,
+        -1510,
         798
       ]
     },
@@ -285,7 +285,7 @@
     "executionOrder": "v1"
   },
   "triggerCount": 0,
-  "versionId": "13a099f3-4652-401e-bd35-f15629308aa4",
+  "versionId": "faa1d228-2f77-4560-8483-b43b93058e6f",
   "owner": {
     "type": "team",
     "teamId": "93UPEJ5w4eVYSKqr",

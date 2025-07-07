@@ -1,0 +1,17 @@
+{
+  "id": "PRkIoHOllw1VRqzH",
+  "name": "Postgres account",
+  "type": "postgres",
+  "data": {
+    "host": "",
+    "database": "",
+    "user": "",
+    "password": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "zUUxYsdCetYnmkLp",
+    "projectName": "ANDO KIVILAID <ando@insly.com>",
+    "personalEmail": "ando@insly.com"
+  }
+}

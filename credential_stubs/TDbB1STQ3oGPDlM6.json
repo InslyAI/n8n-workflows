@@ -1,0 +1,14 @@
+{
+  "id": "TDbB1STQ3oGPDlM6",
+  "name": "Bearer Auth account",
+  "type": "httpBearerAuth",
+  "data": {
+    "token": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "zUUxYsdCetYnmkLp",
+    "projectName": "ANDO KIVILAID <ando@insly.com>",
+    "personalEmail": "ando@insly.com"
+  }
+}
