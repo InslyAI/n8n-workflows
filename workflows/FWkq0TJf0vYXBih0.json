@@ -1,0 +1,296 @@
+{
+  "id": "FWkq0TJf0vYXBih0",
+  "name": "My workflow",
+  "nodes": [
+    {
+      "parameters": {
+        "content": "Automated workflow: Daily Student Motivation",
+        "height": 530,
+        "width": 1100,
+        "color": 5
+      },
+      "id": "b167fe3b-4a88-4e45-894f-c8ce83c32dfb",
+      "name": "Sticky Note",
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [
+        -1294,
+        798
+      ]
+    },
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "daily-student-motivation",
+        "options": {}
+      },
+      "id": "82fc5078-e9e7-47dd-af78-7338f1267c58",
+      "name": "Webhook Trigger",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 1,
+      "position": [
+        -1008,
+        960
+      ],
+      "webhookId": "34b04802-eea8-4331-a1ba-44ee702c25e2"
+    },
+    {
+      "parameters": {
+        "chunkSize": 400,
+        "chunkOverlap": 40
+      },
+      "id": "155b6975-3a03-4bee-8a27-5e7c82b4fd80",
+      "name": "Text Splitter",
+      "type": "@n8n/n8n-nodes-langchain.textSplitterCharacterTextSplitter",
+      "typeVersion": 1,
+      "position": [
+        -1008,
+        1184
+      ]
+    },
+    {
+      "parameters": {
+        "model": "text-embedding-3-small",
+        "options": {}
+      },
+      "id": "f2f5832a-12bb-4453-b6a5-c4c20a5ceba8",
+      "name": "Embeddings",
+      "type": "@n8n/n8n-nodes-langchain.embeddingsOpenAi",
+      "typeVersion": 1,
+      "position": [
+        -656,
+        560
+      ]
+    },
+    {
+      "parameters": {
+        "mode": "insert",
+        "weaviateCollection": {
+          "__rl": true,
+          "mode": "list",
+          "value": ""
+        },
+        "options": {}
+      },
+      "id": "30b48943-a3e2-4da0-954a-64539218b717",
+      "name": "Weaviate Insert",
+      "type": "@n8n/n8n-nodes-langchain.vectorStoreWeaviate",
+      "typeVersion": 1,
+      "position": [
+        -880,
+        736
+      ]
+    },
+    {
+      "parameters": {
+        "weaviateCollection": {
+          "__rl": true,
+          "mode": "list",
+          "value": ""
+        },
+        "options": {}
+      },
+      "id": "ed67d17a-cde8-42c9-af4d-dd9bf27f7238",
+      "name": "Weaviate Query",
+      "type": "@n8n/n8n-nodes-langchain.vectorStoreWeaviate",
+      "typeVersion": 1,
+      "position": [
+        -752,
+        352
+      ]
+    },
+    {
+      "parameters": {
+        "name": "Weaviate",
+        "description": "Vector context"
+      },
+      "id": "dc1ffbd3-fe34-4348-be83-d4cecb2756b8",
+      "name": "Vector Tool",
+      "type": "@n8n/n8n-nodes-langchain.toolVectorStore",
+      "typeVersion": 1,
+      "position": [
+        -752,
+        144
+      ]
+    },
+    {
+      "parameters": {},
+      "id": "20ef0b63-9387-472f-b70a-544fcb904733",
+      "name": "Window Memory",
+      "type": "@n8n/n8n-nodes-langchain.memoryBufferWindow",
+      "typeVersion": 1.3,
+      "position": [
+        -880,
+        144
+      ]
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "id": "aadbcb12-019e-4260-a00a-7afe0f27190b",
+      "name": "Chat Model",
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1,
+      "position": [
+        -1008,
+        144
+      ]
+    },
+    {
+      "parameters": {
+        "text": "Process the following data for task 'Daily Student Motivation':\n\n{{ $json }}",
+        "options": {
+          "systemMessage": "You are an assistant for Daily Student Motivation"
+        }
+      },
+      "id": "5d4e3cd8-5808-4852-8350-4e305f43f088",
+      "name": "RAG Agent",
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 1,
+      "position": [
+        -976,
+        -80
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "append",
+        "documentId": {
+          "__rl": true,
+          "value": "SHEET_ID",
+          "mode": "list",
+          "cachedResultName": "Daily Student Motivation"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": "Log",
+          "mode": "list",
+          "cachedResultName": "Log"
+        },
+        "columns": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "Status": "={{$json[\"RAG Agent\"].text}}"
+          },
+          "schema": []
+        },
+        "options": {}
+      },
+      "id": "581eed6d-721c-4be4-a37d-39a0a55c0351",
+      "name": "Append Sheet",
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4,
+      "position": [
+        -352,
+        136
+      ]
+    },
+    {
+      "parameters": {
+        "channel": "#alerts",
+        "text": "Daily Student Motivation error: {$json.error.message}",
+        "otherOptions": {},
+        "attachments": []
+      },
+      "id": "486c2d1a-7804-4c70-87a0-8bae9528f777",
+      "name": "Slack Alert",
+      "type": "n8n-nodes-base.slack",
+      "typeVersion": 1,
+      "position": [
+        -352,
+        328
+      ]
+    }
+  ],
+  "connections": {
+    "Embeddings": {
+      "ai_embedding": [
+        [
+          {
+            "node": "Weaviate Insert",
+            "type": "ai_embedding",
+            "index": 0
+          },
+          {
+            "node": "Weaviate Query",
+            "type": "ai_embedding",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Weaviate Query": {
+      "ai_vectorStore": [
+        [
+          {
+            "node": "Vector Tool",
+            "type": "ai_vectorStore",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Vector Tool": {
+      "ai_tool": [
+        [
+          {
+            "node": "RAG Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Window Memory": {
+      "ai_memory": [
+        [
+          {
+            "node": "RAG Agent",
+            "type": "ai_memory",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Chat Model": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "RAG Agent",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "RAG Agent": {
+      "main": [
+        [
+          {
+            "node": "Append Sheet",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Slack Alert",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "triggerCount": 0,
+  "versionId": "13a099f3-4652-401e-bd35-f15629308aa4",
+  "owner": {
+    "type": "team",
+    "teamId": "93UPEJ5w4eVYSKqr",
+    "teamName": "Templates"
+  },
+  "parentFolderId": null,
+  "isArchived": false
+}
